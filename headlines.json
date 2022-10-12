@@ -1,5 +1,28 @@
 [
   {
+    "id": 6229572,
+    "slug": "abn-amro-voorspelt-dat-huizenprijzen-volgend-jaar-met-25-procent-dalen",
+    "type": "article",
+    "title": "ABN AMRO voorspelt dat huizenprijzen volgend jaar met 2,5 procent dalen",
+    "subtitle": null,
+    "published_at": "2022-10-13T01:07:44+02:00",
+    "updated_at": "2022-10-13T01:07:45+02:00",
+    "media_id": "ga5xjcsa6fwb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772342,
+      "slug": "wonen",
+      "type": "default",
+      "name": "Wonen",
+      "style": "nuzakelijk",
+      "media_id": "3qlxtaiahydl",
+      "partner": null
+    },
+    "url": "/wonen/6229572/abn-amro-voorspelt-dat-huizenprijzen-volgend-jaar-met-25-procent-dalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6229571,
     "slug": "verenigde-naties-veroordelen-russische-annexatie-bezette-oekraiense-regios",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6229383/koningspaar-willem-alexander-en-maxima-op-staatsbezoek-in-zweden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229536,
-    "slug": "bijna-500-walvissen-overleden-na-stranding-op-nieuw-zeelandse-eilanden",
-    "type": "article",
-    "title": "Bijna 500 walvissen overleden na stranding op Nieuw-Zeelandse eilanden",
-    "subtitle": null,
-    "published_at": "2022-10-12T20:21:28+02:00",
-    "updated_at": "2022-10-12T20:21:29+02:00",
-    "media_id": "ybrxmppaj6fx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6229536/bijna-500-walvissen-overleden-na-stranding-op-nieuw-zeelandse-eilanden.html",
     "open_new_window": false,
     "partner": null
   }
