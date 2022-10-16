@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230250,
+    "slug": "duikinstructeur-overleden-na-ernstig-incident-in-zwembad-amstelveen",
+    "type": "article",
+    "title": "Duikinstructeur overleden na ernstig incident in zwembad Amstelveen",
+    "subtitle": null,
+    "published_at": "2022-10-16T15:46:51+02:00",
+    "updated_at": "2022-10-16T15:51:19+02:00",
+    "media_id": "w6wxcriam9s4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230250/duikinstructeur-overleden-na-ernstig-incident-in-zwembad-amstelveen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230248,
     "slug": "nederland-zit-volgens-dnb-baas-centrale-bank-in-de-weg-met-inflatiesteun",
     "type": "article",
     "title": "Nederland zit volgens DNB-baas centrale bank in de weg met inflatiesteun",
     "subtitle": null,
     "published_at": "2022-10-16T15:41:59+02:00",
-    "updated_at": "2022-10-16T15:42:17+02:00",
+    "updated_at": "2022-10-16T15:45:22+02:00",
     "media_id": "871xu68amdat",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Feyenoord met Dilrosun tegen AZ, Bazoer weer op de bank bij Alkmaarders",
     "subtitle": null,
     "published_at": "2022-10-16T15:38:59+02:00",
-    "updated_at": "2022-10-16T15:39:00+02:00",
-    "media_id": "jdvxajgaea6t",
+    "updated_at": "2022-10-16T15:47:20+02:00",
+    "media_id": "z3lxoo7az49d",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -70,24 +93,24 @@
   },
   {
     "id": 6230237,
-    "slug": "het-wordt-steeds-drukker-op-zee-maar-zeezoogdieren-stranden-niet-vaker",
+    "slug": "het-wordt-steeds-drukker-op-zee-maar-dieren-stranden-niet-vaker",
     "type": "article",
-    "title": "Het wordt steeds drukker op zee, maar zeezoogdieren stranden niet vaker",
+    "title": "Het wordt steeds drukker op zee, maar dieren stranden niet vaker",
     "subtitle": null,
     "published_at": "2022-10-16T15:36:56+02:00",
-    "updated_at": "2022-10-16T15:36:57+02:00",
+    "updated_at": "2022-10-16T15:43:57+02:00",
     "media_id": "m1mxrnjam8h7",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1772536,
+      "slug": "dieren",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Dieren",
+      "style": "nunjij",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6230237/het-wordt-steeds-drukker-op-zee-maar-zeezoogdieren-stranden-niet-vaker.html",
+    "url": "/dieren/6230237/het-wordt-steeds-drukker-op-zee-maar-dieren-stranden-niet-vaker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Feyenoord-aanvoerder Kökçü weigert vanwege religie regenboogband te dragen",
     "subtitle": null,
     "published_at": "2022-10-16T15:29:17+02:00",
-    "updated_at": "2022-10-16T15:35:02+02:00",
+    "updated_at": "2022-10-16T15:52:26+02:00",
     "media_id": "m5ixsa6ah5n2",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6230244,
-    "slug": "nederlander-bax-verdient-met-eerste-wielerzege-ooit-transfer-naar-ploeg-pogacar",
+    "slug": "nederlander-bax-verdient-met-zijn-eerste-wielerzege-transfer-naar-ploeg-pogacar",
     "type": "article",
-    "title": "Nederlander Bax verdient met eerste wielerzege ooit transfer naar ploeg Pogacar",
+    "title": "Nederlander Bax verdient met zijn eerste wielerzege transfer naar ploeg Pogacar",
     "subtitle": null,
     "published_at": "2022-10-16T15:28:29+02:00",
-    "updated_at": "2022-10-16T15:36:43+02:00",
+    "updated_at": "2022-10-16T15:43:51+02:00",
     "media_id": "70nxmnlam2ep",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6230244/nederlander-bax-verdient-met-eerste-wielerzege-ooit-transfer-naar-ploeg-pogacar.html",
+    "url": "/wielrennen/6230244/nederlander-bax-verdient-met-zijn-eerste-wielerzege-transfer-naar-ploeg-pogacar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +231,12 @@
   },
   {
     "id": 6230235,
-    "slug": "luik-overklast-van-bommels-antwerp-toulouse-wint-dankzij-nederlanders",
+    "slug": "standard-overklast-van-bommels-antwerp-toulouse-wint-dankzij-nederlanders",
     "type": "article",
-    "title": "Luik overklast Van Bommels Antwerp, Toulouse wint dankzij Nederlanders",
+    "title": "Standard overklast Van Bommels Antwerp, Toulouse wint dankzij Nederlanders",
     "subtitle": null,
     "published_at": "2022-10-16T14:23:44+02:00",
-    "updated_at": "2022-10-16T15:40:19+02:00",
+    "updated_at": "2022-10-16T15:57:36+02:00",
     "media_id": "vkdxhzxafzet",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230235/luik-overklast-van-bommels-antwerp-toulouse-wint-dankzij-nederlanders.html",
+    "url": "/voetbal/6230235/standard-overklast-van-bommels-antwerp-toulouse-wint-dankzij-nederlanders.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Verdachten van moord op IKON-journalisten na 40 jaar opgepakt in El Salvador",
     "subtitle": null,
     "published_at": "2022-10-16T13:23:12+02:00",
-    "updated_at": "2022-10-16T14:27:25+02:00",
+    "updated_at": "2022-10-16T15:49:58+02:00",
     "media_id": "sebxdloauibg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/werk/6229736/kay-roel-en-julie-verkopen-vintage-mensen-zijn-verrast-door-de-frisse-geur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230223,
-    "slug": "vogelgriep-vastgesteld-bij-limburgse-kalkoenhouder-drie-bedrijven-geruimd",
-    "type": "article",
-    "title": "Vogelgriep vastgesteld bij Limburgse kalkoenhouder, drie bedrijven geruimd",
-    "subtitle": null,
-    "published_at": "2022-10-16T11:53:04+02:00",
-    "updated_at": "2022-10-16T11:57:52+02:00",
-    "media_id": "5xlx2sgakrvo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6230223/vogelgriep-vastgesteld-bij-limburgse-kalkoenhouder-drie-bedrijven-geruimd.html",
     "open_new_window": false,
     "partner": null
   }
