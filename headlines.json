@@ -1,5 +1,51 @@
 [
   {
+    "id": 6230479,
+    "slug": "politie-pakt-stropers-op-in-mill-nadat-ze-frontaal-op-handhavingsauto-botsen",
+    "type": "article",
+    "title": "Politie pakt stropers op in Mill nadat ze frontaal op handhavingsauto botsen",
+    "subtitle": null,
+    "published_at": "2022-10-17T17:40:26+02:00",
+    "updated_at": "2022-10-17T17:40:27+02:00",
+    "media_id": "n52xpoeavdsl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6230479/politie-pakt-stropers-op-in-mill-nadat-ze-frontaal-op-handhavingsauto-botsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230415,
+    "slug": "staat-krijgt-geen-uitstel-om-noodopvang-van-vluchtelingen-te-verbeteren",
+    "type": "article",
+    "title": "Staat krijgt geen uitstel om noodopvang van vluchtelingen te verbeteren",
+    "subtitle": null,
+    "published_at": "2022-10-17T17:30:06+02:00",
+    "updated_at": "2022-10-17T17:30:06+02:00",
+    "media_id": "dgdxb1gaynzt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779109,
+      "slug": "asielcrisis",
+      "type": "default",
+      "name": "Asielcrisis",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/asielcrisis/6230415/staat-krijgt-geen-uitstel-om-noodopvang-van-vluchtelingen-te-verbeteren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230475,
     "slug": "bereal-steeds-populairder-onder-jongeren-een-op-de-drie-heeft-de-fotoapp",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Rabobank verhoogt rente voor een deel van zijn spaarders",
     "subtitle": null,
     "published_at": "2022-10-17T17:27:03+02:00",
-    "updated_at": "2022-10-17T17:27:05+02:00",
+    "updated_at": "2022-10-17T17:50:05+02:00",
     "media_id": "xrexq7kaa340",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6230470,
-    "slug": "koeman-vindt-in-feyenoorder-hulshoff-tweede-assistent-bij-nederlands-elftal",
+    "slug": "toekomstig-bondscoach-koeman-vindt-in-hulshoff-extra-assistent-bij-oranje",
     "type": "article",
-    "title": "Koeman vindt in Feyenoorder Hulshoff tweede assistent bij Nederlands elftal",
+    "title": "Toekomstig bondscoach Koeman vindt in Hulshoff extra assistent bij Oranje",
     "subtitle": null,
     "published_at": "2022-10-17T17:15:08+02:00",
-    "updated_at": "2022-10-17T17:24:49+02:00",
+    "updated_at": "2022-10-17T17:53:08+02:00",
     "media_id": "gatxzx9abo4c",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230470/koeman-vindt-in-feyenoorder-hulshoff-tweede-assistent-bij-nederlands-elftal.html",
+    "url": "/voetbal/6230470/toekomstig-bondscoach-koeman-vindt-in-hulshoff-extra-assistent-bij-oranje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "OM eist tien jaar celstraf voor doodrijden vrouwen op scooter in Alblasserdam",
     "subtitle": null,
     "published_at": "2022-10-17T17:09:12+02:00",
-    "updated_at": "2022-10-17T17:09:13+02:00",
+    "updated_at": "2022-10-17T17:29:59+02:00",
     "media_id": "mb3x6u8ahap6",
     "duration": null,
     "canonical_section": {
@@ -139,12 +185,12 @@
   },
   {
     "id": 6230463,
-    "slug": "buijs-na-twaalf-duels-ontslagen-als-trainer-van-laagvlieger-mechelen",
+    "slug": "buijs-na-twaalf-duels-ontslagen-als-trainer-van-laagvlieger-kv-mechelen",
     "type": "article",
-    "title": "Buijs na twaalf duels ontslagen als trainer van laagvlieger Mechelen",
+    "title": "Buijs na twaalf duels ontslagen als trainer van laagvlieger KV Mechelen",
     "subtitle": null,
     "published_at": "2022-10-17T17:04:31+02:00",
-    "updated_at": "2022-10-17T17:26:17+02:00",
+    "updated_at": "2022-10-17T17:38:03+02:00",
     "media_id": "b19xuiiapzo1",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230463/buijs-na-twaalf-duels-ontslagen-als-trainer-van-laagvlieger-mechelen.html",
+    "url": "/voetbal/6230463/buijs-na-twaalf-duels-ontslagen-als-trainer-van-laagvlieger-kv-mechelen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6230435/danny-ghosen-spreekt-familie-van-overleden-arbeiders-in-docu-over-wk-in-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230424,
-    "slug": "amerikaanse-gevechtsvliegtuigen-trainen-op-vliegbasis-leeuwarden",
-    "type": "video",
-    "title": "Amerikaanse gevechtsvliegtuigen trainen op Vliegbasis Leeuwarden",
-    "subtitle": "Video",
-    "published_at": "2022-10-17T14:13:15+02:00",
-    "updated_at": "2022-10-17T14:13:16+02:00",
-    "media_id": "yhaxz0xazleo",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230424/amerikaanse-gevechtsvliegtuigen-trainen-op-vliegbasis-leeuwarden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230404,
-    "slug": "zestien-artsen-beboet-vanwege-voorschrijven-onbewezen-coronamedicijn",
-    "type": "article",
-    "title": "Zestien artsen beboet vanwege voorschrijven onbewezen 'coronamedicijn'",
-    "subtitle": null,
-    "published_at": "2022-10-17T14:09:02+02:00",
-    "updated_at": "2022-10-17T14:09:03+02:00",
-    "media_id": "d0exjuoa6ajw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6230404/zestien-artsen-beboet-vanwege-voorschrijven-onbewezen-coronamedicijn.html",
     "open_new_window": false,
     "partner": null
   }
