@@ -1,5 +1,28 @@
 [
   {
+    "id": 6230584,
+    "slug": "wielerjaar-afgesloten-met-nederlandse-zege-lotto-soudal-en-israel-degraderen",
+    "type": "article",
+    "title": "Wielerjaar afgesloten met Nederlandse zege, Lotto Soudal en Israel degraderen",
+    "subtitle": null,
+    "published_at": "2022-10-18T11:37:51+02:00",
+    "updated_at": "2022-10-18T11:37:52+02:00",
+    "media_id": "i9hxrqaa78wm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6230584/wielerjaar-afgesloten-met-nederlandse-zege-lotto-soudal-en-israel-degraderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230593,
     "slug": "fifa-voorzitter-infantino-wil-dat-indonesie-veiligheid-in-stadions-verbetert",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nieuwe streamingdienst SkyShowtime kost in Nederland 6,99 euro per maand",
     "subtitle": null,
     "published_at": "2022-10-18T10:51:44+02:00",
-    "updated_at": "2022-10-18T10:51:45+02:00",
+    "updated_at": "2022-10-18T11:30:25+02:00",
     "media_id": "ol6xxe6ar1hw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6230542/dertien-doden-door-neerstorten-gevechtsvliegtuig-op-russisch-flatgebouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230539,
-    "slug": "belastingdienst-ontving-tienduizenden-tips-over-fraude-maar-doet-er-niets-mee",
-    "type": "article",
-    "title": "Belastingdienst ontving tienduizenden tips over fraude, maar doet er niets mee",
-    "subtitle": null,
-    "published_at": "2022-10-18T06:37:16+02:00",
-    "updated_at": "2022-10-18T07:50:22+02:00",
-    "media_id": "fihx10faof41",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6230539/belastingdienst-ontving-tienduizenden-tips-over-fraude-maar-doet-er-niets-mee.html",
     "open_new_window": false,
     "partner": null
   }
