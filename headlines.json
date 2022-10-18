@@ -1,5 +1,28 @@
 [
   {
+    "id": 6230725,
+    "slug": "fc-eindhoven-klopt-willem-ii-door-vroege-goal-in-eerste-ronde-van-bekertoernooi",
+    "type": "article",
+    "title": "FC Eindhoven klopt Willem II door vroege goal in eerste ronde van bekertoernooi",
+    "subtitle": null,
+    "published_at": "2022-10-18T20:40:43+02:00",
+    "updated_at": "2022-10-18T20:40:44+02:00",
+    "media_id": "xyyxtt8acuml",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230725/fc-eindhoven-klopt-willem-ii-door-vroege-goal-in-eerste-ronde-van-bekertoernooi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230724,
     "slug": "nieuwe-beelden-tonen-hoe-russische-straaljager-flat-in-vliegt",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6230723,
-    "slug": "kamer-wil-dat-koning-belasting-gaat-betalen-over-inkomsten",
+    "slug": "tweede-kamer-wil-dat-koning-belasting-gaat-betalen-over-inkomsten",
     "type": "article",
-    "title": "Kamer wil dat koning belasting gaat betalen over inkomsten",
+    "title": "Tweede Kamer wil dat koning belasting gaat betalen over inkomsten",
     "subtitle": null,
     "published_at": "2022-10-18T19:56:26+02:00",
-    "updated_at": "2022-10-18T19:56:27+02:00",
+    "updated_at": "2022-10-18T20:16:21+02:00",
     "media_id": "9pjx6axafxzl",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6230723/kamer-wil-dat-koning-belasting-gaat-betalen-over-inkomsten.html",
+    "url": "/koningshuis/6230723/tweede-kamer-wil-dat-koning-belasting-gaat-betalen-over-inkomsten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Landmacht krijgt voor het eerst sinds 2004 weer raketartillerie",
     "subtitle": null,
     "published_at": "2022-10-18T19:56:02+02:00",
-    "updated_at": "2022-10-18T19:56:03+02:00",
+    "updated_at": "2022-10-18T20:22:21+02:00",
     "media_id": "q08xnqkaekqm",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Nederland stapt uit omstreden energieverdrag: 'Staat klimaatdoelen eerder in de weg'",
     "subtitle": null,
     "published_at": "2022-10-18T19:29:13+02:00",
-    "updated_at": "2022-10-18T19:59:14+02:00",
+    "updated_at": "2022-10-18T20:25:18+02:00",
     "media_id": "sbbx7u9avrr5",
     "duration": null,
     "canonical_section": {
@@ -162,13 +185,13 @@
   },
   {
     "id": 6230703,
-    "slug": "willem-ii-op-achterstand-acht-duels-op-punt-van-beginnen",
+    "slug": "amateurs-hoek-leiden-tegen-heerenveen-ook-problemen-voor-den-bosch",
     "type": "article",
-    "title": "Willem II op achterstand, acht duels op punt van beginnen",
+    "title": "Amateurs Hoek leiden tegen Heerenveen, ook problemen voor Den Bosch",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2022-10-18T18:30:34+02:00",
-    "updated_at": "2022-10-18T19:56:10+02:00",
-    "media_id": "8t9xptka3z3f",
+    "updated_at": "2022-10-18T20:44:26+02:00",
+    "media_id": "6tqxvbsaql4i",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230703/willem-ii-op-achterstand-acht-duels-op-punt-van-beginnen.html",
+    "url": "/voetbal/6230703/amateurs-hoek-leiden-tegen-heerenveen-ook-problemen-voor-den-bosch.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6230639/mallorca-zaak-nadert-climax-wat-viel-onze-verslaggever-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230675,
-    "slug": "brussel-wil-dat-eu-landen-samen-gas-gaan-inkopen",
-    "type": "article",
-    "title": "Brussel wil dat EU-landen samen gas gaan inkopen",
-    "subtitle": null,
-    "published_at": "2022-10-18T17:07:18+02:00",
-    "updated_at": "2022-10-18T17:14:11+02:00",
-    "media_id": "oujxtvdauuw6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6230675/brussel-wil-dat-eu-landen-samen-gas-gaan-inkopen.html",
     "open_new_window": false,
     "partner": null
   }
