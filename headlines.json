@@ -1,12 +1,35 @@
 [
   {
-    "id": 6230982,
-    "slug": "k-popgroep-bts-mag-tijdens-tijd-in-leger-optreden-op-speciale-evenementen",
+    "id": 6230983,
+    "slug": "van-nistelrooij-overweegt-vijf-verdedigers-tegen-arsenal-van-voorbeeld-arteta",
     "type": "article",
-    "title": "K-popgroep BTS mag tijdens tijd in leger optreden op speciale evenementen",
+    "title": "Van Nistelrooij overweegt vijf verdedigers tegen Arsenal van 'voorbeeld' Arteta",
+    "subtitle": null,
+    "published_at": "2022-10-19T21:15:34+02:00",
+    "updated_at": "2022-10-19T21:29:57+02:00",
+    "media_id": "31dx43qa3f19",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230983/van-nistelrooij-overweegt-vijf-verdedigers-tegen-arsenal-van-voorbeeld-arteta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230982,
+    "slug": "k-popgroep-bts-mag-tijdens-dienstplicht-toch-ook-af-en-toe-optreden",
+    "type": "article",
+    "title": "K-popgroep BTS mag tijdens dienstplicht toch ook af en toe optreden",
     "subtitle": null,
     "published_at": "2022-10-19T21:07:53+02:00",
-    "updated_at": "2022-10-19T21:07:54+02:00",
+    "updated_at": "2022-10-19T21:12:28+02:00",
     "media_id": "196x9h3a1z4v",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6230982/k-popgroep-bts-mag-tijdens-tijd-in-leger-optreden-op-speciale-evenementen.html",
+    "url": "/muziek/6230982/k-popgroep-bts-mag-tijdens-dienstplicht-toch-ook-af-en-toe-optreden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Amsterdam wil komst complotdenker Icke tegenhouden",
     "subtitle": null,
     "published_at": "2022-10-19T20:43:51+02:00",
-    "updated_at": "2022-10-19T21:00:40+02:00",
+    "updated_at": "2022-10-19T21:09:53+02:00",
     "media_id": "a2nx9yba6ryd",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "FC Groningen maakt einde aan dramatische reeks met bekerzege in Dordrecht",
     "subtitle": null,
     "published_at": "2022-10-19T20:41:12+02:00",
-    "updated_at": "2022-10-19T21:07:55+02:00",
-    "media_id": "81txctear7w4",
+    "updated_at": "2022-10-19T21:28:35+02:00",
+    "media_id": "lg0xg4eai2yd",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6230951/rivm-wil-minder-pfas-in-het-kraanwater-dat-van-rivierwater-wordt-gemaakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230953,
-    "slug": "bekritiseerde-xavi-ik-krijg-zo-veel-steun-het-lijkt-wel-of-er-iemand-is-overleden",
-    "type": "article",
-    "title": "Bekritiseerde Xavi: 'Ik krijg zo veel steun, het lijkt wel of er iemand is overleden'",
-    "subtitle": null,
-    "published_at": "2022-10-19T17:29:32+02:00",
-    "updated_at": "2022-10-19T17:40:44+02:00",
-    "media_id": "h24x8khau9u3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6230953/bekritiseerde-xavi-ik-krijg-zo-veel-steun-het-lijkt-wel-of-er-iemand-is-overleden.html",
     "open_new_window": false,
     "partner": null
   }
