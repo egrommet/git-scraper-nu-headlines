@@ -1,12 +1,35 @@
 [
   {
+    "id": 6231188,
+    "slug": "heel-oekraine-uren-zonder-stroom-eu-is-het-eens-over-sancties-iran",
+    "type": "article",
+    "title": "Heel Oekraïne uren zonder stroom, EU is het eens over sancties Iran",
+    "subtitle": "Overzicht",
+    "published_at": "2022-10-20T19:28:44+02:00",
+    "updated_at": "2022-10-20T19:29:25+02:00",
+    "media_id": "w6ex3r9aai17",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6231188/heel-oekraine-uren-zonder-stroom-eu-is-het-eens-over-sancties-iran.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231189,
     "slug": "ten-hag-zet-ronaldo-uit-united-selectie-na-opmerkelijke-actie-tegen-spurs",
     "type": "article",
     "title": "Ten Hag zet Ronaldo uit United-selectie na opmerkelijke actie tegen Spurs",
     "subtitle": null,
     "published_at": "2022-10-20T19:00:40+02:00",
-    "updated_at": "2022-10-20T19:17:05+02:00",
+    "updated_at": "2022-10-20T19:49:35+02:00",
     "media_id": "qvixfrea18cu",
     "duration": null,
     "canonical_section": {
@@ -116,13 +139,13 @@
   },
   {
     "id": 6231186,
-    "slug": "psv-onder-druk-in-eerste-helft-van-inhaalduel-met-arsenal",
+    "slug": "psv-halverwege-op-0-0-in-inhaalwedstrijd-tegen-arsenal",
     "type": "article",
-    "title": "PSV onder druk in eerste helft van inhaalduel met Arsenal",
+    "title": "PSV halverwege op 0-0 in inhaalwedstrijd tegen Arsenal",
     "subtitle": "Liveblog EL",
     "published_at": "2022-10-20T18:18:04+02:00",
-    "updated_at": "2022-10-20T19:14:20+02:00",
-    "media_id": "mhjxpm3aqufo",
+    "updated_at": "2022-10-20T19:47:02+02:00",
+    "media_id": "idcx6z8a6n88",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231186/psv-onder-druk-in-eerste-helft-van-inhaalduel-met-arsenal.html",
+    "url": "/voetbal/6231186/psv-halverwege-op-0-0-in-inhaalwedstrijd-tegen-arsenal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Hoe zit het nou met die nieuwe rente op je studielening?",
     "subtitle": "Video",
     "published_at": "2022-10-20T17:01:45+02:00",
-    "updated_at": "2022-10-20T17:12:07+02:00",
+    "updated_at": "2022-10-20T19:57:34+02:00",
     "media_id": "5kextosadx7s",
     "duration": "2:02",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nujij/6231143/gezocht-jongeren-die-in-callcenters-in-het-buitenland-werken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231140,
-    "slug": "adresgegevens-duizenden-studenten-tu-eindhoven-liggen-op-straat-na-hack",
-    "type": "article",
-    "title": "Adresgegevens duizenden studenten TU Eindhoven liggen op straat na hack",
-    "subtitle": null,
-    "published_at": "2022-10-20T16:21:19+02:00",
-    "updated_at": "2022-10-20T19:19:44+02:00",
-    "media_id": "7mfxkwuacql1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6231140/adresgegevens-duizenden-studenten-tu-eindhoven-liggen-op-straat-na-hack.html",
     "open_new_window": false,
     "partner": null
   }
