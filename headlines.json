@@ -1,12 +1,35 @@
 [
   {
-    "id": 6231070,
-    "slug": "hoe-f1-profiteert-van-afnemende-populariteit-nascar-en-indycar-in-de-vs",
+    "id": 6231076,
+    "slug": "mishandelde-psg-speelster-keert-na-half-jaar-schorsing-terug-in-wedstrijdselectie",
     "type": "article",
-    "title": "Hoe F1 profiteert van afnemende populariteit NASCAR en IndyCar in de VS",
+    "title": "Mishandelde PSG-speelster keert na half jaar schorsing terug in wedstrijdselectie",
+    "subtitle": null,
+    "published_at": "2022-10-20T11:30:25+02:00",
+    "updated_at": "2022-10-20T11:30:26+02:00",
+    "media_id": "82bxyc7a4ole",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231076/mishandelde-psg-speelster-keert-na-half-jaar-schorsing-terug-in-wedstrijdselectie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231070,
+    "slug": "hoe-f1-profiteert-van-dalende-populariteit-nascar-en-indycar-in-de-vs",
+    "type": "article",
+    "title": "Hoe F1 profiteert van dalende populariteit NASCAR en IndyCar in de VS",
     "subtitle": "Video",
     "published_at": "2022-10-20T11:22:02+02:00",
-    "updated_at": "2022-10-20T11:26:09+02:00",
+    "updated_at": "2022-10-20T11:36:44+02:00",
     "media_id": "wq4xnpzah9y1",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": "gtmxcxnaui5m",
       "partner": null
     },
-    "url": "/nu-formule-1/6231070/hoe-f1-profiteert-van-afnemende-populariteit-nascar-en-indycar-in-de-vs.html",
+    "url": "/nu-formule-1/6231070/hoe-f1-profiteert-van-dalende-populariteit-nascar-en-indycar-in-de-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6231018/trainer-oosting-is-doodziek-van-zeperd-b-elftal-rkc-waalwijk-in-knvb-beker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231013,
-    "slug": "aantal-werklozen-in-ons-land-stijgt-naar-382000",
-    "type": "article",
-    "title": "Aantal werklozen in ons land stijgt naar 382.000",
-    "subtitle": null,
-    "published_at": "2022-10-20T07:47:58+02:00",
-    "updated_at": "2022-10-20T09:18:22+02:00",
-    "media_id": "p56xvzcaky8k",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6231013/aantal-werklozen-in-ons-land-stijgt-naar-382000.html",
     "open_new_window": false,
     "partner": null
   }
