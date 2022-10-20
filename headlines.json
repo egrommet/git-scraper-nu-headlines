@@ -1,12 +1,35 @@
 [
   {
-    "id": 6231029,
-    "slug": "zwitserse-aanklagers-in-beroep-tegen-vrijspraak-blatter-en-platini",
+    "id": 6231026,
+    "slug": "pest-blijkt-onze-gezondheid-700-jaar-na-oorsprong-nog-steeds-te-beinvloeden",
     "type": "article",
-    "title": "Zwitserse aanklagers in beroep tegen vrijspraak Blatter en Platini",
+    "title": "Pest blijkt onze gezondheid 700 jaar na oorsprong nog steeds te beïnvloeden",
+    "subtitle": null,
+    "published_at": "2022-10-20T08:48:44+02:00",
+    "updated_at": "2022-10-20T08:48:45+02:00",
+    "media_id": "31gxlv1avnzg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6231026/pest-blijkt-onze-gezondheid-700-jaar-na-oorsprong-nog-steeds-te-beinvloeden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6231029,
+    "slug": "zwitserse-aanklagers-definitief-in-beroep-tegen-vrijspraak-blatter-en-platini",
+    "type": "article",
+    "title": "Zwitserse aanklagers definitief in beroep tegen vrijspraak Blatter en Platini",
     "subtitle": null,
     "published_at": "2022-10-20T08:37:04+02:00",
-    "updated_at": "2022-10-20T08:37:06+02:00",
+    "updated_at": "2022-10-20T09:06:20+02:00",
     "media_id": "162x6pba0i7t",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231029/zwitserse-aanklagers-in-beroep-tegen-vrijspraak-blatter-en-platini.html",
+    "url": "/voetbal/6231029/zwitserse-aanklagers-definitief-in-beroep-tegen-vrijspraak-blatter-en-platini.html",
     "open_new_window": false,
     "partner": null
   },
@@ -369,12 +392,12 @@
   },
   {
     "id": 6230964,
-    "slug": "corona-slaat-weer-toe-op-de-werkvloer-verzuim-stijgt",
+    "slug": "corona-slaat-weer-toe-op-de-werkvloer-verzuimcijfers-stijgen",
     "type": "article",
-    "title": "Corona slaat weer toe op de werkvloer, verzuim stijgt",
+    "title": "Corona slaat weer toe op de werkvloer: verzuimcijfers stijgen",
     "subtitle": null,
     "published_at": "2022-10-20T05:31:00+02:00",
-    "updated_at": "2022-10-20T05:31:01+02:00",
+    "updated_at": "2022-10-20T08:50:42+02:00",
     "media_id": "i4yx8yuaved5",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6230964/corona-slaat-weer-toe-op-de-werkvloer-verzuim-stijgt.html",
+    "url": "/economie/6230964/corona-slaat-weer-toe-op-de-werkvloer-verzuimcijfers-stijgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6230841/achter-de-oorlog-angst-voor-een-nucleair-ongeluk-in-zaporizhzhia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230994,
-    "slug": "weerbericht-eerst-regen-later-op-de-dag-zon-en-een-enkele-bui",
-    "type": "article",
-    "title": "Weerbericht: Eerst regen, later op de dag zon en een enkele bui",
-    "subtitle": null,
-    "published_at": "2022-10-20T05:26:37+02:00",
-    "updated_at": "2022-10-20T07:09:30+02:00",
-    "media_id": "xctx4gpa7bk1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230994/weerbericht-eerst-regen-later-op-de-dag-zon-en-een-enkele-bui.html",
     "open_new_window": false,
     "partner": null
   }
