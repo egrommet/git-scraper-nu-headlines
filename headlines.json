@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231329,
+    "slug": "recensieoverzicht-album-taylor-swift-midnights-is-pure-pop-maar-wel-origineel",
+    "type": "article",
+    "title": "Recensieoverzicht album Taylor Swift: Midnights is pure pop, maar wel origineel",
+    "subtitle": null,
+    "published_at": "2022-10-22T00:55:40+02:00",
+    "updated_at": "2022-10-22T00:55:41+02:00",
+    "media_id": "4kxxqh7ae303",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6231329/recensieoverzicht-album-taylor-swift-midnights-is-pure-pop-maar-wel-origineel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231476,
     "slug": "gullit-haalt-uit-naar-knvb-blunder-om-onelove-actie-na-ophef-te-schrappen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6231441/fia-kondigt-reeks-veranderingen-aan-na-chaotisch-verlopen-gp-van-japan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231442,
-    "slug": "chinezen-redden-peuter-die-met-nek-vastzit-in-beveiligingsrooster",
-    "type": "video",
-    "title": "Chinezen redden peuter die met nek vastzit in beveiligingsrooster",
-    "subtitle": "Video",
-    "published_at": "2022-10-21T18:11:16+02:00",
-    "updated_at": "2022-10-21T18:11:17+02:00",
-    "media_id": "lyhxz3bazl56",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6231442/chinezen-redden-peuter-die-met-nek-vastzit-in-beveiligingsrooster.html",
     "open_new_window": false,
     "partner": null
   }
