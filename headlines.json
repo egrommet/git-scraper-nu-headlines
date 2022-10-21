@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231409,
+    "slug": "videoland-deelt-voor-het-eerst-cijfers-andre-hazes-best-bekeken-in-24-uur",
+    "type": "article",
+    "title": "Videoland deelt voor het eerst cijfers: André Hazes best bekeken in 24 uur",
+    "subtitle": null,
+    "published_at": "2022-10-21T16:43:11+02:00",
+    "updated_at": "2022-10-21T16:43:11+02:00",
+    "media_id": "vx2xgmcatlvq",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6231409/videoland-deelt-voor-het-eerst-cijfers-andre-hazes-best-bekeken-in-24-uur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231402,
     "slug": "voormalig-eneco-topman-ruud-sondag-krijgt-leiding-bij-schiphol",
     "type": "article",
@@ -24,24 +47,24 @@
   },
   {
     "id": 6231406,
-    "slug": "uitbraak-apenpokken-in-nederland-is-vrijwel-over-vaccineren-niet-meer-nodig",
+    "slug": "uitbraak-apenpokken-in-nederland-is-vrijwel-voorbij-vaccineren-niet-meer-nodig",
     "type": "article",
-    "title": "Uitbraak apenpokken in Nederland is vrijwel over, vaccineren niet meer nodig",
+    "title": "Uitbraak apenpokken in Nederland is vrijwel voorbij, vaccineren niet meer nodig",
     "subtitle": null,
     "published_at": "2022-10-21T16:27:54+02:00",
-    "updated_at": "2022-10-21T16:37:02+02:00",
+    "updated_at": "2022-10-21T16:52:40+02:00",
     "media_id": "pyoxx4eawrg4",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1771435,
+      "slug": "binnenland",
       "type": "default",
-      "name": "Algemeen",
+      "name": "Binnenland",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6231406/uitbraak-apenpokken-in-nederland-is-vrijwel-over-vaccineren-niet-meer-nodig.html",
+    "url": "/binnenland/6231406/uitbraak-apenpokken-in-nederland-is-vrijwel-voorbij-vaccineren-niet-meer-nodig.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Naast twee vermisten ook een persoon zwaargewond na aanvaring met veerboot",
     "subtitle": null,
     "published_at": "2022-10-21T16:26:53+02:00",
-    "updated_at": "2022-10-21T16:34:59+02:00",
+    "updated_at": "2022-10-21T16:44:00+02:00",
     "media_id": "5yrxv8ja94lj",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Tweevoudig Grand Slam-winnares Halep geschorst vanwege positieve dopingtest",
     "subtitle": null,
     "published_at": "2022-10-21T15:52:07+02:00",
-    "updated_at": "2022-10-21T16:34:08+02:00",
+    "updated_at": "2022-10-21T16:41:14+02:00",
     "media_id": "jlzxseoaljj2",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Gravenberch en Brugts grijpen naast prestigieuze talentenprijs, award voor Gavi",
     "subtitle": null,
     "published_at": "2022-10-21T15:10:35+02:00",
-    "updated_at": "2022-10-21T15:22:47+02:00",
+    "updated_at": "2022-10-21T16:48:59+02:00",
     "media_id": "o51x3z5ac32u",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6231353/vooral-meer-kolen-en-lng-via-rotterdamse-haven-vervoerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231352,
-    "slug": "nabestaanden-van-slachtoffers-festivaldrama-schikken-met-travis-scott",
-    "type": "article",
-    "title": "Nabestaanden van slachtoffers festivaldrama schikken met Travis Scott",
-    "subtitle": null,
-    "published_at": "2022-10-21T14:06:03+02:00",
-    "updated_at": "2022-10-21T15:28:35+02:00",
-    "media_id": "97ixwmxa3now",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6231352/nabestaanden-van-slachtoffers-festivaldrama-schikken-met-travis-scott.html",
     "open_new_window": false,
     "partner": null
   }
