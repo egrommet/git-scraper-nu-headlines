@@ -1,12 +1,35 @@
 [
   {
-    "id": 6230864,
-    "slug": "oranjevrouwen-horen-bij-loting-tegenstanders-op-wk",
+    "id": 6231504,
+    "slug": "kodaira-sluit-schaatscarriere-af-met-winst-in-japan-een-droomafscheid",
     "type": "article",
-    "title": "Oranjevrouwen horen bij loting tegenstanders op WK",
+    "title": "Kodaira sluit schaatscarrière af met winst in Japan: 'Een droomafscheid'",
+    "subtitle": null,
+    "published_at": "2022-10-22T09:27:26+02:00",
+    "updated_at": "2022-10-22T09:27:26+02:00",
+    "media_id": "jokxor2axu1o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6231504/kodaira-sluit-schaatscarriere-af-met-winst-in-japan-een-droomafscheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230864,
+    "slug": "loting-voor-wk-vrouwenvoetbal-begonnen-wie-treft-oranje",
+    "type": "article",
+    "title": "Loting voor WK vrouwenvoetbal begonnen: wie treft Oranje?",
     "subtitle": "Liveblog",
     "published_at": "2022-10-22T08:09:23+02:00",
-    "updated_at": "2022-10-22T08:31:44+02:00",
+    "updated_at": "2022-10-22T09:19:05+02:00",
     "media_id": "jvqxzsoats7o",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230864/oranjevrouwen-horen-bij-loting-tegenstanders-op-wk.html",
+    "url": "/voetbal/6230864/loting-voor-wk-vrouwenvoetbal-begonnen-wie-treft-oranje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6231471/watertaxi-stormloper-aan-wal-getakeld-in-harlingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231458,
-    "slug": "beide-schepen-van-fataal-ongeluk-bij-terschelling-voeren-veel-te-hard",
-    "type": "article",
-    "title": "Beide schepen van fataal ongeluk bij Terschelling voeren veel te hard",
-    "subtitle": null,
-    "published_at": "2022-10-21T22:43:10+02:00",
-    "updated_at": "2022-10-22T07:43:37+02:00",
-    "media_id": "y82x6rmas6xc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6231458/beide-schepen-van-fataal-ongeluk-bij-terschelling-voeren-veel-te-hard.html",
     "open_new_window": false,
     "partner": null
   }
