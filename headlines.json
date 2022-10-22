@@ -1,12 +1,35 @@
 [
   {
+    "id": 6231509,
+    "slug": "oranjevrouwen-treffen-volgend-jaar-wereldkampioen-verenigde-staten-op-wk",
+    "type": "article",
+    "title": "Oranjevrouwen treffen volgend jaar wereldkampioen Verenigde Staten op WK",
+    "subtitle": null,
+    "published_at": "2022-10-22T09:30:29+02:00",
+    "updated_at": "2022-10-22T09:47:55+02:00",
+    "media_id": "oggxu84abw4s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231509/oranjevrouwen-treffen-volgend-jaar-wereldkampioen-verenigde-staten-op-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231504,
     "slug": "kodaira-sluit-schaatscarriere-af-met-winst-in-japan-een-droomafscheid",
     "type": "article",
     "title": "Kodaira sluit schaatscarrière af met winst in Japan: 'Een droomafscheid'",
     "subtitle": null,
     "published_at": "2022-10-22T09:27:26+02:00",
-    "updated_at": "2022-10-22T09:27:26+02:00",
+    "updated_at": "2022-10-22T09:37:18+02:00",
     "media_id": "jokxor2axu1o",
     "duration": null,
     "canonical_section": {
@@ -24,13 +47,13 @@
   },
   {
     "id": 6230864,
-    "slug": "loting-voor-wk-vrouwenvoetbal-begonnen-wie-treft-oranje",
+    "slug": "oranjevrouwen-bij-wk-loting-in-afwachting-van-derde-opponent",
     "type": "article",
-    "title": "Loting voor WK vrouwenvoetbal begonnen: wie treft Oranje?",
+    "title": "Oranjevrouwen bij WK-loting in afwachting van derde opponent",
     "subtitle": "Liveblog",
     "published_at": "2022-10-22T08:09:23+02:00",
-    "updated_at": "2022-10-22T09:19:05+02:00",
-    "media_id": "jvqxzsoats7o",
+    "updated_at": "2022-10-22T09:39:25+02:00",
+    "media_id": "cg3xi2wadhpq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -41,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6230864/loting-voor-wk-vrouwenvoetbal-begonnen-wie-treft-oranje.html",
+    "url": "/voetbal/6230864/oranjevrouwen-bij-wk-loting-in-afwachting-van-derde-opponent.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6231357,
-    "slug": "van-gaal-moet-na-voorselectie-nog-harde-keuzes-maken-in-aanval-oranje",
+    "slug": "wie-haalt-het-wk-voorin-moet-van-gaal-nog-harde-keuzes-maken-bij-oranje",
     "type": "article",
-    "title": "Van Gaal moet na voorselectie nog harde keuzes maken in aanval Oranje",
+    "title": "Wie haalt het WK? Voorin moet Van Gaal nog harde keuzes maken bij Oranje",
     "subtitle": "NU+",
     "published_at": "2022-10-22T08:05:44+02:00",
-    "updated_at": "2022-10-22T08:50:01+02:00",
+    "updated_at": "2022-10-22T09:48:41+02:00",
     "media_id": "ca3xnfeaub8l",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/nu-voetbal/6231357/van-gaal-moet-na-voorselectie-nog-harde-keuzes-maken-in-aanval-oranje.html",
+    "url": "/nu-voetbal/6231357/wie-haalt-het-wk-voorin-moet-van-gaal-nog-harde-keuzes-maken-bij-oranje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6231473/mbappe-en-messi-schitteren-bij-zege-psg-juventus-wint-opnieuw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231471,
-    "slug": "watertaxi-stormloper-aan-wal-getakeld-in-harlingen",
-    "type": "video",
-    "title": "Watertaxi Stormloper aan wal getakeld in Harlingen",
-    "subtitle": "Video",
-    "published_at": "2022-10-21T22:47:26+02:00",
-    "updated_at": "2022-10-21T22:51:11+02:00",
-    "media_id": "lryxqnsaty3n",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6231471/watertaxi-stormloper-aan-wal-getakeld-in-harlingen.html",
     "open_new_window": false,
     "partner": null
   }
