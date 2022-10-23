@@ -1,13 +1,36 @@
 [
   {
+    "id": 6231626,
+    "slug": "ten-hag-erg-blij-met-veerkracht-united-team-verdient-groot-compliment",
+    "type": "article",
+    "title": "Ten Hag erg blij met veerkracht United: 'Team verdient groot compliment'",
+    "subtitle": null,
+    "published_at": "2022-10-23T08:44:53+02:00",
+    "updated_at": "2022-10-23T08:44:54+02:00",
+    "media_id": "fryx7q1aw77y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231626/ten-hag-erg-blij-met-veerkracht-united-team-verdient-groot-compliment.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231651,
-    "slug": "max-verstappen-legt-het-af-tegen-ferraris-in-kwalificatie",
+    "slug": "verstappen-legt-het-af-tegen-ferraris-in-kwalificatie-vs",
     "type": "video",
-    "title": "Max Verstappen legt het af tegen Ferrari’s in kwalificatie",
+    "title": "Verstappen legt het af tegen Ferrari's in kwalificatie VS",
     "subtitle": "Video",
     "published_at": "2022-10-23T08:18:43+02:00",
-    "updated_at": "2022-10-23T08:32:55+02:00",
-    "media_id": "nrgxusvav7wg",
+    "updated_at": "2022-10-23T08:48:29+02:00",
+    "media_id": "dwmxxuwasd0y",
     "duration": "2:29",
     "canonical_section": {
       "id": 149,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6231651/max-verstappen-legt-het-af-tegen-ferraris-in-kwalificatie.html",
+    "url": "/sport/6231651/verstappen-legt-het-af-tegen-ferraris-in-kwalificatie-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Politieonderzoek in volle gang na amber alert voor vermiste Jayden (11)",
     "subtitle": null,
     "published_at": "2022-10-22T23:54:56+02:00",
-    "updated_at": "2022-10-23T00:08:30+02:00",
+    "updated_at": "2022-10-23T08:39:16+02:00",
     "media_id": "ykoxqm6at6nv",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Red Bull-oprichter Mateschitz op 78-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-10-22T23:24:43+02:00",
-    "updated_at": "2022-10-23T01:26:24+02:00",
+    "updated_at": "2022-10-23T08:49:16+02:00",
     "media_id": "37bxw3za20y8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6227516/red-bull-oprichter-mateschitz-op-78-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231635,
-    "slug": "real-wint-zonder-geblesseerde-benzema-nieuwkoop-scoort-tegen-club-brugge",
-    "type": "article",
-    "title": "Real wint zonder geblesseerde Benzema, Nieuwkoop scoort tegen Club Brugge",
-    "subtitle": null,
-    "published_at": "2022-10-22T22:55:43+02:00",
-    "updated_at": "2022-10-22T23:16:21+02:00",
-    "media_id": "3n9x3f8ath6j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6231635/real-wint-zonder-geblesseerde-benzema-nieuwkoop-scoort-tegen-club-brugge.html",
     "open_new_window": false,
     "partner": null
   }
