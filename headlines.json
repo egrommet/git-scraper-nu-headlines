@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232005,
+    "slug": "emery-verlaat-villarreal-na-succesvolle-jaren-en-wordt-trainer-bij-aston-villa",
+    "type": "article",
+    "title": "Emery verlaat Villarreal na succesvolle jaren en wordt trainer bij Aston Villa",
+    "subtitle": null,
+    "published_at": "2022-10-24T21:26:37+02:00",
+    "updated_at": "2022-10-24T21:33:50+02:00",
+    "media_id": "dp4x28van84y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232005/emery-verlaat-villarreal-na-succesvolle-jaren-en-wordt-trainer-bij-aston-villa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232002,
     "slug": "vermoord-meisje-lola-12-onder-grote-belangstelling-begraven-in-frankrijk",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Weghorst kan Besiktas met snelste doelpunt van seizoen niet aan zege helpen",
     "subtitle": null,
     "published_at": "2022-10-24T19:47:02+02:00",
-    "updated_at": "2022-10-24T21:09:20+02:00",
+    "updated_at": "2022-10-24T21:25:08+02:00",
     "media_id": "asgxsmuallxs",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Multimiljonair Rishi Sunak na nederlaag nu toch eerste Britse premier van kleur",
     "subtitle": null,
     "published_at": "2022-10-24T19:07:17+02:00",
-    "updated_at": "2022-10-24T21:02:47+02:00",
+    "updated_at": "2022-10-24T21:28:08+02:00",
     "media_id": "w5ixpmza7j01",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/coronavirus/6231944/eerste-twintigers-kunnen-herhaalprik-halen-later-deze-week-ook-laatste-groepen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231943,
-    "slug": "five-live-blijft-ondanks-dalende-kijkcijfers-plek-houden-in-uitzendschema-sbs",
-    "type": "article",
-    "title": "Five Live blijft ondanks dalende kijkcijfers plek houden in uitzendschema SBS",
-    "subtitle": null,
-    "published_at": "2022-10-24T17:00:03+02:00",
-    "updated_at": "2022-10-24T17:00:28+02:00",
-    "media_id": "0i8xnf3abj86",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6231943/five-live-blijft-ondanks-dalende-kijkcijfers-plek-houden-in-uitzendschema-sbs.html",
     "open_new_window": false,
     "partner": null
   }
