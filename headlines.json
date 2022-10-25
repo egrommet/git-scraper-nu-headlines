@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232149,
+    "slug": "fc-utrecht-moet-viergever-minstens-tot-winterstop-missen-door-knieblessure",
+    "type": "article",
+    "title": "FC Utrecht moet Viergever minstens tot winterstop missen door knieblessure",
+    "subtitle": null,
+    "published_at": "2022-10-25T17:28:08+02:00",
+    "updated_at": "2022-10-25T17:31:43+02:00",
+    "media_id": "0p1xijtactcv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232149/fc-utrecht-moet-viergever-minstens-tot-winterstop-missen-door-knieblessure.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232147,
     "slug": "russen-plaatsen-muur-van-piramides-in-oekraine-om-tanks-te-weren",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6232107/gedeeltelijke-zonsverduistering-ondanks-bewolking-goed-te-zien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232097,
-    "slug": "om-ziet-familie-als-brein-achter-zwembadmoord-en-eist-tot-twintig-jaar-cel",
-    "type": "article",
-    "title": "OM ziet familie als brein achter 'zwembadmoord' en eist tot twintig jaar cel",
-    "subtitle": null,
-    "published_at": "2022-10-25T14:03:15+02:00",
-    "updated_at": "2022-10-25T16:00:14+02:00",
-    "media_id": "e6oxjmhaarhs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6232097/om-ziet-familie-als-brein-achter-zwembadmoord-en-eist-tot-twintig-jaar-cel.html",
     "open_new_window": false,
     "partner": null
   }
