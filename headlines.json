@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232099,
+    "slug": "zo-zag-de-gedeeltelijke-zonsverduistering-eruit",
+    "type": "video",
+    "title": "Zo zag de gedeeltelijke zonsverduistering eruit",
+    "subtitle": "Video",
+    "published_at": "2022-10-25T13:28:32+02:00",
+    "updated_at": "2022-10-25T13:28:32+02:00",
+    "media_id": "ognxaviavxij",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6232099/zo-zag-de-gedeeltelijke-zonsverduistering-eruit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232093,
     "slug": "op-schiphol-is-het-zelfs-dringen-voor-wie-extra-betaalt-om-rijen-te-omzeilen",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6232077,
-    "slug": "kersverse-britse-premier-sunak-gekozen-om-fouten-truss-te-herstellen",
+    "slug": "kersverse-britse-premier-sunak-aangesteld-om-fouten-van-truss-te-herstellen",
     "type": "article",
-    "title": "Kersverse Britse premier Sunak: 'Gekozen om fouten Truss te herstellen'",
+    "title": "Kersverse Britse premier Sunak: 'Aangesteld om fouten van Truss te herstellen'",
     "subtitle": null,
     "published_at": "2022-10-25T12:45:58+02:00",
-    "updated_at": "2022-10-25T13:15:57+02:00",
+    "updated_at": "2022-10-25T13:32:28+02:00",
     "media_id": "qboxbttaae93",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6232077/kersverse-britse-premier-sunak-gekozen-om-fouten-truss-te-herstellen.html",
+    "url": "/buitenland/6232077/kersverse-britse-premier-sunak-aangesteld-om-fouten-van-truss-te-herstellen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Helmond Sport breekt met trainer Swinnen na afgang tegen Jong PSV",
     "subtitle": null,
     "published_at": "2022-10-25T12:37:05+02:00",
-    "updated_at": "2022-10-25T13:20:46+02:00",
+    "updated_at": "2022-10-25T13:26:27+02:00",
     "media_id": "vz4xsezaevnk",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Qatar heeft overschot in plaats van tekort door hoge energieprijzen",
     "subtitle": null,
     "published_at": "2022-10-25T12:16:32+02:00",
-    "updated_at": "2022-10-25T13:19:39+02:00",
+    "updated_at": "2022-10-25T13:28:57+02:00",
     "media_id": "ielxwc3agvfo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6232037/wielrenster-amy-pieters-blijft-progressie-boeken-in-herstel-en-kan-stukjes-lopen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232039,
-    "slug": "aldi-huismerk-is-even-duur-als-dat-van-albert-heijn",
-    "type": "article",
-    "title": "ALDI-huismerk is even duur als dat van Albert Heijn",
-    "subtitle": null,
-    "published_at": "2022-10-25T09:24:34+02:00",
-    "updated_at": "2022-10-25T10:17:09+02:00",
-    "media_id": "x17xv74a51ud",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6232039/aldi-huismerk-is-even-duur-als-dat-van-albert-heijn.html",
     "open_new_window": false,
     "partner": null
   }
