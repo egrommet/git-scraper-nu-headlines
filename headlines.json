@@ -1,12 +1,58 @@
 [
   {
+    "id": 6232302,
+    "slug": "ford-stopt-na-47-jaar-met-productie-van-iconische-fiesta",
+    "type": "article",
+    "title": "Ford stopt na 47 jaar met productie van iconische Fiesta",
+    "subtitle": null,
+    "published_at": "2022-10-26T13:04:18+02:00",
+    "updated_at": "2022-10-26T13:04:19+02:00",
+    "media_id": "oboxtnua42lo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6232302/ford-stopt-na-47-jaar-met-productie-van-iconische-fiesta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232300,
+    "slug": "vrouw-niet-meer-verdacht-van-veroorzaken-dodelijke-val-uit-rijdende-bestelbus",
+    "type": "article",
+    "title": "Vrouw niet meer verdacht van veroorzaken dodelijke val uit rijdende bestelbus",
+    "subtitle": null,
+    "published_at": "2022-10-26T12:51:14+02:00",
+    "updated_at": "2022-10-26T12:51:15+02:00",
+    "media_id": "dh1xuwjarbhu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6232300/vrouw-niet-meer-verdacht-van-veroorzaken-dodelijke-val-uit-rijdende-bestelbus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232293,
     "slug": "mark-rietman-speelt-rol-van-peter-r-de-vries-in-nieuw-seizoen-van-judas",
     "type": "article",
     "title": "Mark Rietman speelt rol van Peter R. de Vries in nieuw seizoen van Judas",
     "subtitle": null,
     "published_at": "2022-10-26T12:32:11+02:00",
-    "updated_at": "2022-10-26T12:32:12+02:00",
+    "updated_at": "2022-10-26T13:08:23+02:00",
     "media_id": "a72x9aya1z3s",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "NS Publieksprijs wordt niet uitgereikt omdat stemmers e-mailadressen misbruikten",
     "subtitle": null,
     "published_at": "2022-10-26T11:03:20+02:00",
-    "updated_at": "2022-10-26T12:15:03+02:00",
+    "updated_at": "2022-10-26T13:07:48+02:00",
     "media_id": "to1xi2earg5i",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Uit beelden blijkt dat Glennis Grace winkelmedewerker tegen zijn hoofd sloeg",
     "subtitle": null,
     "published_at": "2022-10-26T10:28:14+02:00",
-    "updated_at": "2022-10-26T12:27:58+02:00",
+    "updated_at": "2022-10-26T13:07:50+02:00",
     "media_id": "vzgxbnja3m6k",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6232232/consumentenbond-roept-op-krimpende-verpakkingen-te-melden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232230,
-    "slug": "leidse-hoogleraar-vertoonde-jaren-ongewenst-gedrag-signalen-niet-opgepakt",
-    "type": "article",
-    "title": "Leidse hoogleraar vertoonde 'jaren' ongewenst gedrag, signalen niet opgepakt",
-    "subtitle": null,
-    "published_at": "2022-10-26T09:03:31+02:00",
-    "updated_at": "2022-10-26T09:03:32+02:00",
-    "media_id": "b0jxxsjawuny",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6232230/leidse-hoogleraar-vertoonde-jaren-ongewenst-gedrag-signalen-niet-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232229,
-    "slug": "medespelers-genieten-van-messi-mbappe-en-neymar-in-cl-zat-op-de-eerste-rij",
-    "type": "article",
-    "title": "Medespelers genieten van Messi, Mbappé en Neymar in CL: 'Zat op de eerste rij'",
-    "subtitle": null,
-    "published_at": "2022-10-26T08:55:50+02:00",
-    "updated_at": "2022-10-26T08:55:50+02:00",
-    "media_id": "30axj05azpwg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6232229/medespelers-genieten-van-messi-mbappe-en-neymar-in-cl-zat-op-de-eerste-rij.html",
     "open_new_window": false,
     "partner": null
   }
