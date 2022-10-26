@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232221,
+    "slug": "nieuwe-musical-over-edith-piaf-suzan-seegers-speelt-zangeres",
+    "type": "article",
+    "title": "Nieuwe musical over Edith Piaf, Suzan Seegers speelt zangeres",
+    "subtitle": null,
+    "published_at": "2022-10-26T07:43:41+02:00",
+    "updated_at": "2022-10-26T07:44:29+02:00",
+    "media_id": "zujx1taaydji",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6232221/nieuwe-musical-over-edith-piaf-suzan-seegers-speelt-zangeres.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232219,
     "slug": "omzetgroei-microsoft-op-het-laagste-punt-in-vijf-jaar",
     "type": "article",
@@ -374,7 +397,7 @@
     "title": "Foto van Amerikaanse mijnwerker gaat viral: 'Hij is voor mij de vader van het jaar'",
     "subtitle": null,
     "published_at": "2022-10-26T05:11:53+02:00",
-    "updated_at": "2022-10-26T06:00:56+02:00",
+    "updated_at": "2022-10-26T07:37:14+02:00",
     "media_id": "1jdxufia6l26",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6232209/nederlandse-trainer-moniz-geschorst-vanwege-protest-tegen-racisme-in-hongarije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232208,
-    "slug": "klimaatactivist-lijmt-zich-vast-aan-talkshowtafel-tijdens-live-uitzending-jinek",
-    "type": "article",
-    "title": "Klimaatactivist lijmt zich vast aan talkshowtafel tijdens live-uitzending Jinek",
-    "subtitle": null,
-    "published_at": "2022-10-25T23:37:15+02:00",
-    "updated_at": "2022-10-26T07:04:31+02:00",
-    "media_id": "ku9xqx5ay0nv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6232208/klimaatactivist-lijmt-zich-vast-aan-talkshowtafel-tijdens-live-uitzending-jinek.html",
     "open_new_window": false,
     "partner": null
   }
