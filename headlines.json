@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232419,
+    "slug": "spelers-van-australie-uiten-in-video-kritiek-op-mensenrechtensituatie-in-qatar",
+    "type": "article",
+    "title": "Spelers van Australië uiten in video kritiek op mensenrechtensituatie in Qatar",
+    "subtitle": null,
+    "published_at": "2022-10-27T07:31:42+02:00",
+    "updated_at": "2022-10-27T07:34:13+02:00",
+    "media_id": "iruxu2xamsou",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232419/spelers-van-australie-uiten-in-video-kritiek-op-mensenrechtensituatie-in-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232417,
     "slug": "naam-aegon-verdwijnt-uit-het-straatbeeld-na-overname-door-asr",
     "type": "article",
     "title": "Naam Aegon verdwijnt uit het straatbeeld na overname door a.s.r.",
     "subtitle": null,
     "published_at": "2022-10-27T07:26:23+02:00",
-    "updated_at": "2022-10-27T07:26:24+02:00",
+    "updated_at": "2022-10-27T07:42:28+02:00",
     "media_id": "v8bx2kfazn9l",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6232416,
-    "slug": "albert-heijn-voegt-bankpas-toe-aan-de-app-om-boodschappen-af-te-rekenen",
+    "slug": "albert-heijn-voegt-mogelijkheid-om-af-te-rekenen-met-bankpas-toe-aan-de-app",
     "type": "article",
-    "title": "Albert Heijn voegt bankpas toe aan de app om boodschappen af te rekenen",
+    "title": "Albert Heijn voegt mogelijkheid om af te rekenen met bankpas toe aan de app",
     "subtitle": null,
     "published_at": "2022-10-27T07:12:28+02:00",
-    "updated_at": "2022-10-27T07:26:38+02:00",
+    "updated_at": "2022-10-27T07:28:45+02:00",
     "media_id": "aw0xcqyaop5p",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6232416/albert-heijn-voegt-bankpas-toe-aan-de-app-om-boodschappen-af-te-rekenen.html",
+    "url": "/economie/6232416/albert-heijn-voegt-mogelijkheid-om-af-te-rekenen-met-bankpas-toe-aan-de-app.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Weerbericht: Zon, wolken en lokaal kans op wat regen",
     "subtitle": null,
     "published_at": "2022-10-27T05:38:09+02:00",
-    "updated_at": "2022-10-27T05:38:10+02:00",
+    "updated_at": "2022-10-27T07:41:35+02:00",
     "media_id": "m1mxg7ead0xg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6232407/capitool-onderzoekers-mogen-telefoongegevens-trump-vertrouweling-niet-inzien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232405,
-    "slug": "nederlandse-bevolking-groeide-in-2022-flink-door-immigratie",
-    "type": "article",
-    "title": "Nederlandse bevolking groeide in 2022 flink door immigratie",
-    "subtitle": null,
-    "published_at": "2022-10-27T01:09:23+02:00",
-    "updated_at": "2022-10-27T06:59:31+02:00",
-    "media_id": "0zbxavganpyy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6232405/nederlandse-bevolking-groeide-in-2022-flink-door-immigratie.html",
     "open_new_window": false,
     "partner": null
   }
