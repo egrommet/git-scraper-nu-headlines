@@ -1,12 +1,58 @@
 [
   {
-    "id": 6232655,
-    "slug": "dahmer-maker-zegt-dat-hij-wel-nabestaanden-van-slachtoffers-heeft-benaderd",
+    "id": 6232668,
+    "slug": "robbie-williams-sluit-pinkpop-zaterdag-af-editors-en-goldband-ook-op-festival",
     "type": "article",
-    "title": "Dahmer-maker zegt dat hij wél nabestaanden van slachtoffers heeft benaderd",
+    "title": "Robbie Williams sluit Pinkpop-zaterdag af, Editors en Goldband ook op festival",
+    "subtitle": null,
+    "published_at": "2022-10-28T10:21:59+02:00",
+    "updated_at": "2022-10-28T10:22:00+02:00",
+    "media_id": "a0px715aheqh",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6232668/robbie-williams-sluit-pinkpop-zaterdag-af-editors-en-goldband-ook-op-festival.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232658,
+    "slug": "agressie-tegen-gerechtsdeurwaarders-neemt-toe",
+    "type": "article",
+    "title": "Agressie tegen gerechtsdeurwaarders neemt toe",
+    "subtitle": null,
+    "published_at": "2022-10-28T09:49:35+02:00",
+    "updated_at": "2022-10-28T10:11:21+02:00",
+    "media_id": "bp9xeo6ancdr",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6232658/agressie-tegen-gerechtsdeurwaarders-neemt-toe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232655,
+    "slug": "dahmer-maker-zegt-dat-hij-nabestaanden-van-slachtoffers-wel-heeft-benaderd",
+    "type": "article",
+    "title": "Dahmer-maker zegt dat hij nabestaanden van slachtoffers wél heeft benaderd",
     "subtitle": null,
     "published_at": "2022-10-28T09:35:59+02:00",
-    "updated_at": "2022-10-28T09:42:24+02:00",
+    "updated_at": "2022-10-28T09:59:00+02:00",
     "media_id": "ss1x74ga329y",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6232655/dahmer-maker-zegt-dat-hij-wel-nabestaanden-van-slachtoffers-heeft-benaderd.html",
+    "url": "/film/6232655/dahmer-maker-zegt-dat-hij-nabestaanden-van-slachtoffers-wel-heeft-benaderd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Feyenoord-coach Slot baalt van 'heel slechte uitgangspositie' na verlies in Graz",
     "subtitle": null,
     "published_at": "2022-10-28T09:25:25+02:00",
-    "updated_at": "2022-10-28T09:25:26+02:00",
+    "updated_at": "2022-10-28T09:46:30+02:00",
     "media_id": "xznxki9ab73u",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Beving die Mars met enorme krater achterliet veroorzaakt door meteorietinslag",
     "subtitle": null,
     "published_at": "2022-10-28T08:01:24+02:00",
-    "updated_at": "2022-10-28T08:28:28+02:00",
+    "updated_at": "2022-10-28T10:03:02+02:00",
     "media_id": "esqxw4na2nr2",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "S10 had een writer's block: 'Ik dacht echt: ben ik niet eens uitgeluld?'",
     "subtitle": null,
     "published_at": "2022-10-28T05:32:34+02:00",
-    "updated_at": "2022-10-28T05:32:35+02:00",
+    "updated_at": "2022-10-28T10:24:59+02:00",
     "media_id": "5nxxnnuaeut8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6232608/weerbericht-warme-najaarsdag-met-zonnige-perioden-en-sluierbewolking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232468,
-    "slug": "met-190-euro-voor-dure-energie-red-ik-het-alsnog-niet",
-    "type": "article",
-    "title": "Met 190 euro voor dure energie red ik het alsnog niet",
-    "subtitle": null,
-    "published_at": "2022-10-28T05:00:08+02:00",
-    "updated_at": "2022-10-28T05:00:09+02:00",
-    "media_id": "uy1xkz5a567u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6232468/met-190-euro-voor-dure-energie-red-ik-het-alsnog-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232607,
-    "slug": "arrestaties-en-gewonden-na-rellen-met-feyenoord-fans-in-oostenrijk",
-    "type": "article",
-    "title": "Arrestaties en gewonden na rellen met Feyenoord-fans in Oostenrijk",
-    "subtitle": null,
-    "published_at": "2022-10-28T04:42:00+02:00",
-    "updated_at": "2022-10-28T08:35:06+02:00",
-    "media_id": "mnixk61aeprx",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6232607/arrestaties-en-gewonden-na-rellen-met-feyenoord-fans-in-oostenrijk.html",
     "open_new_window": false,
     "partner": null
   }
