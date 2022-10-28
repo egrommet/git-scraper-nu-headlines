@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232708,
+    "slug": "europese-commissie-waarschuwt-elon-musk-regels-voor-twitter-blijven-gelden",
+    "type": "article",
+    "title": "Europese Commissie waarschuwt Elon Musk: regels voor Twitter blijven gelden",
+    "subtitle": null,
+    "published_at": "2022-10-28T12:35:55+02:00",
+    "updated_at": "2022-10-28T12:35:56+02:00",
+    "media_id": "jg0x2q5ahlcm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6232708/europese-commissie-waarschuwt-elon-musk-regels-voor-twitter-blijven-gelden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232699,
     "slug": "youssef-taghi-wil-toch-geen-onderzoek-naar-lekken-door-ridouans-advocaat-weski",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Energie-update: Zo gaat het met de gasprijs",
     "subtitle": null,
     "published_at": "2022-10-28T11:38:00+02:00",
-    "updated_at": "2022-10-28T12:23:51+02:00",
+    "updated_at": "2022-10-28T12:38:22+02:00",
     "media_id": "suoxdhuau4nf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6232650/feyenoord-coach-slot-baalt-van-heel-slechte-uitgangspositie-na-verlies-in-graz.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232633,
-    "slug": "beving-die-mars-met-enorme-krater-achterliet-veroorzaakt-door-meteorietinslag",
-    "type": "article",
-    "title": "Beving die Mars met enorme krater achterliet veroorzaakt door meteorietinslag",
-    "subtitle": null,
-    "published_at": "2022-10-28T08:01:24+02:00",
-    "updated_at": "2022-10-28T10:03:02+02:00",
-    "media_id": "esqxw4na2nr2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6232633/beving-die-mars-met-enorme-krater-achterliet-veroorzaakt-door-meteorietinslag.html",
     "open_new_window": false,
     "partner": null
   }
