@@ -1,12 +1,58 @@
 [
   {
+    "id": 6232925,
+    "slug": "betsema-boekt-in-ruddervoorde-eerste-veldritzege-van-seizoen-nederlands-podium",
+    "type": "article",
+    "title": "Betsema boekt in Ruddervoorde eerste veldritzege van seizoen, Nederlands podium",
+    "subtitle": null,
+    "published_at": "2022-10-29T15:39:12+02:00",
+    "updated_at": "2022-10-29T15:39:14+02:00",
+    "media_id": "5e7x0kna2hy7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6232925/betsema-boekt-in-ruddervoorde-eerste-veldritzege-van-seizoen-nederlands-podium.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232924,
+    "slug": "vrije-trap-de-bruyne-levert-manchester-city-volle-buit-op-tegen-leicester-city",
+    "type": "article",
+    "title": "Vrije trap De Bruyne levert Manchester City volle buit op tegen Leicester City",
+    "subtitle": null,
+    "published_at": "2022-10-29T15:22:51+02:00",
+    "updated_at": "2022-10-29T15:35:17+02:00",
+    "media_id": "vqgx7lmac115",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232924/vrije-trap-de-bruyne-levert-manchester-city-volle-buit-op-tegen-leicester-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232922,
     "slug": "noppert-klopt-van-der-voort-na-beslissende-leg-en-bereikt-kwartfinales-ek-darts",
     "type": "article",
     "title": "Noppert klopt Van der Voort na beslissende leg en bereikt kwartfinales EK darts",
     "subtitle": null,
     "published_at": "2022-10-29T15:16:09+02:00",
-    "updated_at": "2022-10-29T15:16:10+02:00",
+    "updated_at": "2022-10-29T15:33:14+02:00",
     "media_id": "nv1x7t8ahx36",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6232861/weer-wk-schandaal-qatar-zet-duizenden-arbeiders-uit-huizen-voor-voetbalfans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232859,
-    "slug": "van-gerwen-had-last-van-wind-op-ek-darts-dobey-ging-daar-beter-mee-om",
-    "type": "article",
-    "title": "Van Gerwen had last van wind op EK darts: 'Dobey ging daar beter mee om'",
-    "subtitle": null,
-    "published_at": "2022-10-29T09:42:34+02:00",
-    "updated_at": "2022-10-29T15:10:48+02:00",
-    "media_id": "8zsxyi1aeo51",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6232859/van-gerwen-had-last-van-wind-op-ek-darts-dobey-ging-daar-beter-mee-om.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232854,
-    "slug": "kuijt-mijdt-ado-kleedkamer-na-verlies-geen-dingen-zeggen-waar-ik-spijt-van-krijg",
-    "type": "article",
-    "title": "Kuijt mijdt ADO-kleedkamer na verlies: 'Geen dingen zeggen waar ik spijt van krijg'",
-    "subtitle": null,
-    "published_at": "2022-10-29T09:14:41+02:00",
-    "updated_at": "2022-10-29T09:48:54+02:00",
-    "media_id": "0ulxu48aexkf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6232854/kuijt-mijdt-ado-kleedkamer-na-verlies-geen-dingen-zeggen-waar-ik-spijt-van-krijg.html",
     "open_new_window": false,
     "partner": null
   }
