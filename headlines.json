@@ -1,5 +1,51 @@
 [
   {
+    "id": 6232538,
+    "slug": "borstkankerpatienten-op-maat-behandelen-voorkomt-onnodige-chemo-of-medicatie",
+    "type": "article",
+    "title": "Borstkankerpatiënten op maat behandelen voorkomt onnodige chemo of medicatie",
+    "subtitle": null,
+    "published_at": "2022-10-30T05:58:19+01:00",
+    "updated_at": "2022-10-30T05:58:20+01:00",
+    "media_id": "2eoxa01aes6g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6232538/borstkankerpatienten-op-maat-behandelen-voorkomt-onnodige-chemo-of-medicatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232701,
+    "slug": "coldplay-probeert-klimaatvriendelijk-te-touren-maar-krijgt-toch-kritiek",
+    "type": "article",
+    "title": "Coldplay probeert klimaatvriendelijk te touren, maar krijgt toch kritiek",
+    "subtitle": null,
+    "published_at": "2022-10-30T05:57:02+01:00",
+    "updated_at": "2022-10-30T05:57:03+01:00",
+    "media_id": "df3xmeca8nxs",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6232701/coldplay-probeert-klimaatvriendelijk-te-touren-maar-krijgt-toch-kritiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232448,
     "slug": "lifehack-zo-gebruik-je-je-oude-smartphone-als-dashcam",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6232951/verhoeven-verlengt-ongeslagen-reeks-met-overwinning-op-gerges-in-ahoy.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232959,
-    "slug": "schulting-wint-1500-meter-bij-wereldbeker-velzeboer-zegeviert-op-1000-meter",
-    "type": "article",
-    "title": "Schulting wint 1.500 meter bij wereldbeker, Velzeboer zegeviert op 1.000 meter",
-    "subtitle": null,
-    "published_at": "2022-10-29T22:05:58+02:00",
-    "updated_at": "2022-10-29T23:18:16+02:00",
-    "media_id": "jc2xoican10x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6232959/schulting-wint-1500-meter-bij-wereldbeker-velzeboer-zegeviert-op-1000-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232679,
-    "slug": "babyzwemmen-springplank-naar-een-vlot-a-diploma",
-    "type": "article",
-    "title": "Babyzwemmen: springplank naar een vlot A-diploma?",
-    "subtitle": null,
-    "published_at": "2022-10-29T21:33:48+02:00",
-    "updated_at": "2022-10-29T21:33:48+02:00",
-    "media_id": "vesx7hqaha3g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778688,
-      "slug": "kind-gezin",
-      "type": "default",
-      "name": "Kind & Gezin",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/kind-gezin/6232679/babyzwemmen-springplank-naar-een-vlot-a-diploma.html",
     "open_new_window": false,
     "partner": null
   }
