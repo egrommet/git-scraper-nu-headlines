@@ -1,12 +1,35 @@
 [
   {
+    "id": 6232987,
+    "slug": "feest-in-amstelveen-loopt-flink-uit-de-hand-politie-houdt-meerdere-mensen-aan",
+    "type": "article",
+    "title": "Feest in Amstelveen loopt flink uit de hand, politie houdt meerdere mensen aan",
+    "subtitle": null,
+    "published_at": "2022-10-30T09:27:56+01:00",
+    "updated_at": "2022-10-30T09:32:50+01:00",
+    "media_id": "unax1d5aafvy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6232987/feest-in-amstelveen-loopt-flink-uit-de-hand-politie-houdt-meerdere-mensen-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232988,
     "slug": "bezorgde-klopp-denkt-dat-cl-ticket-onhaalbaar-is-als-liverpool-zo-blijft-spelen",
     "type": "article",
     "title": "Bezorgde Klopp denkt dat CL-ticket onhaalbaar is als Liverpool zo blijft spelen",
     "subtitle": null,
     "published_at": "2022-10-30T09:22:13+01:00",
-    "updated_at": "2022-10-30T09:22:14+01:00",
+    "updated_at": "2022-10-30T09:29:23+01:00",
     "media_id": "plrxen3aq756",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Meerdere Oekraïense schepen liggen stil vanwege Russische stop op graandeal",
     "subtitle": null,
     "published_at": "2022-10-30T09:14:24+01:00",
-    "updated_at": "2022-10-30T09:14:25+01:00",
+    "updated_at": "2022-10-30T09:36:00+01:00",
     "media_id": "iapxf6ha9ltz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport/6232974/verhoeven-en-gerges-klaagden-over-ringroest-maar-wat-is-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232973,
-    "slug": "uurtje-langer-slapen-de-wintertijd-is-vannacht-ingegaan",
-    "type": "article",
-    "title": "Uurtje langer slapen: de wintertijd is vannacht ingegaan",
-    "subtitle": null,
-    "published_at": "2022-10-30T02:01:12+01:00",
-    "updated_at": "2022-10-30T07:38:14+01:00",
-    "media_id": "noixlctaodtr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6232973/uurtje-langer-slapen-de-wintertijd-is-vannacht-ingegaan.html",
     "open_new_window": false,
     "partner": null
   }
