@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233438,
+    "slug": "nog-2-van-24-mensen-vast-na-ongeregeldheden-bij-feest-amstelveen",
+    "type": "article",
+    "title": "Nog 2 van 24 mensen vast na ongeregeldheden bij feest Amstelveen",
+    "subtitle": null,
+    "published_at": "2022-11-01T15:40:12+01:00",
+    "updated_at": "2022-11-01T15:40:14+01:00",
+    "media_id": "5y5xal9aubji",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233438/nog-2-van-24-mensen-vast-na-ongeregeldheden-bij-feest-amstelveen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233432,
     "slug": "selectiecommissie-songfestival-kreeg-honderden-nummers-ook-van-bekende-namen",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6233434,
-    "slug": "van-empel-wint-vier-dagen-voor-ek-veldrijden-ook-koppenbergcross",
+    "slug": "van-empel-soleert-in-week-van-ek-veldrijden-ook-naar-zege-in-koppenbergcross",
     "type": "article",
-    "title": "Van Empel wint vier dagen voor EK veldrijden ook Koppenbergcross",
+    "title": "Van Empel soleert in week van EK veldrijden ook naar zege in Koppenbergcross",
     "subtitle": null,
     "published_at": "2022-11-01T15:06:59+01:00",
-    "updated_at": "2022-11-01T15:07:01+01:00",
+    "updated_at": "2022-11-01T15:29:03+01:00",
     "media_id": "57wx3q7a09hh",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6233434/van-empel-wint-vier-dagen-voor-ek-veldrijden-ook-koppenbergcross.html",
+    "url": "/sport-overig/6233434/van-empel-soleert-in-week-van-ek-veldrijden-ook-naar-zege-in-koppenbergcross.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6233382/tenacious-d-treedt-volgend-jaar-juni-op-in-rotterdam-ahoy.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233380,
-    "slug": "prijsplafond-voor-energie-voor-iedereen-is-na-2023-echt-afgelopen",
-    "type": "article",
-    "title": "Prijsplafond voor energie voor iedereen is na 2023 echt afgelopen",
-    "subtitle": null,
-    "published_at": "2022-11-01T11:22:54+01:00",
-    "updated_at": "2022-11-01T11:57:44+01:00",
-    "media_id": "puyxdzgai4kl",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6233380/prijsplafond-voor-energie-voor-iedereen-is-na-2023-echt-afgelopen.html",
     "open_new_window": false,
     "partner": null
   }
