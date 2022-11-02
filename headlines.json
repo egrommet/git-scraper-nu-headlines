@@ -1,13 +1,36 @@
 [
   {
+    "id": 6233648,
+    "slug": "stadion-fc-utrecht-decor-van-grote-antiterreuroefening",
+    "type": "video",
+    "title": "Stadion FC Utrecht decor van grote antiterreuroefening",
+    "subtitle": "Video",
+    "published_at": "2022-11-02T13:34:02+01:00",
+    "updated_at": "2022-11-02T13:34:03+01:00",
+    "media_id": "2jkxr2hahd6u",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233648/stadion-fc-utrecht-decor-van-grote-antiterreuroefening.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233639,
-    "slug": "selinger-stopt-als-bondscoach-van-nederlandse-volleybalsters",
+    "slug": "selinger-stopt-na-teleurstellend-wk-als-bondscoach-nederlandse-volleybalsters",
     "type": "article",
-    "title": "Selinger stopt als bondscoach van Nederlandse volleybalsters",
+    "title": "Selinger stopt na teleurstellend WK als bondscoach Nederlandse volleybalsters",
     "subtitle": null,
     "published_at": "2022-11-02T12:40:44+01:00",
-    "updated_at": "2022-11-02T12:45:18+01:00",
-    "media_id": "45kxsq8a1nk5",
+    "updated_at": "2022-11-02T13:25:01+01:00",
+    "media_id": "9u3x2x7aufii",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6233639/selinger-stopt-als-bondscoach-van-nederlandse-volleybalsters.html",
+    "url": "/sport-overig/6233639/selinger-stopt-na-teleurstellend-wk-als-bondscoach-nederlandse-volleybalsters.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Jumbo stopt per direct met WK-reclamespot na storm van kritiek",
     "subtitle": null,
     "published_at": "2022-11-02T12:40:32+01:00",
-    "updated_at": "2022-11-02T12:45:04+01:00",
+    "updated_at": "2022-11-02T13:17:08+01:00",
     "media_id": "nzmx9diadtk4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6233586/australische-dierenverzorgers-onderzoeken-leeuwenverblijf-na-ontsnapping.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233580,
-    "slug": "hollywood-verfilmt-tweede-boek-van-zweedse-auteur-jonas-jonasson",
-    "type": "article",
-    "title": "Hollywood verfilmt tweede boek van Zweedse auteur Jonas Jonasson",
-    "subtitle": null,
-    "published_at": "2022-11-02T09:29:16+01:00",
-    "updated_at": "2022-11-02T09:29:17+01:00",
-    "media_id": "fmdxpvva7xdu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6233580/hollywood-verfilmt-tweede-boek-van-zweedse-auteur-jonas-jonasson.html",
     "open_new_window": false,
     "partner": null
   }
