@@ -1,5 +1,28 @@
 [
   {
+    "id": 6234513,
+    "slug": "aantal-klimaatactivisten-dat-is-opgepakt-bij-schiphol-bijgesteld-naar-driehonderd",
+    "type": "article",
+    "title": "Aantal klimaatactivisten dat is opgepakt bij Schiphol bijgesteld naar driehonderd",
+    "subtitle": null,
+    "published_at": "2022-11-07T10:32:49+01:00",
+    "updated_at": "2022-11-07T10:32:50+01:00",
+    "media_id": "u1cxm7habvrk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234513/aantal-klimaatactivisten-dat-is-opgepakt-bij-schiphol-bijgesteld-naar-driehonderd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234512,
     "slug": "tientallen-huizen-in-texas-weggevaagd-door-tornado",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Hypotheekrentes dalen licht na wekenlange stijging",
     "subtitle": null,
     "published_at": "2022-11-07T10:12:47+01:00",
-    "updated_at": "2022-11-07T10:19:51+01:00",
+    "updated_at": "2022-11-07T10:28:02+01:00",
     "media_id": "sgjxx40adtd2",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Voormalige zorgmedewerkers krijgen volgend jaar 6 procent meer pensioen",
     "subtitle": null,
     "published_at": "2022-11-07T09:13:38+01:00",
-    "updated_at": "2022-11-07T10:12:04+01:00",
+    "updated_at": "2022-11-07T10:26:16+01:00",
     "media_id": "f6qxzyxa2clc",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Goud voor Velzeboer, Schulting en Van 't Wout bij wereldbeker in Salt Lake City",
     "subtitle": null,
     "published_at": "2022-11-07T06:53:29+01:00",
-    "updated_at": "2022-11-07T08:06:28+01:00",
+    "updated_at": "2022-11-07T10:25:43+01:00",
     "media_id": "aafx2hhasfpa",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6234469/van-nistelrooij-ziet-psv-groeien-we-hebben-stabiliteit-gevonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234156,
-    "slug": "ajax-en-psv-in-de-koker-dit-zijn-de-mogelijke-tegenstanders-in-de-tussenronde",
-    "type": "article",
-    "title": "Ajax en PSV in de koker: dit zijn de mogelijke tegenstanders in de tussenronde",
-    "subtitle": null,
-    "published_at": "2022-11-07T06:35:39+01:00",
-    "updated_at": "2022-11-07T08:54:00+01:00",
-    "media_id": "5dfx91ha6ojz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234156/ajax-en-psv-in-de-koker-dit-zijn-de-mogelijke-tegenstanders-in-de-tussenronde.html",
     "open_new_window": false,
     "partner": null
   }
