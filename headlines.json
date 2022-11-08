@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233901,
+    "slug": "het-productteam-van-nunl-we-luisteren-naar-onze-bezoekers",
+    "type": "article",
+    "title": "Het productteam van NU.nl: 'We luisteren naar onze bezoekers'",
+    "subtitle": "Over NU.nl",
+    "published_at": "2022-11-08T09:54:32+01:00",
+    "updated_at": "2022-11-08T09:54:32+01:00",
+    "media_id": "uk3x5lpazzq1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1774275,
+      "slug": "over-nu",
+      "type": "default",
+      "name": "Over NU.nl",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/over-nu/6233901/het-productteam-van-nunl-we-luisteren-naar-onze-bezoekers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234685,
     "slug": "chris-evans-door-people-uitgeroepen-tot-meest-sexy-man-ter-wereld",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6234662/cher-bevestigt-relatie-met-veertig-jaar-jongere-producer-alexander-edwards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234661,
-    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-11-08T06:12:14+01:00",
-    "updated_at": "2022-11-08T06:53:44+01:00",
-    "media_id": "q90x8w2aq9up",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6234661/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
