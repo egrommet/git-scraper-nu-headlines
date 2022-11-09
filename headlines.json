@@ -1,5 +1,28 @@
 [
   {
+    "id": 6234988,
+    "slug": "beleggers-kopen-steeds-minder-huizen-op-in-grote-steden",
+    "type": "article",
+    "title": "Beleggers kopen steeds minder huizen op in grote steden",
+    "subtitle": null,
+    "published_at": "2022-11-09T21:30:33+01:00",
+    "updated_at": "2022-11-09T21:30:48+01:00",
+    "media_id": "8qnxcjnadn8g",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6234988/beleggers-kopen-steeds-minder-huizen-op-in-grote-steden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235099,
     "slug": "sheraldo-becker-opent-op-prachtige-wijze-de-score-voor-union-berlin",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Illegale tabak ter waarde van miljoenen gevonden in Limburgs dorp",
     "subtitle": null,
     "published_at": "2022-11-09T20:53:41+01:00",
-    "updated_at": "2022-11-09T20:58:42+01:00",
+    "updated_at": "2022-11-09T21:28:08+01:00",
     "media_id": "qccxmqzarqng",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6235093,
-    "slug": "nederland-halverwege-op-achterstand-tegen-frankrijk",
+    "slug": "nederland-in-de-achtervolging-op-frankrijk",
     "type": "article",
-    "title": "Nederland halverwege op achterstand tegen Frankrijk",
+    "title": "Nederland in de achtervolging op Frankrijk",
     "subtitle": "Liveblog EK handbal",
     "published_at": "2022-11-09T20:11:17+01:00",
-    "updated_at": "2022-11-09T21:06:55+01:00",
+    "updated_at": "2022-11-09T21:22:56+01:00",
     "media_id": "9akx2rdal0es",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6235093/nederland-halverwege-op-achterstand-tegen-frankrijk.html",
+    "url": "/sport-overig/6235093/nederland-in-de-achtervolging-op-frankrijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -300,13 +323,13 @@
   },
   {
     "id": 6235089,
-    "slug": "ajax-mist-grote-kansen-op-voorsprong-tegen-vitesse",
+    "slug": "ajax-komt-in-slotfase-op-achterstand-tegen-vitesse",
     "type": "article",
-    "title": "Ajax mist grote kansen op voorsprong tegen Vitesse",
+    "title": "Ajax komt in slotfase op achterstand tegen Vitesse",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-11-09T19:29:54+01:00",
-    "updated_at": "2022-11-09T21:11:03+01:00",
-    "media_id": "xtmxyh1awjrr",
+    "updated_at": "2022-11-09T21:33:37+01:00",
+    "media_id": "gvzxkn9akexw",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6235089/ajax-mist-grote-kansen-op-voorsprong-tegen-vitesse.html",
+    "url": "/voetbal/6235089/ajax-komt-in-slotfase-op-achterstand-tegen-vitesse.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6235075/brandweer-redt-zwaan-uit-bovenleiding-tussen-zwolle-en-meppel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234943,
-    "slug": "de-asielwet-in-het-kort-niet-elke-gemeente-zal-verplicht-een-azc-krijgen",
-    "type": "article",
-    "title": "De asielwet in het kort: niet elke gemeente zal verplicht een azc krijgen",
-    "subtitle": null,
-    "published_at": "2022-11-09T17:49:22+01:00",
-    "updated_at": "2022-11-09T17:49:22+01:00",
-    "media_id": "emmxo28alznm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6234943/de-asielwet-in-het-kort-niet-elke-gemeente-zal-verplicht-een-azc-krijgen.html",
     "open_new_window": false,
     "partner": null
   }
