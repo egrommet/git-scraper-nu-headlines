@@ -29,19 +29,19 @@
     "title": "Drukste ochtendspits van het jaar door regen en ongelukken",
     "subtitle": null,
     "published_at": "2022-11-17T08:12:50+01:00",
-    "updated_at": "2022-11-17T08:17:12+01:00",
+    "updated_at": "2022-11-17T08:22:28+01:00",
     "media_id": "1ruxhsra19nk",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1771435,
+      "slug": "binnenland",
       "type": "default",
-      "name": "Algemeen",
+      "name": "Binnenland",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6236667/drukste-ochtendspits-van-het-jaar-door-regen-en-ongelukken.html",
+    "url": "/binnenland/6236667/drukste-ochtendspits-van-het-jaar-door-regen-en-ongelukken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +52,7 @@
     "title": "Werkloosheid daalde licht in oktober",
     "subtitle": null,
     "published_at": "2022-11-17T08:06:10+01:00",
-    "updated_at": "2022-11-17T08:16:58+01:00",
+    "updated_at": "2022-11-17T08:18:54+01:00",
     "media_id": "me7xkilau5bo",
     "duration": null,
     "canonical_section": {
@@ -167,8 +167,8 @@
     "title": "Databureau: Slechts twee landen hebben meer kans op wereldtitel dan Oranje",
     "subtitle": null,
     "published_at": "2022-11-17T07:11:38+01:00",
-    "updated_at": "2022-11-17T07:55:55+01:00",
-    "media_id": "qnnxz13a6amx",
+    "updated_at": "2022-11-17T08:17:32+01:00",
+    "media_id": "8snx18nawayt",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -346,12 +346,12 @@
   },
   {
     "id": 6236573,
-    "slug": "horeca-grijpt-naar-energietoeslag-of-korter-open-om-hoge-energierekening",
+    "slug": "horeca-grijpt-naar-tijdelijke-toeslag-of-korter-open-om-hoge-energierekening",
     "type": "article",
-    "title": "Horeca grijpt naar energietoeslag of korter open om hoge energierekening",
+    "title": "Horeca grijpt naar tijdelijke toeslag of korter open om hoge energierekening",
     "subtitle": null,
     "published_at": "2022-11-17T05:29:59+01:00",
-    "updated_at": "2022-11-17T07:55:55+01:00",
+    "updated_at": "2022-11-17T08:21:20+01:00",
     "media_id": "bcsx8gxado9y",
     "duration": null,
     "canonical_section": {
@@ -363,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6236573/horeca-grijpt-naar-energietoeslag-of-korter-open-om-hoge-energierekening.html",
+    "url": "/economie/6236573/horeca-grijpt-naar-tijdelijke-toeslag-of-korter-open-om-hoge-energierekening.html",
     "open_new_window": false,
     "partner": null
   },
