@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237879,
+    "slug": "southgate-vreest-dat-scheidsrechters-in-nadeel-van-engeland-fluiten-op-wk",
+    "type": "article",
+    "title": "Southgate vreest dat scheidsrechters in nadeel van Engeland fluiten op WK",
+    "subtitle": null,
+    "published_at": "2022-11-23T09:25:09+01:00",
+    "updated_at": "2022-11-23T09:45:33+01:00",
+    "media_id": "y5axnz0a9a4l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237879/southgate-vreest-dat-scheidsrechters-in-nadeel-van-engeland-fluiten-op-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237874,
     "slug": "philips-krijgt-tienduizenden-nieuwe-meldingen-over-apneuapparaten",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Lichaam van vermiste Silvana Heber (36) gevonden in Brabants bosgebied",
     "subtitle": null,
     "published_at": "2022-11-23T06:37:25+01:00",
-    "updated_at": "2022-11-23T07:02:27+01:00",
+    "updated_at": "2022-11-23T09:31:21+01:00",
     "media_id": "mi0xsbkaz4p9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6237830/weerbericht-dag-begint-flink-bewolkt-met-in-de-middag-veel-kans-op-regen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237833,
-    "slug": "raad-jij-het-woord-van-vandaag",
-    "type": "article",
-    "title": "Raad jij Het Woord van vandaag?",
-    "subtitle": null,
-    "published_at": "2022-11-23T05:21:52+01:00",
-    "updated_at": "2022-11-23T08:26:16+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6237833/raad-jij-het-woord-van-vandaag.html",
     "open_new_window": false,
     "partner": null
   }
