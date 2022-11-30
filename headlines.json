@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239372,
+    "slug": "rechtbank-spreekt-zich-uit-over-zeer-gruwelijke-moord-op-ichelle",
+    "type": "video",
+    "title": "Rechtbank spreekt zich uit over 'zeer gruwelijke' moord op Ichelle",
+    "subtitle": "Video",
+    "published_at": "2022-11-30T13:58:36+01:00",
+    "updated_at": "2022-11-30T13:58:37+01:00",
+    "media_id": "ihdxirfayjuq",
+    "duration": "1:04",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6239372/rechtbank-spreekt-zich-uit-over-zeer-gruwelijke-moord-op-ichelle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239364,
     "slug": "wereldkampioen-evenepoel-rijdt-volgend-jaar-giro-en-lijkt-tour-over-te-slaan",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Gelderland ziet na uitspraak rechter geen middel om tamme wolf te verjagen",
     "subtitle": null,
     "published_at": "2022-11-30T13:33:45+01:00",
-    "updated_at": "2022-11-30T13:33:46+01:00",
+    "updated_at": "2022-11-30T13:50:44+01:00",
     "media_id": "ewnx691a9zga",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Aantal uit huis geplaatste kinderen van 'toeslagenouders' blijkt nog groter",
     "subtitle": null,
     "published_at": "2022-11-30T13:17:39+01:00",
-    "updated_at": "2022-11-30T13:36:11+01:00",
+    "updated_at": "2022-11-30T13:41:57+01:00",
     "media_id": "6khx0zoagrf0",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Kneuterigheid populair onder jongeren: wat is ROMO?",
     "subtitle": "Video",
     "published_at": "2022-11-30T12:29:40+01:00",
-    "updated_at": "2022-11-30T12:29:41+01:00",
+    "updated_at": "2022-11-30T13:55:27+01:00",
     "media_id": "vb7xo10admwn",
     "duration": "2:06",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6239332/automobilist-filmt-dodelijke-vuurwerkexplosie-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239320,
-    "slug": "starter-moet-minstens-71000-euro-verdienen-om-een-huis-te-kunnen-kopen",
-    "type": "article",
-    "title": "Starter moet minstens 71.000 euro verdienen om een huis te kunnen kopen",
-    "subtitle": null,
-    "published_at": "2022-11-30T11:20:18+01:00",
-    "updated_at": "2022-11-30T11:20:19+01:00",
-    "media_id": "axlxmmyamrer",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6239320/starter-moet-minstens-71000-euro-verdienen-om-een-huis-te-kunnen-kopen.html",
     "open_new_window": false,
     "partner": null
   }
