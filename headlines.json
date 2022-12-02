@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239970,
+    "slug": "truck-hangt-op-zn-kop-tussen-bruggen-vs",
+    "type": "video",
+    "title": "Truck hangt op z'n kop tussen bruggen VS",
+    "subtitle": "Video",
+    "published_at": "2022-12-02T22:44:18+01:00",
+    "updated_at": "2022-12-02T22:44:19+01:00",
+    "media_id": "ftjx3ozax85f",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6239970/truck-hangt-op-zn-kop-tussen-bruggen-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239966,
     "slug": "drie-verdachten-opgepakt-die-ontsnapte-tbser-vermoedelijk-hebben-geholpen",
     "type": "article",
@@ -52,8 +75,8 @@
     "title": "Zwitserland schakelt Servië van Tadic uit in spektakelstuk en is achtstefinalist",
     "subtitle": null,
     "published_at": "2022-12-02T22:01:00+01:00",
-    "updated_at": "2022-12-02T22:15:04+01:00",
-    "media_id": "28bxurya9nh8",
+    "updated_at": "2022-12-02T22:37:36+01:00",
+    "media_id": "0zuxiwpab9gn",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -75,7 +98,7 @@
     "title": "Kameroen uitgeschakeld ondanks overwinning op B-team van Brazilië",
     "subtitle": null,
     "published_at": "2022-12-02T22:00:45+01:00",
-    "updated_at": "2022-12-02T22:22:08+01:00",
+    "updated_at": "2022-12-02T22:41:00+01:00",
     "media_id": "s2qxm37akk8y",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Kudus ziet bondscoach Addo vertrekken na vroege uitschakeling Ghana op WK",
     "subtitle": null,
     "published_at": "2022-12-02T19:54:49+01:00",
-    "updated_at": "2022-12-02T20:09:04+01:00",
+    "updated_at": "2022-12-02T22:25:54+01:00",
     "media_id": "8ebxps8avcvg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6239940/eu-landen-bereiken-akkoord-over-prijsplafond-russische-olie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239942,
-    "slug": "brandende-coca-cola-truck-rijdt-door-drukke-straat-in-boekarest",
-    "type": "video",
-    "title": "Brandende Coca-Cola truck rijdt door drukke straat in Boekarest",
-    "subtitle": "Video",
-    "published_at": "2022-12-02T18:44:05+01:00",
-    "updated_at": "2022-12-02T18:48:26+01:00",
-    "media_id": "9jfx8e5arkmr",
-    "duration": "0:25",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6239942/brandende-coca-cola-truck-rijdt-door-drukke-straat-in-boekarest.html",
     "open_new_window": false,
     "partner": null
   }
