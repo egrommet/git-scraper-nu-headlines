@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240659,
+    "slug": "fans-marokko-verlaten-feestend-stadion-in-qatar",
+    "type": "video",
+    "title": "Fans Marokko verlaten feestend stadion in Qatar",
+    "subtitle": "Video",
+    "published_at": "2022-12-06T21:18:36+01:00",
+    "updated_at": "2022-12-06T21:18:37+01:00",
+    "media_id": "9nuxbwhain9y",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240659/fans-marokko-verlaten-feestend-stadion-in-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240636,
     "slug": "politie-wist-beelden-van-camera-persfotograaf-vakbond-nvj-huurt-advocaat-in",
     "type": "article",
@@ -162,12 +185,12 @@
   },
   {
     "id": 6240625,
-    "slug": "ontruimingen-in-meerdere-steden-vanwege-onrust-na-wk-duel-marokko-ook-me-aanwezig",
+    "slug": "feestende-voetbalsupporters-zorgden-voor-onrust-in-meerdere-steden-ook-me-ingezet",
     "type": "article",
-    "title": "Ontruimingen in meerdere steden vanwege onrust na WK-duel Marokko, ook ME aanwezig",
+    "title": "Feestende voetbalsupporters zorgden voor onrust in meerdere steden, ook ME ingezet",
     "subtitle": null,
     "published_at": "2022-12-06T19:41:53+01:00",
-    "updated_at": "2022-12-06T20:56:25+01:00",
+    "updated_at": "2022-12-06T21:28:33+01:00",
     "media_id": "5sbxkv8afqs2",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6240625/ontruimingen-in-meerdere-steden-vanwege-onrust-na-wk-duel-marokko-ook-me-aanwezig.html",
+    "url": "/binnenland/6240625/feestende-voetbalsupporters-zorgden-voor-onrust-in-meerdere-steden-ook-me-ingezet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6240599/etoo-biedt-excuses-aan-voor-geweld-tegen-algerijnse-vlogger-in-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240596,
-    "slug": "di-maria-keert-terug-op-trainingsveld-bij-oranjeopponent-argentinie",
-    "type": "article",
-    "title": "Di María keert terug op trainingsveld bij Oranjeopponent Argentinië",
-    "subtitle": null,
-    "published_at": "2022-12-06T17:26:53+01:00",
-    "updated_at": "2022-12-06T18:10:44+01:00",
-    "media_id": "to6x8bma6exf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240596/di-maria-keert-terug-op-trainingsveld-bij-oranjeopponent-argentinie.html",
     "open_new_window": false,
     "partner": null
   }
