@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242553,
+    "slug": "krajicek-haalt-ook-deens-toptalent-rune-naar-abn-amro-open",
+    "type": "article",
+    "title": "Krajicek haalt ook Deens toptalent Rune naar ABN AMRO Open",
+    "subtitle": null,
+    "published_at": "2022-12-16T11:40:14+01:00",
+    "updated_at": "2022-12-16T11:40:15+01:00",
+    "media_id": "0qxxj2ganmqf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6242553/krajicek-haalt-ook-deens-toptalent-rune-naar-abn-amro-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242543,
     "slug": "wijk-in-zevenbergen-afgesloten-vanwege-vermoedens-van-asbest-na-brand",
     "type": "article",
@@ -374,7 +397,7 @@
     "title": "Afscheidsconcert van zieke Rob de Nijs trekt 1,2 miljoen kijkers",
     "subtitle": null,
     "published_at": "2022-12-16T08:28:07+01:00",
-    "updated_at": "2022-12-16T11:11:15+01:00",
+    "updated_at": "2022-12-16T11:29:16+01:00",
     "media_id": "btrxcojatmaj",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Strooiwagen belandt in sloot Den Haag, ook elders ongelukken door gladheid",
     "subtitle": null,
     "published_at": "2022-12-16T07:51:47+01:00",
-    "updated_at": "2022-12-16T10:29:49+01:00",
+    "updated_at": "2022-12-16T11:32:17+01:00",
     "media_id": "vgvxokja7qvh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6242478/shell-en-eneco-bouwen-nieuw-windpark-op-noordzee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242476,
-    "slug": "steenbergen-pakt-goud-op-wk-kortebaan-brons-voor-schouten-en-estafettezwemmers",
-    "type": "article",
-    "title": "Steenbergen pakt goud op WK kortebaan, brons voor Schouten en estafettezwemmers",
-    "subtitle": null,
-    "published_at": "2022-12-16T07:42:30+01:00",
-    "updated_at": "2022-12-16T11:19:08+01:00",
-    "media_id": "346xbvgarl2j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6242476/steenbergen-pakt-goud-op-wk-kortebaan-brons-voor-schouten-en-estafettezwemmers.html",
     "open_new_window": false,
     "partner": null
   }
