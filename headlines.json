@@ -1,12 +1,35 @@
 [
   {
+    "id": 6243617,
+    "slug": "koning-charles-geeft-william-catherine-en-vrouw-camilla-nieuwe-eretitels",
+    "type": "article",
+    "title": "Koning Charles geeft William, Catherine en vrouw Camilla nieuwe eretitels",
+    "subtitle": null,
+    "published_at": "2022-12-22T08:18:59+01:00",
+    "updated_at": "2022-12-22T08:19:00+01:00",
+    "media_id": "hkjx74zaczcp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6243617/koning-charles-geeft-william-catherine-en-vrouw-camilla-nieuwe-eretitels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243614,
     "slug": "silly-walk-uit-monty-python-is-volgens-onderzoekers-heel-goed-voor-je-fitheid",
     "type": "article",
     "title": "'Silly walk' uit Monty Python is volgens onderzoekers heel goed voor je fitheid",
     "subtitle": null,
     "published_at": "2022-12-22T07:57:22+01:00",
-    "updated_at": "2022-12-22T08:14:48+01:00",
+    "updated_at": "2022-12-22T08:16:02+01:00",
     "media_id": "00txbayazrym",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Weghorst blikt terug op akkefietje met Messi: 'Hij kent nu wel mijn naam'",
     "subtitle": null,
     "published_at": "2022-12-22T07:20:51+01:00",
-    "updated_at": "2022-12-22T07:54:14+01:00",
+    "updated_at": "2022-12-22T08:15:55+01:00",
     "media_id": "2e0xwdyals8y",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6243590/giel-beelen-wint-marconi-oeuvre-award-voor-radiocarriere-monstertalent.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243589,
-    "slug": "vs-belooft-oekraine-blijvende-steun-zelensky-maakt-vergelijking-met-1944",
-    "type": "article",
-    "title": "VS belooft Oekraïne blijvende steun, Zelensky maakt vergelijking met 1944",
-    "subtitle": null,
-    "published_at": "2022-12-22T00:14:22+01:00",
-    "updated_at": "2022-12-22T08:01:17+01:00",
-    "media_id": "hiyx3tsas9vi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6243589/vs-belooft-oekraine-blijvende-steun-zelensky-maakt-vergelijking-met-1944.html",
     "open_new_window": false,
     "partner": null
   }
