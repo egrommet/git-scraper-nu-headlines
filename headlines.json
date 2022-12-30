@@ -1,12 +1,35 @@
 [
   {
+    "id": 6245017,
+    "slug": "kwallen-drijven-door-straten-na-stormvloed-in-vs",
+    "type": "video",
+    "title": "Kwallen drijven door straten na stormvloed in VS",
+    "subtitle": "Video",
+    "published_at": "2022-12-30T16:25:59+01:00",
+    "updated_at": "2022-12-30T16:26:00+01:00",
+    "media_id": "yptxp2bapw9q",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245017/kwallen-drijven-door-straten-na-stormvloed-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245010,
     "slug": "iraanse-schaakster-vlucht-naar-spanje-na-foto-waarop-ze-geen-hoofddoek-draagt",
     "type": "article",
     "title": "Iraanse schaakster vlucht naar Spanje na foto waarop ze geen hoofddoek draagt",
     "subtitle": null,
     "published_at": "2022-12-30T16:21:15+01:00",
-    "updated_at": "2022-12-30T16:21:16+01:00",
+    "updated_at": "2022-12-30T16:32:17+01:00",
     "media_id": "7zlxx8aa5z00",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Brobbey loodst Ajax met hattrick langs Telstar in oefenduel van 120 minuten",
     "subtitle": null,
     "published_at": "2022-12-30T14:28:25+01:00",
-    "updated_at": "2022-12-30T15:30:55+01:00",
+    "updated_at": "2022-12-30T16:37:16+01:00",
     "media_id": "63yxo4galt5t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6244981/politie-vindt-wapens-en-geld-tijdens-inval-bij-controversiele-influencer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244978,
-    "slug": "nederlandse-clubs-houden-volgende-week-minuut-stilte-voor-pele",
-    "type": "article",
-    "title": "Nederlandse clubs houden volgende week minuut stilte voor Pelé",
-    "subtitle": null,
-    "published_at": "2022-12-30T12:57:16+01:00",
-    "updated_at": "2022-12-30T15:16:48+01:00",
-    "media_id": "clcxi9yahgxk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6244978/nederlandse-clubs-houden-volgende-week-minuut-stilte-voor-pele.html",
     "open_new_window": false,
     "partner": null
   }
