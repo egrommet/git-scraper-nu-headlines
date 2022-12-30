@@ -1,12 +1,35 @@
 [
   {
+    "id": 6244888,
+    "slug": "kennisinstituut-voor-veilig-werkklimaat-ontslaat-directeur-vanwege-wangedrag",
+    "type": "article",
+    "title": "Kennisinstituut voor veilig werkklimaat ontslaat directeur vanwege wangedrag",
+    "subtitle": null,
+    "published_at": "2022-12-30T07:23:19+01:00",
+    "updated_at": "2022-12-30T07:23:20+01:00",
+    "media_id": "fi8xnalawe00",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6244888/kennisinstituut-voor-veilig-werkklimaat-ontslaat-directeur-vanwege-wangedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244887,
     "slug": "nog-eens-zeven-jaar-cel-voor-oud-premier-van-myanmar-aung-san-suu-kyi",
     "type": "article",
     "title": "Nog eens zeven jaar cel voor oud-premier van Myanmar Aung San Suu Kyi",
     "subtitle": null,
     "published_at": "2022-12-30T07:21:18+01:00",
-    "updated_at": "2022-12-30T07:21:19+01:00",
+    "updated_at": "2022-12-30T07:31:06+01:00",
     "media_id": "bjhxgzcatxmy",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Krol mag titel niet verdedigen: 'Wonder dat ik dat EK sprint ooit heb gewonnen'",
     "subtitle": null,
     "published_at": "2022-12-30T06:28:22+01:00",
-    "updated_at": "2022-12-30T06:28:24+01:00",
+    "updated_at": "2022-12-30T07:24:33+01:00",
     "media_id": "97ax20zafg2m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6244873/brazilie-in-diepe-rouw-pele-krijgt-maandag-en-dinsdag-groots-afscheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244872,
-    "slug": "infantino-over-pele-als-je-met-hem-samen-was-stond-de-wereld-even-stil",
-    "type": "article",
-    "title": "Infantino over Pelé: 'Als je met hem samen was, stond de wereld even stil'",
-    "subtitle": null,
-    "published_at": "2022-12-29T23:29:29+01:00",
-    "updated_at": "2022-12-29T23:29:30+01:00",
-    "media_id": "nlsxou4a55c4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6244872/infantino-over-pele-als-je-met-hem-samen-was-stond-de-wereld-even-stil.html",
     "open_new_window": false,
     "partner": null
   }
