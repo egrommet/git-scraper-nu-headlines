@@ -1,12 +1,35 @@
 [
   {
-    "id": 6246337,
-    "slug": "opgave-van-rijthoven-bij-kwalificatie-australian-open-ook-brouwer-rus-en-vedder-onderuit",
+    "id": 6246340,
+    "slug": "consumenten-proberen-te-bezuinigen-op-uitgaven-aan-eten-en-drinken",
     "type": "article",
-    "title": "Opgave Van Rijthoven bij kwalificatie Australian Open, ook Brouwer, Rus en Vedder onderuit",
+    "title": "Consumenten proberen te bezuinigen op uitgaven aan eten en drinken",
+    "subtitle": null,
+    "published_at": "2023-01-10T07:45:47+01:00",
+    "updated_at": "2023-01-10T07:45:48+01:00",
+    "media_id": "jqhxkaua299a",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6246340/consumenten-proberen-te-bezuinigen-op-uitgaven-aan-eten-en-drinken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246337,
+    "slug": "van-rijthoven-geeft-op-bij-kwalificatie-australian-open-vanwege-blessure",
+    "type": "article",
+    "title": "Van Rijthoven geeft op bij kwalificatie Australian Open vanwege blessure",
     "subtitle": null,
     "published_at": "2023-01-10T07:30:55+01:00",
-    "updated_at": "2023-01-10T07:30:56+01:00",
+    "updated_at": "2023-01-10T07:36:41+01:00",
     "media_id": "eltx2x8atutp",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6246337/opgave-van-rijthoven-bij-kwalificatie-australian-open-ook-brouwer-rus-en-vedder-onderuit.html",
+    "url": "/tennis/6246337/van-rijthoven-geeft-op-bij-kwalificatie-australian-open-vanwege-blessure.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Zeker twaalf mensen omgekomen door aanhoudend noodweer in Californië",
     "subtitle": null,
     "published_at": "2023-01-10T07:05:14+01:00",
-    "updated_at": "2023-01-10T07:05:16+01:00",
+    "updated_at": "2023-01-10T07:43:30+01:00",
     "media_id": "pm0xm2kalzvf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6246321/wereldberoemd-restaurant-noma-sluit-eind-2024-de-deuren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246280,
-    "slug": "az-versterkt-zich-met-ervaren-doelman-ryan-van-australisch-elftal",
-    "type": "article",
-    "title": "AZ versterkt zich met ervaren doelman Ryan van Australisch elftal",
-    "subtitle": null,
-    "published_at": "2023-01-09T22:06:21+01:00",
-    "updated_at": "2023-01-10T00:45:27+01:00",
-    "media_id": "l8tx3wtafxrf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246280/az-versterkt-zich-met-ervaren-doelman-ryan-van-australisch-elftal.html",
     "open_new_window": false,
     "partner": null
   }
