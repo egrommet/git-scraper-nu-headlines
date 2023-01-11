@@ -1,12 +1,35 @@
 [
   {
-    "id": 6246468,
-    "slug": "regionale-vervoerders-leggen-vrijdag-opnieuw-het-werk-neer",
+    "id": 6246470,
+    "slug": "hartono-heeft-nog-een-zege-nodig-voor-tweede-australian-open-deelname",
     "type": "article",
-    "title": "Regionale vervoerders leggen vrijdag opnieuw het werk neer",
+    "title": "Hartono heeft nog één zege nodig voor tweede Australian Open-deelname",
+    "subtitle": null,
+    "published_at": "2023-01-11T07:27:13+01:00",
+    "updated_at": "2023-01-11T07:33:07+01:00",
+    "media_id": "f1rx54xaxpt5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246470/hartono-heeft-nog-een-zege-nodig-voor-tweede-australian-open-deelname.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246468,
+    "slug": "regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer",
+    "type": "article",
+    "title": "Regionale vervoerders leggen vrijdag opnieuw werk neer",
     "subtitle": null,
     "published_at": "2023-01-11T07:22:06+01:00",
-    "updated_at": "2023-01-11T07:22:07+01:00",
+    "updated_at": "2023-01-11T07:31:26+01:00",
     "media_id": "nsmxu6wajq3h",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6246468/regionale-vervoerders-leggen-vrijdag-opnieuw-het-werk-neer.html",
+    "url": "/economie/6246468/regionale-vervoerders-leggen-vrijdag-opnieuw-werk-neer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Ajax moet tegen FC Den Bosch slechtste reeks sinds 2006 zien te voorkomen",
     "subtitle": null,
     "published_at": "2023-01-11T05:49:58+01:00",
-    "updated_at": "2023-01-11T07:05:01+01:00",
+    "updated_at": "2023-01-11T07:23:39+01:00",
     "media_id": "25hx0cgadbvr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246450/voormalig-financieel-topman-van-the-trump-organization-krijgt-vijf-maanden-cel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246447,
-    "slug": "politie-zoekt-vermeende-drugsbaronnen-en-opdrachtgevers-voor-geweld",
-    "type": "article",
-    "title": "Politie zoekt vermeende drugsbaronnen en opdrachtgevers voor geweld",
-    "subtitle": null,
-    "published_at": "2023-01-10T21:09:23+01:00",
-    "updated_at": "2023-01-10T21:39:46+01:00",
-    "media_id": "ra9xi5wac3it",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246447/politie-zoekt-vermeende-drugsbaronnen-en-opdrachtgevers-voor-geweld.html",
     "open_new_window": false,
     "partner": null
   }
