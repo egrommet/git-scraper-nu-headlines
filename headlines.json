@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247143,
+    "slug": "gasprijs-duikt-onder-de-60-euro-laagste-punt-in-ruim-een-jaar",
+    "type": "article",
+    "title": "Gasprijs duikt onder de 60 euro: laagste punt in ruim een jaar",
+    "subtitle": null,
+    "published_at": "2023-01-16T09:36:58+01:00",
+    "updated_at": "2023-01-16T09:36:59+01:00",
+    "media_id": "0m7x5jza7dcu",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6247143/gasprijs-duikt-onder-de-60-euro-laagste-punt-in-ruim-een-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247141,
     "slug": "twitter-blokkeert-zonder-aankondiging-toegang-voor-externe-apps",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6246871/rechter-bepaalt-of-ron-jeremy-berecht-kan-worden-waar-wordt-hij-van-verdacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246735,
-    "slug": "wielerseizoen-van-start-met-tour-down-under-dit-zijn-de-opvallendste-transfers",
-    "type": "article",
-    "title": "Wielerseizoen van start met Tour Down Under: dit zijn de opvallendste transfers",
-    "subtitle": null,
-    "published_at": "2023-01-16T05:33:04+01:00",
-    "updated_at": "2023-01-16T05:33:05+01:00",
-    "media_id": "tgxxnl6a22l1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6246735/wielerseizoen-van-start-met-tour-down-under-dit-zijn-de-opvallendste-transfers.html",
     "open_new_window": false,
     "partner": null
   }
