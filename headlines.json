@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247990,
+    "slug": "bewakingscameras-filmen-meteoriet-die-hemel-boven-vs-verlicht",
+    "type": "video",
+    "title": "Bewakingscamera's filmen meteoriet die hemel boven VS verlicht",
+    "subtitle": "Video",
+    "published_at": "2023-01-21T21:36:52+01:00",
+    "updated_at": "2023-01-21T21:36:53+01:00",
+    "media_id": "39sxackajyx8",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247990/bewakingscameras-filmen-meteoriet-die-hemel-boven-vs-verlicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247989,
     "slug": "nec-verlengt-sterke-thuisreeks-met-simpele-overwinning-tegen-fc-emmen",
     "type": "article",
@@ -208,12 +231,12 @@
   },
   {
     "id": 6247970,
-    "slug": "til-zet-psv-met-hulp-van-keeper-scherpen-op-voorsprong",
+    "slug": "psv-verdedigt-minimale-voorsprong-tegen-vitesse",
     "type": "article",
-    "title": "Til zet PSV met hulp van keeper Scherpen op voorsprong",
+    "title": "PSV verdedigt minimale voorsprong tegen Vitesse",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-21T18:23:49+01:00",
-    "updated_at": "2023-01-21T21:14:41+01:00",
+    "updated_at": "2023-01-21T21:27:30+01:00",
     "media_id": "845x4rpa8r8b",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247970/til-zet-psv-met-hulp-van-keeper-scherpen-op-voorsprong.html",
+    "url": "/voetbal/6247970/psv-verdedigt-minimale-voorsprong-tegen-vitesse.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6247971/southampton-aston-villa-kort-onderbroken-vanwege-overvliegende-drone.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247969,
-    "slug": "van-gerwen-verliest-in-thriller-van-wright-bij-eerste-toernooi-sinds-wk",
-    "type": "article",
-    "title": "Van Gerwen verliest in thriller van Wright bij eerste toernooi sinds WK",
-    "subtitle": null,
-    "published_at": "2023-01-21T16:48:24+01:00",
-    "updated_at": "2023-01-21T17:07:18+01:00",
-    "media_id": "hzhxy82aq3h0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6247969/van-gerwen-verliest-in-thriller-van-wright-bij-eerste-toernooi-sinds-wk.html",
     "open_new_window": false,
     "partner": null
   }
