@@ -1,12 +1,35 @@
 [
   {
-    "id": 6248426,
-    "slug": "overzicht-klimaatuitgaven-bij-kabinet-een-puinhoop-kamer-tast-in-het-duister",
+    "id": 6248427,
+    "slug": "rick-and-morty-bedenker-moet-stoppen-bij-show-na-aanklacht-huiselijk-geweld",
     "type": "article",
-    "title": "Overzicht klimaatuitgaven bij kabinet een puinhoop, Kamer tast in het duister",
+    "title": "Rick and Morty-bedenker moet stoppen bij show na aanklacht huiselijk geweld",
+    "subtitle": null,
+    "published_at": "2023-01-25T11:25:57+01:00",
+    "updated_at": "2023-01-25T11:25:58+01:00",
+    "media_id": "kecx43uapzow",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6248427/rick-and-morty-bedenker-moet-stoppen-bij-show-na-aanklacht-huiselijk-geweld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248426,
+    "slug": "overzicht-klimaatuitgaven-is-bij-kabinet-een-puinhoop-kamer-tast-in-het-duister",
+    "type": "article",
+    "title": "Overzicht klimaatuitgaven is bij kabinet een puinhoop, Kamer tast in het duister",
     "subtitle": null,
     "published_at": "2023-01-25T11:17:57+01:00",
-    "updated_at": "2023-01-25T11:18:27+01:00",
+    "updated_at": "2023-01-25T11:27:11+01:00",
     "media_id": "ldaxkmzawwz2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6248426/overzicht-klimaatuitgaven-bij-kabinet-een-puinhoop-kamer-tast-in-het-duister.html",
+    "url": "/politiek/6248426/overzicht-klimaatuitgaven-is-bij-kabinet-een-puinhoop-kamer-tast-in-het-duister.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Nederland treft in eigen land Kroatië in halve finales Nations League",
     "subtitle": null,
     "published_at": "2023-01-25T11:11:37+01:00",
-    "updated_at": "2023-01-25T11:11:43+01:00",
+    "updated_at": "2023-01-25T11:20:18+01:00",
     "media_id": "vxfxgkwa7kn2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6248234/stelling-eredivisie-wedstrijden-moeten-zonder-uitpubliek-worden-gespeeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248314,
-    "slug": "door-onze-duurzamere-huizen-wordt-de-vleermuis-juist-dakloos",
-    "type": "article",
-    "title": "Door onze duurzamere huizen wordt de vleermuis juist dakloos",
-    "subtitle": null,
-    "published_at": "2023-01-25T06:49:09+01:00",
-    "updated_at": "2023-01-25T11:10:21+01:00",
-    "media_id": "wzuxm1kar8up",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6248314/door-onze-duurzamere-huizen-wordt-de-vleermuis-juist-dakloos.html",
     "open_new_window": false,
     "partner": null
   }
