@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248657,
+    "slug": "ongeluk-waarbij-trein-lijnbus-doorboorde-niet-de-schuld-van-de-buschauffeur",
+    "type": "article",
+    "title": "Ongeluk waarbij trein lijnbus doorboorde niet de schuld van de buschauffeur",
+    "subtitle": null,
+    "published_at": "2023-01-26T17:27:14+01:00",
+    "updated_at": "2023-01-26T17:27:15+01:00",
+    "media_id": "cj0xjljah4vr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248657/ongeluk-waarbij-trein-lijnbus-doorboorde-niet-de-schuld-van-de-buschauffeur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248652,
     "slug": "archeologen-vinden-mogelijk-oudste-mummie-ooit-in-egypte",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Nederlandse onderzoekers vinden nieuwe zwakke plek in Antarctische ijskap",
     "subtitle": null,
     "published_at": "2023-01-26T17:16:41+01:00",
-    "updated_at": "2023-01-26T17:16:43+01:00",
+    "updated_at": "2023-01-26T17:37:26+01:00",
     "media_id": "zi0xcv3aftmh",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Earnest Stewart volgt John de Jong op als technisch directeur bij PSV",
     "subtitle": null,
     "published_at": "2023-01-26T16:52:38+01:00",
-    "updated_at": "2023-01-26T17:21:55+01:00",
+    "updated_at": "2023-01-26T17:38:28+01:00",
     "media_id": "xyfxqusat8yw",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Van Zundert plaatst zich overtuigend voor vrije kür op EK kunstrijden",
     "subtitle": null,
     "published_at": "2023-01-26T16:35:41+01:00",
-    "updated_at": "2023-01-26T16:35:42+01:00",
+    "updated_at": "2023-01-26T17:25:36+01:00",
     "media_id": "7ulxnyradv0m",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Nieuwe zoekactie op Wadden naar jongen die vermist raakte bij bootongeluk",
     "subtitle": null,
     "published_at": "2023-01-26T16:31:54+01:00",
-    "updated_at": "2023-01-26T17:21:05+01:00",
+    "updated_at": "2023-01-26T17:34:59+01:00",
     "media_id": "zlex1qqaa2l5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6248619/sbs6-komt-met-nieuwe-talentenjacht-de-winnaar-mag-optreden-op-pinkpop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248623,
-    "slug": "palestijnen-melden-9-doden-bij-aanval-israel-op-westelijke-jordaanoever",
-    "type": "article",
-    "title": "Palestijnen melden 9 doden bij aanval Israël op Westelijke Jordaanoever",
-    "subtitle": null,
-    "published_at": "2023-01-26T14:51:28+01:00",
-    "updated_at": "2023-01-26T15:04:32+01:00",
-    "media_id": "quuxn8qagpjg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248623/palestijnen-melden-9-doden-bij-aanval-israel-op-westelijke-jordaanoever.html",
     "open_new_window": false,
     "partner": null
   }
