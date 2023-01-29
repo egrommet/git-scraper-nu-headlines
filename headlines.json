@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248752,
+    "slug": "dijk-met-gaten-moet-groningen-laten-meegroeien-met-zeespiegelstijging",
+    "type": "article",
+    "title": "Dijk met gaten moet Groningen laten meegroeien met zeespiegelstijging",
+    "subtitle": "NU+",
+    "published_at": "2023-01-29T15:19:24+01:00",
+    "updated_at": "2023-01-29T15:19:25+01:00",
+    "media_id": "s1fx0mtaxa56",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6248752/dijk-met-gaten-moet-groningen-laten-meegroeien-met-zeespiegelstijging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249016,
     "slug": "van-duijvenbode-strandt-in-kwartfinales-masters-na-nederlaag-tegen-dobey",
     "type": "article",
     "title": "Van Duijvenbode strandt in kwartfinales Masters na nederlaag tegen Dobey",
     "subtitle": null,
     "published_at": "2023-01-29T15:04:26+01:00",
-    "updated_at": "2023-01-29T15:04:26+01:00",
+    "updated_at": "2023-01-29T15:16:07+01:00",
     "media_id": "4ftxs38ap6ij",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nujij/6248944/lezers-over-orgaandonatie-je-maakt-hier-veel-mensen-gelukkig-mee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248994,
-    "slug": "pakistaanse-reddingswerkers-bergen-lichamen-na-dodelijk-busongeluk",
-    "type": "video",
-    "title": "Pakistaanse reddingswerkers bergen lichamen na dodelijk busongeluk",
-    "subtitle": "Video",
-    "published_at": "2023-01-29T11:47:17+01:00",
-    "updated_at": "2023-01-29T14:35:36+01:00",
-    "media_id": "r0vx20bathkg",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248994/pakistaanse-reddingswerkers-bergen-lichamen-na-dodelijk-busongeluk.html",
     "open_new_window": false,
     "partner": null
   }
