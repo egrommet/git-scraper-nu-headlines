@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249183,
+    "slug": "paris-saint-germain-lijkt-te-verrassen-met-komst-chelsea-bankzitter-ziyech",
+    "type": "article",
+    "title": "Paris Saint-Germain lijkt te verrassen met komst Chelsea-bankzitter Ziyech",
+    "subtitle": null,
+    "published_at": "2023-01-30T22:25:11+01:00",
+    "updated_at": "2023-01-30T22:27:29+01:00",
+    "media_id": "mgvx61nap6qj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249183/paris-saint-germain-lijkt-te-verrassen-met-komst-chelsea-bankzitter-ziyech.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249182,
     "slug": "jj-kan-via-faillissement-niet-ontkomen-aan-rechtszaken-over-babypoeder",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Koploper PEC Zwolle wint van Roda en boekt negende competitiezege op rij",
     "subtitle": null,
     "published_at": "2023-01-30T22:01:08+01:00",
-    "updated_at": "2023-01-30T22:08:54+01:00",
+    "updated_at": "2023-01-30T22:15:10+01:00",
     "media_id": "rt6x0o6aue1r",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Messi niet trots op gedrag in duel met Oranje: 'Gebeurde in heetst van de strijd'",
     "subtitle": null,
     "published_at": "2023-01-30T18:32:36+01:00",
-    "updated_at": "2023-01-30T19:48:09+01:00",
+    "updated_at": "2023-01-30T22:22:33+01:00",
     "media_id": "lxwx42ya4sjd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6249161/inmiddels-55-mensen-verdacht-van-rol-bij-voorbereiden-staatsgreep-in-duitsland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249159,
-    "slug": "naujoks-van-feyenoord-naar-excelsior-sparta-huurling-rekik-terug-naar-arsenal",
-    "type": "article",
-    "title": "Naujoks van Feyenoord naar Excelsior, Sparta-huurling Rekik terug naar Arsenal",
-    "subtitle": null,
-    "published_at": "2023-01-30T18:25:33+01:00",
-    "updated_at": "2023-01-30T18:59:43+01:00",
-    "media_id": "hgnxjupao3ta",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249159/naujoks-van-feyenoord-naar-excelsior-sparta-huurling-rekik-terug-naar-arsenal.html",
     "open_new_window": false,
     "partner": null
   }
