@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249196,
+    "slug": "eerste-demonstranten-langs-koninklijke-route-op-aruba",
+    "type": "video",
+    "title": "Eerste demonstranten langs koninklijke route op Aruba",
+    "subtitle": "Video",
+    "published_at": "2023-01-31T07:59:23+01:00",
+    "updated_at": "2023-01-31T07:59:24+01:00",
+    "media_id": "278xx3vasb19",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6249196/eerste-demonstranten-langs-koninklijke-route-op-aruba.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249194,
-    "slug": "imf-meer-renteverhogingen-nodig-tegen-inflatiepijn",
+    "slug": "imf-vindt-meer-renteverhogingen-nodig-om-inflatiepijn-te-verzachten",
     "type": "article",
-    "title": "IMF: Meer renteverhogingen nodig tegen inflatiepijn",
+    "title": "IMF vindt meer renteverhogingen nodig om inflatiepijn te verzachten",
     "subtitle": null,
     "published_at": "2023-01-31T07:42:22+01:00",
-    "updated_at": "2023-01-31T07:42:23+01:00",
+    "updated_at": "2023-01-31T07:53:38+01:00",
     "media_id": "j1nxn22a4tp7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6249194/imf-meer-renteverhogingen-nodig-tegen-inflatiepijn.html",
+    "url": "/economie/6249194/imf-vindt-meer-renteverhogingen-nodig-om-inflatiepijn-te-verzachten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249185/psv-heeft-belgisch-international-thorgan-hazard-bijna-binnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249184,
-    "slug": "cbs-corrigeert-tekst-over-rol-jeugdbescherming-in-toeslagenschandaal-na-kritiek",
-    "type": "article",
-    "title": "CBS corrigeert tekst over rol jeugdbescherming in toeslagenschandaal na kritiek",
-    "subtitle": null,
-    "published_at": "2023-01-30T22:30:10+01:00",
-    "updated_at": "2023-01-30T23:01:03+01:00",
-    "media_id": "5l4xzc6alkx4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249184/cbs-corrigeert-tekst-over-rol-jeugdbescherming-in-toeslagenschandaal-na-kritiek.html",
     "open_new_window": false,
     "partner": null
   }
