@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249985,
+    "slug": "kokcu-opgelucht-na-late-2-2-in-topper-rode-kaart-psv-maakte-het-makkelijk",
+    "type": "article",
+    "title": "Kökçü opgelucht na late 2-2 in topper: 'Rode kaart PSV maakte het makkelijk'",
+    "subtitle": null,
+    "published_at": "2023-02-05T17:26:50+01:00",
+    "updated_at": "2023-02-05T17:26:51+01:00",
+    "media_id": "cnqxt47a5tyr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249985/kokcu-opgelucht-na-late-2-2-in-topper-rode-kaart-psv-maakte-het-makkelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249984,
     "slug": "honderden-vrijgezellen-speeddaten-in-utrechtse-ikea",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Luuk de Jong woest op arbitrage na goal in 'verlenging': 'Het was schandalig'",
     "subtitle": null,
     "published_at": "2023-02-05T16:59:34+01:00",
-    "updated_at": "2023-02-05T17:02:25+01:00",
+    "updated_at": "2023-02-05T17:30:50+01:00",
     "media_id": "vi8x1t7aupgt",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Leerdam verovert met overmacht vierde nationale titel op rij op 1.000 meter",
     "subtitle": null,
     "published_at": "2023-02-05T16:54:47+01:00",
-    "updated_at": "2023-02-05T17:04:45+01:00",
+    "updated_at": "2023-02-05T17:26:57+01:00",
     "media_id": "vf8xq17athex",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6249975,
-    "slug": "schulting-pakt-met-aflossingsploeg-derde-wereldbekergoud-in-dresden-zilver-knegt",
+    "slug": "schulting-pakt-met-relayploeg-derde-wereldbekergoud-in-dresden-zilver-knegt",
     "type": "article",
-    "title": "Schulting pakt met aflossingsploeg derde wereldbekergoud in Dresden, zilver Knegt",
+    "title": "Schulting pakt met relayploeg derde wereldbekergoud in Dresden, zilver Knegt",
     "subtitle": null,
     "published_at": "2023-02-05T16:28:30+01:00",
-    "updated_at": "2023-02-05T17:22:19+01:00",
+    "updated_at": "2023-02-05T17:27:52+01:00",
     "media_id": "wc5xqemaqt56",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6249975/schulting-pakt-met-aflossingsploeg-derde-wereldbekergoud-in-dresden-zilver-knegt.html",
+    "url": "/schaatsen/6249975/schulting-pakt-met-relayploeg-derde-wereldbekergoud-in-dresden-zilver-knegt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249961/napoli-blijft-maar-winnen-in-serie-a-antwerp-gelijk-in-kraker-tegen-brugge.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249960,
-    "slug": "roda-jc-in-limburgse-derby-nipt-te-sterk-voor-mvv-maastricht",
-    "type": "article",
-    "title": "Roda JC in Limburgse derby nipt te sterk voor MVV Maastricht",
-    "subtitle": null,
-    "published_at": "2023-02-05T14:38:28+01:00",
-    "updated_at": "2023-02-05T14:43:45+01:00",
-    "media_id": "35jxsi8as340",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249960/roda-jc-in-limburgse-derby-nipt-te-sterk-voor-mvv-maastricht.html",
     "open_new_window": false,
     "partner": null
   }
