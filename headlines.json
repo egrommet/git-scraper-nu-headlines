@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251200,
+    "slug": "nieuwe-ferrari-is-een-duidelijke-doorontwikkeling-van-snelle-auto-uit-2022",
+    "type": "article",
+    "title": "Nieuwe Ferrari is een duidelijke doorontwikkeling van snelle auto uit 2022",
+    "subtitle": null,
+    "published_at": "2023-02-14T12:17:52+01:00",
+    "updated_at": "2023-02-14T12:20:22+01:00",
+    "media_id": "7zvxcwqa65ud",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6251200/nieuwe-ferrari-is-een-duidelijke-doorontwikkeling-van-snelle-auto-uit-2022.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251211,
     "slug": "inval-bij-kantoren-van-bbc-in-india-na-omstreden-documentaire",
     "type": "article",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6251197,
-    "slug": "rtl-talpa-en-npo-gaan-samenwerken-voor-een-veilige-werkomgeving",
+    "slug": "de-mediabranche-slaat-handen-ineen-voor-een-veilige-werkomgeving",
     "type": "article",
-    "title": "RTL, Talpa en NPO gaan samenwerken voor een veilige werkomgeving",
+    "title": "De mediabranche slaat handen ineen voor een veilige werkomgeving",
     "subtitle": null,
     "published_at": "2023-02-14T11:06:45+01:00",
-    "updated_at": "2023-02-14T12:08:04+01:00",
+    "updated_at": "2023-02-14T12:19:17+01:00",
     "media_id": "wgfxn1aaip3z",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6251197/rtl-talpa-en-npo-gaan-samenwerken-voor-een-veilige-werkomgeving.html",
+    "url": "/media/6251197/de-mediabranche-slaat-handen-ineen-voor-een-veilige-werkomgeving.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6251181/rockgroep-genesis-volgens-forbes-best-betaalde-entertainers-van-afgelopen-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251178,
-    "slug": "randstad-groeit-minder-hard-vanwege-angst-voor-recessie",
-    "type": "article",
-    "title": "Randstad groeit minder hard vanwege angst voor recessie",
-    "subtitle": null,
-    "published_at": "2023-02-14T07:58:27+01:00",
-    "updated_at": "2023-02-14T07:58:28+01:00",
-    "media_id": "0ckxabdacsl5",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6251178/randstad-groeit-minder-hard-vanwege-angst-voor-recessie.html",
     "open_new_window": false,
     "partner": null
   }
