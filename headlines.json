@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252003,
+    "slug": "dertigvoudig-oranje-international-elia-36-zet-definitief-punt-achter-carriere",
+    "type": "article",
+    "title": "Dertigvoudig Oranje-international Elia (36) zet definitief punt achter carrière",
+    "subtitle": null,
+    "published_at": "2023-02-19T17:44:10+01:00",
+    "updated_at": "2023-02-19T17:45:57+01:00",
+    "media_id": "5vbxfg8aym72",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252003/dertigvoudig-oranje-international-elia-36-zet-definitief-punt-achter-carriere.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251955,
     "slug": "net-een-dag-terug-uit-turkije-staat-reddingshond-power-alweer-te-stuiteren",
     "type": "article",
     "title": "Net een dag terug uit Turkije staat reddingshond Power 'alweer te stuiteren'",
     "subtitle": null,
     "published_at": "2023-02-19T17:38:39+01:00",
-    "updated_at": "2023-02-19T17:39:15+01:00",
+    "updated_at": "2023-02-19T17:40:17+01:00",
     "media_id": "4uex89paljx5",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Weekweerbericht: Eerst zacht en droog, daarna koel en wisselvallig",
     "subtitle": null,
     "published_at": "2023-02-19T17:37:09+01:00",
-    "updated_at": "2023-02-19T17:37:10+01:00",
+    "updated_at": "2023-02-19T17:41:47+01:00",
     "media_id": "erhxibga2nc0",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Ajax-opponent Union Berlin stelt teleur tegen Schalke en grijpt naast koppositie",
     "subtitle": null,
     "published_at": "2023-02-19T17:29:34+01:00",
-    "updated_at": "2023-02-19T17:38:39+01:00",
+    "updated_at": "2023-02-19T17:39:49+01:00",
     "media_id": "5tjx9qnaj8ix",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Luuk de Jong gefrustreerd na nieuw puntenverlies PSV: 'Niet volwassen genoeg'",
     "subtitle": null,
     "published_at": "2023-02-19T17:09:00+01:00",
-    "updated_at": "2023-02-19T17:16:57+01:00",
+    "updated_at": "2023-02-19T17:44:03+01:00",
     "media_id": "lu1xutvay6gb",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Nederlandse boksbond mijdt WK uit protest tegen toelating Russen",
     "subtitle": null,
     "published_at": "2023-02-19T16:42:55+01:00",
-    "updated_at": "2023-02-19T16:43:11+01:00",
+    "updated_at": "2023-02-19T17:42:57+01:00",
     "media_id": "ddxx93lan4qt",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Dijs verslaat toptalent Stolz en wint 1.000 meter in Polen, eindzege Otterspeer",
     "subtitle": null,
     "published_at": "2023-02-19T16:09:00+01:00",
-    "updated_at": "2023-02-19T17:22:54+01:00",
+    "updated_at": "2023-02-19T17:43:49+01:00",
     "media_id": "uukx1rmaef0f",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Leerdam imponeert richting WK met wereldbekerzege op 1.000 meter in Polen",
     "subtitle": null,
     "published_at": "2023-02-19T15:34:47+01:00",
-    "updated_at": "2023-02-19T17:16:21+01:00",
+    "updated_at": "2023-02-19T17:43:23+01:00",
     "media_id": "3n6x7ndafu28",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251968/klaassen-keert-terug-in-ajax-basis-voor-duel-met-sparta-bassey-op-de-bank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251981,
-    "slug": "pogacar-bekroont-ijzersterke-week-met-eindzege-in-ruta-del-sol",
-    "type": "article",
-    "title": "Pogacar bekroont ijzersterke week met eindzege in Ruta del Sol",
-    "subtitle": null,
-    "published_at": "2023-02-19T15:20:36+01:00",
-    "updated_at": "2023-02-19T15:57:37+01:00",
-    "media_id": "wvuxrxpakx4k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6251981/pogacar-bekroont-ijzersterke-week-met-eindzege-in-ruta-del-sol.html",
     "open_new_window": false,
     "partner": null
   }
