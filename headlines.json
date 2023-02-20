@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252050,
+    "slug": "nederland-krijgt-de-sterkste-mri-scanner-ter-wereld",
+    "type": "article",
+    "title": "Nederland krijgt de sterkste MRI-scanner ter wereld",
+    "subtitle": null,
+    "published_at": "2023-02-20T14:26:29+01:00",
+    "updated_at": "2023-02-20T14:26:30+01:00",
+    "media_id": "fywx4d1a6pyn",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6252050/nederland-krijgt-de-sterkste-mri-scanner-ter-wereld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252106,
     "slug": "biden-en-zelensky-speechen-tijdens-verrassingsbezoek-in-kyiv",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Fotofinish biedt na lang wachten uitsluitsel: Merlier wint millimetersprint van Ewan",
     "subtitle": null,
     "published_at": "2023-02-20T14:03:48+01:00",
-    "updated_at": "2023-02-20T14:12:38+01:00",
+    "updated_at": "2023-02-20T14:26:19+01:00",
     "media_id": "7aexl4fac4jh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6252068/psg-trainer-voelt-zich-niet-in-eer-aangetast-door-coachende-technisch-adviseur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252064,
-    "slug": "max-verstappen-sluit-zesjarige-sponsordeal-met-heineken",
-    "type": "article",
-    "title": "Max Verstappen sluit zesjarige sponsordeal met Heineken",
-    "subtitle": null,
-    "published_at": "2023-02-20T10:29:46+01:00",
-    "updated_at": "2023-02-20T11:36:24+01:00",
-    "media_id": "aenxhmfajuty",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6252064/max-verstappen-sluit-zesjarige-sponsordeal-met-heineken.html",
     "open_new_window": false,
     "partner": null
   }
