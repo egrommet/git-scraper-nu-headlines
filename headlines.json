@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252060,
+    "slug": "onderzoek-naar-giftige-bedrijfscultuur-bij-uitbater-plopsaland",
+    "type": "article",
+    "title": "Onderzoek naar 'giftige' bedrijfscultuur bij uitbater Plopsaland",
+    "subtitle": null,
+    "published_at": "2023-02-20T10:22:18+01:00",
+    "updated_at": "2023-02-20T10:23:52+01:00",
+    "media_id": "r9oxolxas3o3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6252060/onderzoek-naar-giftige-bedrijfscultuur-bij-uitbater-plopsaland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252062,
     "slug": "luchtbeelden-tonen-ravage-na-dodelijk-noodweer-in-brazilie",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nu-voetbal/6228239/elia-stopt-dit-doen-de-andere-spelers-van-het-zilveren-oranje-van-2010-nu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251733,
-    "slug": "chris-brown-scoort-maar-samenwerking-wordt-je-niet-in-dank-afgenomen",
-    "type": "article",
-    "title": "Chris Brown scoort, maar samenwerking wordt je niet in dank afgenomen",
-    "subtitle": "NU+",
-    "published_at": "2023-02-20T05:41:07+01:00",
-    "updated_at": "2023-02-20T06:36:50+01:00",
-    "media_id": "mt6xoxnahsgc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6251733/chris-brown-scoort-maar-samenwerking-wordt-je-niet-in-dank-afgenomen.html",
     "open_new_window": false,
     "partner": null
   }
