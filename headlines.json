@@ -1,5 +1,51 @@
 [
   {
+    "id": 6252385,
+    "slug": "mondiale-nummer-een-swiatek-pleit-voor-gelijk-prijzengeld-mannen-en-vrouwen",
+    "type": "article",
+    "title": "Mondiale nummer één Swiatek pleit voor gelijk prijzengeld mannen en vrouwen",
+    "subtitle": null,
+    "published_at": "2023-02-22T11:43:52+01:00",
+    "updated_at": "2023-02-22T11:43:53+01:00",
+    "media_id": "nmrxezyaexfg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6252385/mondiale-nummer-een-swiatek-pleit-voor-gelijk-prijzengeld-mannen-en-vrouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252390,
+    "slug": "teslas-moeten-van-privacywaakhond-de-ogen-sluiten-cameras-nu-standaard-uit",
+    "type": "article",
+    "title": "Tesla's moeten van privacywaakhond de ogen sluiten: camera's nu standaard uit",
+    "subtitle": null,
+    "published_at": "2023-02-22T11:35:14+01:00",
+    "updated_at": "2023-02-22T11:35:19+01:00",
+    "media_id": "1l8x3c2auwy1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6252390/teslas-moeten-van-privacywaakhond-de-ogen-sluiten-cameras-nu-standaard-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252389,
     "slug": "frankrijk-beleeft-droogste-winterperiode-in-ruim-zestig-jaar-tijd",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Akkoord over nieuwe cao voor gemeentepersoneel, stakingen van de baan",
     "subtitle": null,
     "published_at": "2023-02-22T08:37:19+01:00",
-    "updated_at": "2023-02-22T10:37:43+01:00",
+    "updated_at": "2023-02-22T11:45:20+01:00",
     "media_id": "8oaxharamjr7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252350/bergen-carnavalsafval-liggen-op-straat-in-maastricht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252349,
-    "slug": "bekijk-de-hoogtepunten-van-het-spektakelstuk-liverpool-real-madrid-2-5",
-    "type": "video",
-    "title": "Bekijk de hoogtepunten van het spektakelstuk Liverpool-Real Madrid (2-5)",
-    "subtitle": "Video",
-    "published_at": "2023-02-22T07:54:58+01:00",
-    "updated_at": "2023-02-22T08:01:26+01:00",
-    "media_id": "0d4xsgbaj4z7",
-    "duration": "12:20",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6252349/bekijk-de-hoogtepunten-van-het-spektakelstuk-liverpool-real-madrid-2-5.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252348,
-    "slug": "nocnsf-steunt-wk-boycot-boksbond-vanwege-toelating-russen",
-    "type": "article",
-    "title": "NOC*NSF steunt WK-boycot boksbond vanwege toelating Russen",
-    "subtitle": null,
-    "published_at": "2023-02-22T07:53:12+01:00",
-    "updated_at": "2023-02-22T08:40:54+01:00",
-    "media_id": "1pqxvavaahny",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6252348/nocnsf-steunt-wk-boycot-boksbond-vanwege-toelating-russen.html",
     "open_new_window": false,
     "partner": null
   }
