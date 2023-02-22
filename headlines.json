@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252418,
+    "slug": "jarige-einer-rubio-verrast-favorieten-in-uae-tour-evenepoel-nieuwe-leider",
+    "type": "article",
+    "title": "Jarige Einer Rubio verrast favorieten in UAE Tour, Evenepoel nieuwe leider",
+    "subtitle": null,
+    "published_at": "2023-02-22T14:09:01+01:00",
+    "updated_at": "2023-02-22T14:10:44+01:00",
+    "media_id": "959xsafag17z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6252418/jarige-einer-rubio-verrast-favorieten-in-uae-tour-evenepoel-nieuwe-leider.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252415,
     "slug": "rianne-de-vries-32-zet-punt-achter-haar-shorttrackcarriere",
     "type": "article",
     "title": "Rianne de Vries (32) zet punt achter haar shorttrackcarrière",
     "subtitle": null,
     "published_at": "2023-02-22T14:02:26+01:00",
-    "updated_at": "2023-02-22T14:02:27+01:00",
+    "updated_at": "2023-02-22T14:21:06+01:00",
     "media_id": "ucgxgd4alf60",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6252380/avril-lavigne-niet-langer-samen-met-haar-verloofde-mod-sun.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252382,
-    "slug": "surinaamse-president-bezoekt-geplunderde-winkels-in-paramaribo",
-    "type": "video",
-    "title": "Surinaamse president bezoekt geplunderde winkels in Paramaribo",
-    "subtitle": "Video",
-    "published_at": "2023-02-22T10:57:16+01:00",
-    "updated_at": "2023-02-22T10:57:18+01:00",
-    "media_id": "1ufx9kbap5j7",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252382/surinaamse-president-bezoekt-geplunderde-winkels-in-paramaribo.html",
     "open_new_window": false,
     "partner": null
   }
