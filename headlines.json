@@ -1,12 +1,104 @@
 [
   {
-    "id": 6253615,
-    "slug": "verstappen-niet-bezig-met-favorietenrol-concentreer-me-op-andere-dingen",
+    "id": 6253606,
+    "slug": "door-drukte-bij-belastingdienst-is-je-zorgverzekeraar-ook-moeilijk-te-bereiken",
     "type": "article",
-    "title": "Verstappen niet bezig met favorietenrol: 'Concentreer me op andere dingen'",
+    "title": "Door drukte bij Belastingdienst is je zorgverzekeraar ook moeilijk te bereiken",
+    "subtitle": null,
+    "published_at": "2023-03-02T16:40:44+01:00",
+    "updated_at": "2023-03-02T16:40:45+01:00",
+    "media_id": "o9yxpe7aku2k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6253606/door-drukte-bij-belastingdienst-is-je-zorgverzekeraar-ook-moeilijk-te-bereiken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253622,
+    "slug": "ziekenhuispersoneel-staakt-op-16-maart-op-64-locaties-alleen-spoedzorg",
+    "type": "article",
+    "title": "Ziekenhuispersoneel staakt op 16 maart: op 64 locaties alleen spoedzorg",
+    "subtitle": null,
+    "published_at": "2023-03-02T16:30:04+01:00",
+    "updated_at": "2023-03-02T16:40:18+01:00",
+    "media_id": "4zdx1dda4mky",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6253622/ziekenhuispersoneel-staakt-op-16-maart-op-64-locaties-alleen-spoedzorg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253618,
+    "slug": "onderzoek-naar-mogelijke-nalatigheid-italiaanse-oud-premier-bij-start-pandemie",
+    "type": "article",
+    "title": "Onderzoek naar mogelijke nalatigheid Italiaanse oud-premier bij start pandemie",
+    "subtitle": null,
+    "published_at": "2023-03-02T16:28:50+01:00",
+    "updated_at": "2023-03-02T16:28:51+01:00",
+    "media_id": "plkxitdatsxv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6253618/onderzoek-naar-mogelijke-nalatigheid-italiaanse-oud-premier-bij-start-pandemie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253608,
+    "slug": "van-de-zandschulp-komt-tekort-tegen-wereldtopper-rublev-in-kwartfinales-dubai",
+    "type": "article",
+    "title": "Van de Zandschulp komt tekort tegen wereldtopper Rublev in kwartfinales Dubai",
+    "subtitle": null,
+    "published_at": "2023-03-02T16:26:56+01:00",
+    "updated_at": "2023-03-02T16:36:02+01:00",
+    "media_id": "k7zxjipaec5y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6253608/van-de-zandschulp-komt-tekort-tegen-wereldtopper-rublev-in-kwartfinales-dubai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6253615,
+    "slug": "verstappen-totaal-niet-bezig-met-favorietenrol-focus-me-op-andere-zaken",
+    "type": "article",
+    "title": "Verstappen totaal niet bezig met favorietenrol: 'Focus me op andere zaken'",
     "subtitle": "NU+",
     "published_at": "2023-03-02T16:16:11+01:00",
-    "updated_at": "2023-03-02T16:16:13+01:00",
+    "updated_at": "2023-03-02T16:41:59+01:00",
     "media_id": "kqpx7mmaq7pb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6253615/verstappen-niet-bezig-met-favorietenrol-concentreer-me-op-andere-dingen.html",
+    "url": "/formule-1/6253615/verstappen-totaal-niet-bezig-met-favorietenrol-focus-me-op-andere-zaken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/film/6253575/cate-blanchett-over-oscars-sinaasappels-met-biefstuk-vergelijken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253574,
-    "slug": "roest-ziet-grootste-concurrent-eitrem-afzeggen-voor-5000-meter-wk-afstanden",
-    "type": "article",
-    "title": "Roest ziet grootste concurrent Eitrem afzeggen voor 5.000 meter WK afstanden",
-    "subtitle": null,
-    "published_at": "2023-03-02T12:07:50+01:00",
-    "updated_at": "2023-03-02T13:02:29+01:00",
-    "media_id": "sj5x4xyawdc5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6253574/roest-ziet-grootste-concurrent-eitrem-afzeggen-voor-5000-meter-wk-afstanden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253571,
-    "slug": "inflatie-in-landen-met-de-euro-daalde-in-februari-maar-niet-veel",
-    "type": "article",
-    "title": "Inflatie in landen met de euro daalde in februari, maar niet veel",
-    "subtitle": null,
-    "published_at": "2023-03-02T12:07:13+01:00",
-    "updated_at": "2023-03-02T12:07:15+01:00",
-    "media_id": "m2gxs6eaxuzs",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6253571/inflatie-in-landen-met-de-euro-daalde-in-februari-maar-niet-veel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253458,
-    "slug": "vooruitblik-nieuwe-regels-lijken-enorm-in-voordeel-red-bull",
-    "type": "article",
-    "title": "Vooruitblik: 'Nieuwe regels lijken enorm in voordeel Red Bull'",
-    "subtitle": "NU+",
-    "published_at": "2023-03-02T12:04:00+01:00",
-    "updated_at": "2023-03-02T12:57:12+01:00",
-    "media_id": "7q1x5wfa5skp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6253458/vooruitblik-nieuwe-regels-lijken-enorm-in-voordeel-red-bull.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253568,
-    "slug": "nos-correspondent-mustafa-marghadi-weer-rustig-aan-het-werk-na-ongeluk",
-    "type": "article",
-    "title": "NOS-correspondent Mustafa Marghadi weer rustig aan het werk na ongeluk",
-    "subtitle": null,
-    "published_at": "2023-03-02T11:43:38+01:00",
-    "updated_at": "2023-03-02T11:43:40+01:00",
-    "media_id": "6mkxu5kapq89",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6253568/nos-correspondent-mustafa-marghadi-weer-rustig-aan-het-werk-na-ongeluk.html",
     "open_new_window": false,
     "partner": null
   }
