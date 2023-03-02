@@ -1,12 +1,35 @@
 [
   {
+    "id": 6253526,
+    "slug": "the-weeknd-gaat-hoofdrol-spelen-in-film-die-hij-zelf-schreef",
+    "type": "article",
+    "title": "The Weeknd gaat hoofdrol spelen in film die hij zelf schreef",
+    "subtitle": null,
+    "published_at": "2023-03-02T07:44:59+01:00",
+    "updated_at": "2023-03-02T07:44:59+01:00",
+    "media_id": "w0bxevracu5q",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6253526/the-weeknd-gaat-hoofdrol-spelen-in-film-die-hij-zelf-schreef.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253522,
     "slug": "onderzoek-bevestigt-dat-oermens-in-nederland-donkere-huid-en-lichte-ogen-had",
     "type": "article",
     "title": "Onderzoek bevestigt dat oermens in Nederland donkere huid en lichte ogen had",
     "subtitle": null,
     "published_at": "2023-03-02T07:24:33+01:00",
-    "updated_at": "2023-03-02T07:24:34+01:00",
+    "updated_at": "2023-03-02T07:43:17+01:00",
     "media_id": "zunxbhbahd5i",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Onrust op Iraanse scholen na golf van vergiftigingen onder meisjes",
     "subtitle": null,
     "published_at": "2023-03-01T23:35:37+01:00",
-    "updated_at": "2023-03-02T07:33:20+01:00",
+    "updated_at": "2023-03-02T07:43:17+01:00",
     "media_id": "ar9x9mfaddyn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6253507/onrust-op-iraanse-scholen-na-golf-van-vergiftigingen-onder-meisjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253510,
-    "slug": "kokcu-opgelucht-na-nipte-bekerzege-feyenoord-ik-schaam-me-voor-mijn-fout",
-    "type": "article",
-    "title": "Kökçü opgelucht na nipte bekerzege Feyenoord: 'Ik schaam me voor mijn fout'",
-    "subtitle": null,
-    "published_at": "2023-03-01T22:54:21+01:00",
-    "updated_at": "2023-03-02T07:19:20+01:00",
-    "media_id": "vpmxi8eailw3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6253510/kokcu-opgelucht-na-nipte-bekerzege-feyenoord-ik-schaam-me-voor-mijn-fout.html",
     "open_new_window": false,
     "partner": null
   }
