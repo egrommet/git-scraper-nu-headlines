@@ -1,12 +1,58 @@
 [
   {
-    "id": 6254768,
-    "slug": "kickbokser-tavares-wil-bij-toernooi-glory-gevecht-met-plazibat-afdwingen",
+    "id": 6252775,
+    "slug": "kabinet-schrapt-per-direct-laatste-coronaregels",
     "type": "article",
-    "title": "Kickbokser Tavares wil bij toernooi GLORY gevecht met Plazibat afdwingen",
+    "title": "Kabinet schrapt per direct laatste coronaregels",
+    "subtitle": null,
+    "published_at": "2023-03-10T14:42:56+01:00",
+    "updated_at": "2023-03-10T14:43:00+01:00",
+    "media_id": "s54xuyva5ot7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6252775/kabinet-schrapt-per-direct-laatste-coronaregels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254777,
+    "slug": "skiester-shiffrin-evenaart-record-stenmark-met-86e-overwinning-in-wereldbeker",
+    "type": "article",
+    "title": "Skiester Shiffrin evenaart record Stenmark met 86e overwinning in wereldbeker",
+    "subtitle": null,
+    "published_at": "2023-03-10T14:29:51+01:00",
+    "updated_at": "2023-03-10T14:41:32+01:00",
+    "media_id": "cl6xk4fad2os",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6254777/skiester-shiffrin-evenaart-record-stenmark-met-86e-overwinning-in-wereldbeker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254768,
+    "slug": "kickbokser-tavares-is-terug-van-dopingschorsing-en-strijdt-om-gevecht-met-plazibat",
+    "type": "article",
+    "title": "Kickbokser Tavares is terug van dopingschorsing en strijdt om gevecht met Plazibat",
     "subtitle": null,
     "published_at": "2023-03-10T14:11:39+01:00",
-    "updated_at": "2023-03-10T14:11:40+01:00",
+    "updated_at": "2023-03-10T14:33:20+01:00",
     "media_id": "z0bxpp9a52zi",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6254768/kickbokser-tavares-wil-bij-toernooi-glory-gevecht-met-plazibat-afdwingen.html",
+    "url": "/sport-overig/6254768/kickbokser-tavares-is-terug-van-dopingschorsing-en-strijdt-om-gevecht-met-plazibat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254717/inwoners-chinese-stad-xian-woedend-om-plan-voor-grieplockdowns.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254723,
-    "slug": "bestuurder-richt-ravage-aan-door-terminal-in-vs-in-te-rijden",
-    "type": "video",
-    "title": "Bestuurder richt ravage aan door terminal in VS in te rijden",
-    "subtitle": "Video",
-    "published_at": "2023-03-10T10:56:22+01:00",
-    "updated_at": "2023-03-10T10:56:23+01:00",
-    "media_id": "p5zx4waauc0x",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254723/bestuurder-richt-ravage-aan-door-terminal-in-vs-in-te-rijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254708,
-    "slug": "helft-streekvervoer-rijdt-niet-door-stakingen-werkgevers-en-vakbonden-in-gesprek",
-    "type": "article",
-    "title": "Helft streekvervoer rijdt niet door stakingen, werkgevers en vakbonden in gesprek",
-    "subtitle": null,
-    "published_at": "2023-03-10T10:05:41+01:00",
-    "updated_at": "2023-03-10T12:54:59+01:00",
-    "media_id": "f1rxiw2ab7tu",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6254708/helft-streekvervoer-rijdt-niet-door-stakingen-werkgevers-en-vakbonden-in-gesprek.html",
     "open_new_window": false,
     "partner": null
   }
