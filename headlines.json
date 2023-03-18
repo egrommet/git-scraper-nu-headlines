@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255928,
+    "slug": "israel-en-palestijnen-komen-weer-bij-elkaar-over-geweld-westelijke-jordaanoever",
+    "type": "article",
+    "title": "Israël en Palestijnen komen weer bij elkaar over geweld Westelijke Jordaanoever",
+    "subtitle": null,
+    "published_at": "2023-03-18T19:29:11+01:00",
+    "updated_at": "2023-03-18T19:29:12+01:00",
+    "media_id": "iehxgx5a919c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255928/israel-en-palestijnen-komen-weer-bij-elkaar-over-geweld-westelijke-jordaanoever.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255931,
     "slug": "verstappen-maakt-zich-geen-zorgen-na-motorproblemen-niets-is-onmogelijk",
     "type": "article",
     "title": "Verstappen maakt zich geen zorgen na motorproblemen: 'Niets is onmogelijk'",
     "subtitle": null,
     "published_at": "2023-03-18T19:15:45+01:00",
-    "updated_at": "2023-03-18T19:15:46+01:00",
+    "updated_at": "2023-03-18T19:19:31+01:00",
     "media_id": "f0mx1hxah69g",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Verstappen begint als vijftiende aan GP Jeddah na motorprobleem in kwalificatie",
     "subtitle": null,
     "published_at": "2023-03-18T18:41:07+01:00",
-    "updated_at": "2023-03-18T19:15:34+01:00",
+    "updated_at": "2023-03-18T19:29:08+01:00",
     "media_id": "cnrxp72ayysw",
     "duration": null,
     "canonical_section": {
@@ -157,29 +180,6 @@
       "partner": null
     },
     "url": "/darts/6255924/sherrock-schrijft-weer-historie-en-gooit-als-eerste-vrouw-ooit-negendarter-bij-pdc.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255918,
-    "slug": "marina-zette-alles-op-het-spel-met-haar-oorlogsprotest-op-de-russische-tv",
-    "type": "article",
-    "title": "Marina zette alles op het spel met haar oorlogsprotest op de Russische tv",
-    "subtitle": "NU+",
-    "published_at": "2023-03-18T17:45:28+01:00",
-    "updated_at": "2023-03-18T17:45:29+01:00",
-    "media_id": "tk9x2pya473z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6255918/marina-zette-alles-op-het-spel-met-haar-oorlogsprotest-op-de-russische-tv.html",
     "open_new_window": false,
     "partner": null
   },
