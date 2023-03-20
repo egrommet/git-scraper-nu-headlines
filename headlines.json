@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256050,
+    "slug": "weerbericht-zwaar-bewolkt-en-af-en-toe-een-spat-regen",
+    "type": "article",
+    "title": "Weerbericht: Zwaar bewolkt en af en toe een spat regen",
+    "subtitle": null,
+    "published_at": "2023-03-20T05:32:58+01:00",
+    "updated_at": "2023-03-20T05:32:59+01:00",
+    "media_id": "6jnx5svadtap",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256050/weerbericht-zwaar-bewolkt-en-af-en-toe-een-spat-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255579,
     "slug": "betere-balans-werk-prive-en-hogere-tarieven-het-aantal-zzpers-blijft-toenemen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6256029/kijk-hier-de-inhaalrace-van-max-verstappen-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256028,
-    "slug": "enorme-zeemijn-uit-woii-tot-ontploffing-gebracht",
-    "type": "video",
-    "title": "Enorme zeemijn uit WOII tot ontploffing gebracht",
-    "subtitle": "Video",
-    "published_at": "2023-03-19T20:26:53+01:00",
-    "updated_at": "2023-03-19T20:26:54+01:00",
-    "media_id": "bupx672advn2",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256028/enorme-zeemijn-uit-woii-tot-ontploffing-gebracht.html",
     "open_new_window": false,
     "partner": null
   }
