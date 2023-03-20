@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256142,
+    "slug": "franse-voetballer-soleert-vanaf-eigen-strafschopgebied-en-maakt-wereldgoal",
+    "type": "video",
+    "title": "Franse voetballer soleert vanaf eigen strafschopgebied en maakt wereldgoal",
+    "subtitle": "Video",
+    "published_at": "2023-03-20T15:29:00+01:00",
+    "updated_at": "2023-03-20T15:29:02+01:00",
+    "media_id": "aopxn2yazfuz",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6256142/franse-voetballer-soleert-vanaf-eigen-strafschopgebied-en-maakt-wereldgoal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256132,
     "slug": "zonlicht-blokkeren-onbespreekbaar-of-laatste-redmiddel-voor-het-klimaat",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Hartman begrijpt vroege wissel tegen Ajax: 'Dit gaat mij niet meer gebeuren'",
     "subtitle": null,
     "published_at": "2023-03-20T15:05:23+01:00",
-    "updated_at": "2023-03-20T15:15:11+01:00",
+    "updated_at": "2023-03-20T15:23:57+01:00",
     "media_id": "dfjxyzwauwlt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6256108/isa-hoes-schrijft-boek-over-haar-leven-na-borstkankerdiagnose.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256106,
-    "slug": "toerist-filmt-zingende-walvissen-in-de-grote-oceaan",
-    "type": "video",
-    "title": "Toerist filmt zingende walvissen in de Grote Oceaan",
-    "subtitle": "Video",
-    "published_at": "2023-03-20T12:16:08+01:00",
-    "updated_at": "2023-03-20T13:46:10+01:00",
-    "media_id": "uffxv7wam8jd",
-    "duration": "0:26",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6256106/toerist-filmt-zingende-walvissen-in-de-grote-oceaan.html",
     "open_new_window": false,
     "partner": null
   }
