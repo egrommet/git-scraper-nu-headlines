@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256145,
+    "slug": "spelersvakbond-eist-actie-van-knvb-en-clubs-na-klap-van-fan-aan-jetro-willems",
+    "type": "article",
+    "title": "Spelersvakbond eist actie van KNVB en clubs na klap van fan aan Jetro Willems",
+    "subtitle": null,
+    "published_at": "2023-03-20T17:27:51+01:00",
+    "updated_at": "2023-03-20T17:29:26+01:00",
+    "media_id": "8qyxws7a5uir",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256145/spelersvakbond-eist-actie-van-knvb-en-clubs-na-klap-van-fan-aan-jetro-willems.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256165,
     "slug": "dierentuin-praag-toont-eerste-in-europa-geboren-chinees-schubdier",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "PSV geeft stadionverbod van veertig jaar aan fan die Sevilla-keeper aanviel",
     "subtitle": null,
     "published_at": "2023-03-20T17:20:09+01:00",
-    "updated_at": "2023-03-20T17:25:52+01:00",
+    "updated_at": "2023-03-20T17:47:48+01:00",
     "media_id": "enlxntxapbpc",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Roglic wint eerste slag in strijd met Evenepoel, Schelling derde in Catalonië",
     "subtitle": null,
     "published_at": "2023-03-20T17:10:44+01:00",
-    "updated_at": "2023-03-20T17:21:27+01:00",
+    "updated_at": "2023-03-20T17:34:45+01:00",
     "media_id": "jhexamnabyyd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6256133/schoonmaker-geeft-london-eye-op-grote-hoogte-een-opfrisbeurt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256126,
-    "slug": "erg-warme-zomer-leidt-tot-recordoogst-voor-nederlandse-wijnboeren",
-    "type": "article",
-    "title": "Erg warme zomer leidt tot recordoogst voor Nederlandse wijnboeren",
-    "subtitle": null,
-    "published_at": "2023-03-20T14:25:17+01:00",
-    "updated_at": "2023-03-20T15:01:11+01:00",
-    "media_id": "acqxaj6are18",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6256126/erg-warme-zomer-leidt-tot-recordoogst-voor-nederlandse-wijnboeren.html",
     "open_new_window": false,
     "partner": null
   }
