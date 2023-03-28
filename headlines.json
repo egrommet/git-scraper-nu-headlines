@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257165,
+    "slug": "klapmuts-geboren-op-strand-van-vlieland-met-een-kop-als-een-bokser",
+    "type": "article",
+    "title": "Klapmuts geboren op strand van Vlieland: 'Met een kop als een bokser'",
+    "subtitle": null,
+    "published_at": "2023-03-28T14:55:43+02:00",
+    "updated_at": "2023-03-28T14:55:45+02:00",
+    "media_id": "80vx6o2ascv5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6257165/klapmuts-geboren-op-strand-van-vlieland-met-een-kop-als-een-bokser.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257171,
     "slug": "assistent-bosschaart-vertrekt-na-vier-jaar-bij-cambuur-op-naar-een-nieuw-begin",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "'Amateur' Niels Hartman beleeft droomavond met debuut voor Gibraltar in De Kuip",
     "subtitle": null,
     "published_at": "2023-03-28T13:46:11+02:00",
-    "updated_at": "2023-03-28T14:00:39+02:00",
+    "updated_at": "2023-03-28T14:37:13+02:00",
     "media_id": "9b6xrbha255v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6257131/belgie-arresteert-acht-mensen-die-mogelijk-een-terroristische-aanslag-planden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257107,
-    "slug": "franse-protesten-en-rellen-om-pensioenplannen-dit-is-er-aan-de-hand",
-    "type": "article",
-    "title": "Franse protesten en rellen om pensioenplannen: dit is er aan de hand",
-    "subtitle": null,
-    "published_at": "2023-03-28T11:24:33+02:00",
-    "updated_at": "2023-03-28T14:32:11+02:00",
-    "media_id": "sotx0c6adqsv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257107/franse-protesten-en-rellen-om-pensioenplannen-dit-is-er-aan-de-hand.html",
     "open_new_window": false,
     "partner": null
   }
