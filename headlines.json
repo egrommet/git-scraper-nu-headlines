@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257530,
+    "slug": "persoon-aangehouden-voor-beschieten-defensie-helikopter-boven-apeldoorn",
+    "type": "article",
+    "title": "Persoon aangehouden voor beschieten Defensie-helikopter boven Apeldoorn",
+    "subtitle": null,
+    "published_at": "2023-03-30T20:20:51+02:00",
+    "updated_at": "2023-03-30T20:26:15+02:00",
+    "media_id": "ccexy2sanlc0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257530/persoon-aangehouden-voor-beschieten-defensie-helikopter-boven-apeldoorn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257431,
     "slug": "besparen-op-de-lenteschoonmaak-zo-pak-je-dat-aan",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Guus Meeuwis stopt na 18 jaar met concertreeks Groots met een zachte G",
     "subtitle": null,
     "published_at": "2023-03-30T20:12:18+02:00",
-    "updated_at": "2023-03-30T20:17:22+02:00",
+    "updated_at": "2023-03-30T20:22:08+02:00",
     "media_id": "s1gx3cragr0l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6257490/bach-betreurt-kritiek-na-oproep-ioc-over-deelname-russen-en-belarussen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257494,
-    "slug": "vrouw-bekneld-tussen-bestelbus-en-gevel-na-ongeval-in-rotterdam",
-    "type": "video",
-    "title": "Vrouw bekneld tussen bestelbus en gevel na ongeval in Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2023-03-30T16:14:30+02:00",
-    "updated_at": "2023-03-30T16:29:24+02:00",
-    "media_id": "gmtxh8ra3lg4",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6257494/vrouw-bekneld-tussen-bestelbus-en-gevel-na-ongeval-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
