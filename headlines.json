@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258462,
+    "slug": "star-wars-en-indiana-jones-ontwerper-norman-reynolds-89-overleden",
+    "type": "article",
+    "title": "Star Wars en Indiana Jones-ontwerper Norman Reynolds (89) overleden",
+    "subtitle": null,
+    "published_at": "2023-04-06T15:26:04+02:00",
+    "updated_at": "2023-04-06T15:26:09+02:00",
+    "media_id": "xp7xdpjae8r9",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6258462/star-wars-en-indiana-jones-ontwerper-norman-reynolds-89-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258467,
     "slug": "bliksemschicht-treft-bekende-zendmast-in-toronto",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "FVD’er Van Houwelingen beboet voor nepfoto waarin ministers 'hakenkruisvlag hijsen'",
     "subtitle": null,
     "published_at": "2023-04-06T15:16:38+02:00",
-    "updated_at": "2023-04-06T15:20:04+02:00",
+    "updated_at": "2023-04-06T15:26:43+02:00",
     "media_id": "w7rxsota5vls",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6258464,
-    "slug": "fc-groningen-moet-10000-euro-betalen-voor-veldbestorming-in-duel-met-cambuur",
+    "slug": "fc-groningen-krijgt-10000-euro-boete-voor-veldbestorming-in-duel-met-cambuur",
     "type": "article",
-    "title": "FC Groningen moet 10.000 euro betalen voor veldbestorming in duel met Cambuur",
+    "title": "FC Groningen krijgt 10.000 euro boete voor veldbestorming in duel met Cambuur",
     "subtitle": null,
     "published_at": "2023-04-06T15:14:20+02:00",
-    "updated_at": "2023-04-06T15:14:22+02:00",
+    "updated_at": "2023-04-06T15:22:20+02:00",
     "media_id": "uoixjrpa1xbo",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6258464/fc-groningen-moet-10000-euro-betalen-voor-veldbestorming-in-duel-met-cambuur.html",
+    "url": "/voetbal/6258464/fc-groningen-krijgt-10000-euro-boete-voor-veldbestorming-in-duel-met-cambuur.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6258437/nederland-levert-160-militairen-voor-eu-missie-in-bosnie-en-herzegovina.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258423,
-    "slug": "softwareleverancier-nebu-moet-van-rechter-meer-informatie-geven-over-datalek",
-    "type": "article",
-    "title": "Softwareleverancier Nebu moet van rechter meer informatie geven over datalek",
-    "subtitle": null,
-    "published_at": "2023-04-06T13:15:41+02:00",
-    "updated_at": "2023-04-06T13:32:53+02:00",
-    "media_id": "5e1x9e4arngz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6258423/softwareleverancier-nebu-moet-van-rechter-meer-informatie-geven-over-datalek.html",
     "open_new_window": false,
     "partner": null
   }
