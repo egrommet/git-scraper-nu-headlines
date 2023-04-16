@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259604,
+    "slug": "defensie-expert-colijn-over-munitietekorten-en-het-pentagon-lek",
+    "type": "article",
+    "title": "Defensie-expert Colijn over munitietekorten en het Pentagon-lek",
+    "subtitle": "NU+",
+    "published_at": "2023-04-16T05:03:49+02:00",
+    "updated_at": "2023-04-16T05:03:50+02:00",
+    "media_id": "j3xxewfaoxsz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6259604/defensie-expert-colijn-over-munitietekorten-en-het-pentagon-lek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259524,
+    "slug": "machinisten-over-treinongeluk-voorschoten-wat-als-ik-dit-was-geweest",
+    "type": "article",
+    "title": "Machinisten over treinongeluk Voorschoten: 'Wat als ik dit was geweest?'",
+    "subtitle": null,
+    "published_at": "2023-04-16T05:00:07+02:00",
+    "updated_at": "2023-04-16T05:00:08+02:00",
+    "media_id": "d0yxmykavgz9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6259524/machinisten-over-treinongeluk-voorschoten-wat-als-ik-dit-was-geweest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259647,
     "slug": "songfestival-duo-zong-opnieuw-vals-mensen-in-de-zaal-schrokken-ervan",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Parcours Gold Race ook voor Van Vleuten langer: 'We willen haar op die erelijst'",
     "subtitle": null,
     "published_at": "2023-04-15T23:23:00+02:00",
-    "updated_at": "2023-04-15T23:38:08+02:00",
+    "updated_at": "2023-04-16T05:01:42+02:00",
     "media_id": "txdxv04aa8uq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6259629/rune-wint-hoogstaand-duel-met-sinner-en-treft-rublev-in-finale-monte-carlo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259628,
-    "slug": "wetenschappers-schuilen-voor-enorme-aswolk-van-russische-vulkaan",
-    "type": "video",
-    "title": "Wetenschappers schuilen voor enorme aswolk van Russische vulkaan",
-    "subtitle": "Video",
-    "published_at": "2023-04-15T17:58:31+02:00",
-    "updated_at": "2023-04-15T17:58:33+02:00",
-    "media_id": "l4xxulmao1f1",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6259628/wetenschappers-schuilen-voor-enorme-aswolk-van-russische-vulkaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259626,
-    "slug": "korfballers-pkc-veroveren-ten-koste-van-dvo-elfde-landstitel-in-bomvol-ahoy",
-    "type": "article",
-    "title": "Korfballers PKC veroveren ten koste van DVO elfde landstitel in bomvol Ahoy",
-    "subtitle": null,
-    "published_at": "2023-04-15T17:47:40+02:00",
-    "updated_at": "2023-04-15T18:03:12+02:00",
-    "media_id": "rfixveyavodo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6259626/korfballers-pkc-veroveren-ten-koste-van-dvo-elfde-landstitel-in-bomvol-ahoy.html",
     "open_new_window": false,
     "partner": null
   }
