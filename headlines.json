@@ -1,12 +1,35 @@
 [
   {
-    "id": 6260172,
-    "slug": "twee-tieners-gearresteerd-vanwege-schietpartij-op-verjaardagsfeest-in-alabama",
+    "id": 6260167,
+    "slug": "bayern-gaat-met-de-ligt-op-zoek-naar-cl-wonder-in-kwartfinale-tegen-city",
     "type": "article",
-    "title": "Twee tieners gearresteerd vanwege schietpartij op verjaardagsfeest in Alabama",
+    "title": "Bayern gaat met De Ligt op zoek naar CL-wonder in kwartfinale tegen City",
+    "subtitle": "Liveblog",
+    "published_at": "2023-04-19T20:29:48+02:00",
+    "updated_at": "2023-04-19T20:45:07+02:00",
+    "media_id": "7sux13eany6l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260167/bayern-gaat-met-de-ligt-op-zoek-naar-cl-wonder-in-kwartfinale-tegen-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260172,
+    "slug": "twee-tieners-gearresteerd-om-massaschietpartij-op-sweet-sixteen-in-alabama",
+    "type": "article",
+    "title": "Twee tieners gearresteerd om massaschietpartij op Sweet Sixteen in Alabama",
     "subtitle": null,
     "published_at": "2023-04-19T20:16:50+02:00",
-    "updated_at": "2023-04-19T20:16:52+02:00",
+    "updated_at": "2023-04-19T20:45:46+02:00",
     "media_id": "1t9xtb6ab6pq",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6260172/twee-tieners-gearresteerd-vanwege-schietpartij-op-verjaardagsfeest-in-alabama.html",
+    "url": "/buitenland/6260172/twee-tieners-gearresteerd-om-massaschietpartij-op-sweet-sixteen-in-alabama.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Grote rookwolken trekken over A2 na brand in Utrecht",
     "subtitle": "Video",
     "published_at": "2023-04-19T20:13:20+02:00",
-    "updated_at": "2023-04-19T20:13:21+02:00",
+    "updated_at": "2023-04-19T20:44:58+02:00",
     "media_id": "ipaxv23a6r0z",
     "duration": "0:45",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260150/ten-hag-krijgt-goed-nieuws-topscorer-rashford-kan-tegen-sevilla-rentree-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260149,
-    "slug": "nederland-durft-evacuatie-soedan-nog-niet-aan-maar-zet-wel-vliegtuigen-klaar",
-    "type": "article",
-    "title": "Nederland durft evacuatie Soedan nog niet aan, maar zet wel vliegtuigen klaar",
-    "subtitle": null,
-    "published_at": "2023-04-19T17:23:20+02:00",
-    "updated_at": "2023-04-19T19:48:53+02:00",
-    "media_id": "tw2x08fau5ty",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260149/nederland-durft-evacuatie-soedan-nog-niet-aan-maar-zet-wel-vliegtuigen-klaar.html",
     "open_new_window": false,
     "partner": null
   }
