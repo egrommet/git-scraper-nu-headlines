@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261431,
+    "slug": "dit-zeggen-jullie-over-ouderwets-vakantiegeld-maak-individuele-afspraken",
+    "type": "article",
+    "title": "Dit zeggen jullie over ouderwets vakantiegeld: 'Maak individuele afspraken'",
+    "subtitle": null,
+    "published_at": "2023-04-28T18:30:50+02:00",
+    "updated_at": "2023-04-28T18:30:52+02:00",
+    "media_id": "r8oxs44a032z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6261431/dit-zeggen-jullie-over-ouderwets-vakantiegeld-maak-individuele-afspraken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261439,
     "slug": "nac-gaat-toeschouwers-in-rat-verlegh-stadion-meer-fouilleren-na-gestaakt-duel",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Transavia schrapt ook vluchten in mei en juni door problemen met toestellen",
     "subtitle": null,
     "published_at": "2023-04-28T17:52:48+02:00",
-    "updated_at": "2023-04-28T18:10:06+02:00",
+    "updated_at": "2023-04-28T18:28:25+02:00",
     "media_id": "vnoxj99amxj9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6261408/katy-perry-verliest-van-katie-perry-merchandise-schond-copyright-van-modemerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261409,
-    "slug": "vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken",
-    "type": "article",
-    "title": "Vergoeding voor zorgpersoneel dat door postcovidsyndroom niet meer kan werken",
-    "subtitle": null,
-    "published_at": "2023-04-28T14:49:58+02:00",
-    "updated_at": "2023-04-28T15:21:56+02:00",
-    "media_id": "v8txow2aipyi",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261409/vergoeding-voor-zorgpersoneel-dat-door-postcovidsyndroom-niet-meer-kan-werken.html",
     "open_new_window": false,
     "partner": null
   }
