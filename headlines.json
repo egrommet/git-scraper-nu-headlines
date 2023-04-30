@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261613,
+    "slug": "verstappen-begint-achter-leclerc-als-tweede-aan-gp-azerbeidzjan",
+    "type": "article",
+    "title": "Verstappen begint achter Leclerc als tweede aan GP Azerbeidzjan",
+    "subtitle": "Liveblog F1",
+    "published_at": "2023-04-30T12:12:38+02:00",
+    "updated_at": "2023-04-30T12:12:48+02:00",
+    "media_id": "3oqxgs0aezz6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Azerbeidzjan",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6261613/verstappen-begint-achter-leclerc-als-tweede-aan-gp-azerbeidzjan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261104,
     "slug": "is-drake-nog-de-baas-over-zijn-stem-als-ai-ermee-aan-de-haal-gaat",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Knappe comeback levert opgeleefde Luiten derde plaats op in Zuid-Korea",
     "subtitle": null,
     "published_at": "2023-04-30T11:59:53+02:00",
-    "updated_at": "2023-04-30T11:59:54+02:00",
+    "updated_at": "2023-04-30T12:18:48+02:00",
     "media_id": "yygxh5hazxiy",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6261602,
-    "slug": "de-politie-heeft-nog-geen-idee-wie-achter-de-vele-explosies-in-rotterdam-zit",
+    "slug": "politie-heeft-nog-geen-idee-wie-achter-explosies-rotterdam-zit-wisten-we-het-maar",
     "type": "article",
-    "title": "De politie heeft nog geen idee wie achter de vele explosies in Rotterdam zit",
+    "title": "Politie heeft nog geen idee wie achter explosies Rotterdam zit: ‘Wisten we het maar’",
     "subtitle": null,
     "published_at": "2023-04-30T11:52:52+02:00",
-    "updated_at": "2023-04-30T11:53:50+02:00",
+    "updated_at": "2023-04-30T12:17:30+02:00",
     "media_id": "n19xy79aw007",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6261602/de-politie-heeft-nog-geen-idee-wie-achter-de-vele-explosies-in-rotterdam-zit.html",
+    "url": "/binnenland/6261602/politie-heeft-nog-geen-idee-wie-achter-explosies-rotterdam-zit-wisten-we-het-maar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Slachtoffers massale vechtpartij in steengroeve Maastricht weer thuis",
     "subtitle": null,
     "published_at": "2023-04-30T10:21:59+02:00",
-    "updated_at": "2023-04-30T12:06:48+02:00",
+    "updated_at": "2023-04-30T12:15:37+02:00",
     "media_id": "tuqxekaaf8qf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6261546/bekijk-de-startopstelling-voor-gp-azerbeidzjan-met-leclerc-voor-verstappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261437,
-    "slug": "waarom-de-turkse-presidentsverkiezing-onverwacht-spannend-is",
-    "type": "video",
-    "title": "Waarom de Turkse presidentsverkiezing onverwacht spannend is",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-30T06:28:44+02:00",
-    "updated_at": "2023-04-30T08:00:18+02:00",
-    "media_id": "ilixbaqashtc",
-    "duration": "2:20",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6261437/waarom-de-turkse-presidentsverkiezing-onverwacht-spannend-is.html",
     "open_new_window": false,
     "partner": null
   }
