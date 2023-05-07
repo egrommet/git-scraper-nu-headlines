@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262615,
+    "slug": "scorende-malen-en-haller-houden-dortmund-met-grote-zege-in-spoor-bayern",
+    "type": "article",
+    "title": "Scorende Malen en Haller houden Dortmund met grote zege in spoor Bayern",
+    "subtitle": null,
+    "published_at": "2023-05-07T19:19:09+02:00",
+    "updated_at": "2023-05-07T19:19:11+02:00",
+    "media_id": "vn3xjl1adjfv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6262615/scorende-malen-en-haller-houden-dortmund-met-grote-zege-in-spoor-bayern.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262591,
     "slug": "lezersreacties-op-mannenschaarste-in-kinderopvang-twee-duidelijke-oorzaken",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6262607,
-    "slug": "regen-en-onweer-zorgen-voor-problemen-op-weg-en-spoor-bij-amsterdam",
+    "slug": "problemen-door-regen-en-onweer-op-weg-en-spoor-bij-amsterdam-voorbij",
     "type": "article",
-    "title": "Regen en onweer zorgen voor problemen op weg en spoor bij Amsterdam",
+    "title": "Problemen door regen en onweer op weg en spoor bij Amsterdam voorbij",
     "subtitle": null,
     "published_at": "2023-05-07T17:42:48+02:00",
-    "updated_at": "2023-05-07T17:49:32+02:00",
+    "updated_at": "2023-05-07T19:24:54+02:00",
     "media_id": "ahexd8iaaye4",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6262607/regen-en-onweer-zorgen-voor-problemen-op-weg-en-spoor-bij-amsterdam.html",
+    "url": "/binnenland/6262607/problemen-door-regen-en-onweer-op-weg-en-spoor-bij-amsterdam-voorbij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6262586/nieuwsgierige-zeeleeuw-snuffelt-aan-duiker-in-argentinie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262584,
-    "slug": "juventus-klopt-atalanta-en-nadert-cl-ticket-boadu-belangrijk-voor-monaco",
-    "type": "article",
-    "title": "Juventus klopt Atalanta en nadert CL-ticket, Boadu belangrijk voor Monaco",
-    "subtitle": null,
-    "published_at": "2023-05-07T14:33:14+02:00",
-    "updated_at": "2023-05-07T15:29:20+02:00",
-    "media_id": "2iex64oa2xl8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6262584/juventus-klopt-atalanta-en-nadert-cl-ticket-boadu-belangrijk-voor-monaco.html",
     "open_new_window": false,
     "partner": null
   }
