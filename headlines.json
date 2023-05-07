@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262595,
+    "slug": "feyenoord-kan-volgende-week-kampioen-worden-na-moeizame-zege-op-excelsior",
+    "type": "article",
+    "title": "Feyenoord kan volgende week kampioen worden na moeizame zege op Excelsior",
+    "subtitle": null,
+    "published_at": "2023-05-07T16:21:23+02:00",
+    "updated_at": "2023-05-07T16:21:28+02:00",
+    "media_id": "yn6xi0yav06f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6262595/feyenoord-kan-volgende-week-kampioen-worden-na-moeizame-zege-op-excelsior.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262588,
     "slug": "zinderende-vuelta-ontknoping-van-vleuten-houdt-vollering-9-tellen-achter-zich",
     "type": "article",
     "title": "Zinderende Vuelta-ontknoping: Van Vleuten houdt Vollering 9 tellen achter zich",
     "subtitle": null,
     "published_at": "2023-05-07T15:34:57+02:00",
-    "updated_at": "2023-05-07T16:05:26+02:00",
+    "updated_at": "2023-05-07T16:14:23+02:00",
     "media_id": "f23xxbfa44tc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6262564/mercedes-in-mineur-na-kwalificatie-zesde-plek-niet-iets-om-trots-op-te-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262562,
-    "slug": "russische-schrijver-prilepin-ontwaakt-uit-coma-na-bomaanslag",
-    "type": "article",
-    "title": "Russische schrijver Prilepin ontwaakt uit coma na bomaanslag",
-    "subtitle": null,
-    "published_at": "2023-05-07T11:00:02+02:00",
-    "updated_at": "2023-05-07T11:27:33+02:00",
-    "media_id": "j1zxb5valmor",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6262562/russische-schrijver-prilepin-ontwaakt-uit-coma-na-bomaanslag.html",
     "open_new_window": false,
     "partner": null
   }
