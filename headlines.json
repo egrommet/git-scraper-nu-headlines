@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264443,
+    "slug": "siem-de-jong-neemt-afscheid-met-twee-goals-wist-dat-t-emotioneel-zou-worden",
+    "type": "article",
+    "title": "Siem de Jong neemt afscheid met twee goals: 'Wist dat 't emotioneel zou worden'",
+    "subtitle": null,
+    "published_at": "2023-05-20T09:53:47+02:00",
+    "updated_at": "2023-05-20T10:04:12+02:00",
+    "media_id": "xa3xfvuavq9e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264443/siem-de-jong-neemt-afscheid-met-twee-goals-wist-dat-t-emotioneel-zou-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264442,
     "slug": "syriers-kunnen-beulen-van-assad-regime-tegen-het-lijf-lopen-in-nederland",
     "type": "article",
     "title": "Syriërs kunnen beulen van Assad-regime tegen het lijf lopen in Nederland",
     "subtitle": null,
     "published_at": "2023-05-20T09:41:35+02:00",
-    "updated_at": "2023-05-20T09:41:48+02:00",
+    "updated_at": "2023-05-20T09:45:38+02:00",
     "media_id": "uy7x5haa8h7o",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Kika van Es kondigt afscheid aan, maar hoopt nog op WK met Oranjevrouwen",
     "subtitle": null,
     "published_at": "2023-05-20T08:48:02+02:00",
-    "updated_at": "2023-05-20T09:24:44+02:00",
+    "updated_at": "2023-05-20T10:01:45+02:00",
     "media_id": "l5dx250a62yq",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Topcompetities naderen finish: deze beslissingen kunnen dit weekend vallen",
     "subtitle": null,
     "published_at": "2023-05-20T05:02:42+02:00",
-    "updated_at": "2023-05-20T05:02:43+02:00",
+    "updated_at": "2023-05-20T09:59:16+02:00",
     "media_id": "xwyxu2maudgj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6264423/archeologen-vinden-skelet-van-zevenduizend-jaar-oud-in-polen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264422,
-    "slug": "tweede-dopingzaak-gestart-tegen-halep-om-afwijkingen-in-biologisch-paspoort",
-    "type": "article",
-    "title": "Tweede dopingzaak gestart tegen Halep om afwijkingen in biologisch paspoort",
-    "subtitle": null,
-    "published_at": "2023-05-19T23:31:51+02:00",
-    "updated_at": "2023-05-20T07:54:01+02:00",
-    "media_id": "o4wxoccat40p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6264422/tweede-dopingzaak-gestart-tegen-halep-om-afwijkingen-in-biologisch-paspoort.html",
     "open_new_window": false,
     "partner": null
   }
