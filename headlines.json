@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266120,
+    "slug": "verpleegkundige-die-patienten-zou-hebben-gedood-komt-vrij-blijft-verdachte",
+    "type": "article",
+    "title": "Verpleegkundige die patiënten zou hebben gedood komt vrij, blijft verdachte",
+    "subtitle": null,
+    "published_at": "2023-06-01T16:14:37+02:00",
+    "updated_at": "2023-06-01T16:20:18+02:00",
+    "media_id": "ci5xxqnan12a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266120/verpleegkundige-die-patienten-zou-hebben-gedood-komt-vrij-blijft-verdachte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266139,
     "slug": "nepalese-gids-tilt-onderkoelde-klimmer-op-rug-mount-everest-af",
     "type": "video",
     "title": "Nepalese gids tilt onderkoelde klimmer op rug Mount Everest af",
     "subtitle": "Video",
     "published_at": "2023-06-01T16:11:27+02:00",
-    "updated_at": "2023-06-01T16:11:29+02:00",
+    "updated_at": "2023-06-01T16:17:44+02:00",
     "media_id": "cu2x2t3az5ea",
     "duration": "0:45",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Advocaat Inez Weski vrijgelaten, maar blijft wel verdachte",
     "subtitle": null,
     "published_at": "2023-06-01T16:03:46+02:00",
-    "updated_at": "2023-06-01T16:12:05+02:00",
+    "updated_at": "2023-06-01T16:21:11+02:00",
     "media_id": "nxqxohiacw6o",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Sainz hoopt op ommekeer bij Ferrari door updates: 'Nieuwe weg ingeslagen'",
     "subtitle": null,
     "published_at": "2023-06-01T15:52:38+02:00",
-    "updated_at": "2023-06-01T16:11:20+02:00",
+    "updated_at": "2023-06-01T16:16:45+02:00",
     "media_id": "gsoxwsaahqzl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6266109/psg-coach-bevestigt-vertrek-messi-was-een-voorrecht-om-met-hem-te-werken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266058,
-    "slug": "dit-wilden-jullie-weten-over-de-pensioenwet-hoe-word-ik-gecompenseerd",
-    "type": "article",
-    "title": "Dit wilden jullie weten over de pensioenwet: 'Hoe word ik gecompenseerd?'",
-    "subtitle": "NU+",
-    "published_at": "2023-06-01T13:34:05+02:00",
-    "updated_at": "2023-06-01T13:34:06+02:00",
-    "media_id": "dy6xr5qajrbi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6266058/dit-wilden-jullie-weten-over-de-pensioenwet-hoe-word-ik-gecompenseerd.html",
     "open_new_window": false,
     "partner": null
   }
