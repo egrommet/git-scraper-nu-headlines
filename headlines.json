@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266648,
+    "slug": "stelling-nl-alert-schiet-tekort-als-waarschuwingssysteem",
+    "type": "article",
+    "title": "Stelling: NL-Alert schiet tekort als waarschuwingssysteem",
+    "subtitle": null,
+    "published_at": "2023-06-05T12:18:43+02:00",
+    "updated_at": "2023-06-05T12:18:44+02:00",
+    "media_id": "8vixsneahhmx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6266648/stelling-nl-alert-schiet-tekort-als-waarschuwingssysteem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266640,
     "slug": "recensieoverzicht-harry-styles-betoverend-en-charismatisch-in-arena",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Zlatan Ibrahimovic neemt in tranen afscheid als profvoetballer",
     "subtitle": "Video",
     "published_at": "2023-06-05T11:51:03+02:00",
-    "updated_at": "2023-06-05T11:52:48+02:00",
+    "updated_at": "2023-06-05T12:25:59+02:00",
     "media_id": "kc4x8lea9rkq",
     "duration": "0:53",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6266622/dertig-jaar-na-eerste-hocus-pocus-film-is-deel-drie-in-de-maak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266619,
-    "slug": "real-coach-ancelotti-verrast-door-benzema-was-een-last-minute-beslissing",
-    "type": "article",
-    "title": "Real-coach Ancelotti verrast door Benzema: 'Was een last minute beslissing'",
-    "subtitle": null,
-    "published_at": "2023-06-05T09:35:37+02:00",
-    "updated_at": "2023-06-05T10:05:46+02:00",
-    "media_id": "kdsx45zaeyor",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266619/real-coach-ancelotti-verrast-door-benzema-was-een-last-minute-beslissing.html",
     "open_new_window": false,
     "partner": null
   }
