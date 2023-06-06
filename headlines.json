@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266765,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-06T05:16:45+02:00",
+    "updated_at": "2023-06-06T05:16:47+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6266765/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266664,
     "slug": "rutte-wacht-zwaar-kamerdebat-laatste-kans-om-groningen-recht-te-doen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6266742/lewis-capaldi-blaast-optredens-af-vanwege-mentale-en-fysieke-klachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266739,
-    "slug": "apple-kondigt-ios-17-met-nieuwe-dagboekapp-aan",
-    "type": "article",
-    "title": "Apple kondigt iOS 17 met nieuwe dagboekapp aan",
-    "subtitle": null,
-    "published_at": "2023-06-05T19:48:52+02:00",
-    "updated_at": "2023-06-05T20:20:42+02:00",
-    "media_id": "cp2xg92ae7cn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6266739/apple-kondigt-ios-17-met-nieuwe-dagboekapp-aan.html",
     "open_new_window": false,
     "partner": null
   }
