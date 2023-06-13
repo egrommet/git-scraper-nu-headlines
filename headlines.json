@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267837,
+    "slug": "mbappe-reageert-op-berichten-over-overstap-naar-real-leugens",
+    "type": "article",
+    "title": "Mbappé reageert op berichten over overstap naar Real: 'Leugens'",
+    "subtitle": null,
+    "published_at": "2023-06-13T16:25:15+02:00",
+    "updated_at": "2023-06-13T16:25:16+02:00",
+    "media_id": "bvuxsqxatpwl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6267837/mbappe-reageert-op-berichten-over-overstap-naar-real-leugens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267841,
     "slug": "koeman-bijlow-gaat-keepen-tegen-kroatie",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6267836,
-    "slug": "vier-jaar-cel-voor-man-die-trainer-van-bommel-belaagde-om-contract-bij-antwerp",
+    "slug": "vier-jaar-cel-voor-man-die-trainer-van-bommel-belaagde-om-contract-af-te-dwingen",
     "type": "article",
-    "title": "Vier jaar cel voor man die trainer Van Bommel belaagde om contract bij Antwerp",
+    "title": "Vier jaar cel voor man die trainer Van Bommel belaagde om contract af te dwingen",
     "subtitle": null,
     "published_at": "2023-06-13T15:51:19+02:00",
-    "updated_at": "2023-06-13T16:04:37+02:00",
+    "updated_at": "2023-06-13T16:24:12+02:00",
     "media_id": "378xcira5bm9",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6267836/vier-jaar-cel-voor-man-die-trainer-van-bommel-belaagde-om-contract-bij-antwerp.html",
+    "url": "/voetbal/6267836/vier-jaar-cel-voor-man-die-trainer-van-bommel-belaagde-om-contract-af-te-dwingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Oranje met Bijlow als doelman in halve finale Nations League tegen Kroatië",
     "subtitle": null,
     "published_at": "2023-06-13T15:10:44+02:00",
-    "updated_at": "2023-06-13T16:13:44+02:00",
+    "updated_at": "2023-06-13T16:20:26+02:00",
     "media_id": "oc6x3jpa4aie",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Griekspoor verslaat Ymer opnieuw en bereikt tweede ronde in Rosmalen",
     "subtitle": null,
     "published_at": "2023-06-13T14:58:40+02:00",
-    "updated_at": "2023-06-13T15:08:01+02:00",
+    "updated_at": "2023-06-13T16:17:11+02:00",
     "media_id": "tnhxjwvapktu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6267805/seksuele-handelingen-met-overleden-personen-worden-strafbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267803,
-    "slug": "ake-meldt-zich-dag-voor-start-nations-league-eindronde-onder-applaus-bij-oranje",
-    "type": "article",
-    "title": "Aké meldt zich dag voor start Nations League-eindronde onder applaus bij Oranje",
-    "subtitle": null,
-    "published_at": "2023-06-13T12:54:03+02:00",
-    "updated_at": "2023-06-13T15:39:33+02:00",
-    "media_id": "w8kxfb6axqkh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267803/ake-meldt-zich-dag-voor-start-nations-league-eindronde-onder-applaus-bij-oranje.html",
     "open_new_window": false,
     "partner": null
   }
