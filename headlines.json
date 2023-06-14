@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268008,
+    "slug": "eerste-kamer-voorzitter-bruijn-door-zijn-ambtenaren-beschuldigd-van-wangedrag",
+    "type": "article",
+    "title": "Eerste Kamer-voorzitter Bruijn door zijn ambtenaren beschuldigd van wangedrag",
+    "subtitle": null,
+    "published_at": "2023-06-14T18:24:47+02:00",
+    "updated_at": "2023-06-14T18:29:23+02:00",
+    "media_id": "u7kxeoyavscw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6268008/eerste-kamer-voorzitter-bruijn-door-zijn-ambtenaren-beschuldigd-van-wangedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267982,
     "slug": "italie-neemt-afscheid-van-silvio-berlusconi-tijdens-staatsbegrafenis",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6267984/geredde-migranten-komen-aan-land-met-jacht-na-grieks-bootongeluk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267978,
-    "slug": "nieuwe-overlegronde-landbouwakkoord-op-verzoek-van-lto-opgeschort",
-    "type": "article",
-    "title": "Nieuwe overlegronde landbouwakkoord op verzoek van LTO opgeschort",
-    "subtitle": null,
-    "published_at": "2023-06-14T15:48:28+02:00",
-    "updated_at": "2023-06-14T15:48:29+02:00",
-    "media_id": "7b6xs0dagu6g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6267978/nieuwe-overlegronde-landbouwakkoord-op-verzoek-van-lto-opgeschort.html",
     "open_new_window": false,
     "partner": null
   }
