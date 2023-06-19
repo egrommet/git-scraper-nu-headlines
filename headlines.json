@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268608,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-19T05:17:24+02:00",
+    "updated_at": "2023-06-19T05:17:25+02:00",
+    "media_id": "pynxtntartmr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6268608/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268601,
     "slug": "bijlow-kritisch-na-zeven-tegengoals-in-twee-interlands-natuurlijk-kijk-je-naar-jezelf",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Oranje kon nu nog falen, maar in september is dat problematisch",
     "subtitle": "NU+",
     "published_at": "2023-06-19T04:55:06+02:00",
-    "updated_at": "2023-06-19T05:15:58+02:00",
+    "updated_at": "2023-06-19T05:23:33+02:00",
     "media_id": "cunxj3watgcc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6268588/jakobsen-ergert-zich-aan-gevaarlijk-parcours-in-belgie-vragen-om-problemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268581,
-    "slug": "griekspoor-verovert-titel-in-rosmalen-in-zinderende-finale",
-    "type": "article",
-    "title": "Griekspoor verovert titel in Rosmalen in zinderende finale",
-    "subtitle": null,
-    "published_at": "2023-06-18T20:31:35+02:00",
-    "updated_at": "2023-06-18T21:02:29+02:00",
-    "media_id": "tqoxrqsai23o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6268581/griekspoor-verovert-titel-in-rosmalen-in-zinderende-finale.html",
     "open_new_window": false,
     "partner": null
   }
