@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269148,
+    "slug": "na-een-week-vertraging-ligt-de-nieuwe-haring-nu-toch-in-de-winkels",
+    "type": "article",
+    "title": "Na een week vertraging ligt de nieuwe haring nu toch in de winkels",
+    "subtitle": "In beeld",
+    "published_at": "2023-06-23T10:34:59+02:00",
+    "updated_at": "2023-06-23T10:35:01+02:00",
+    "media_id": "xqtxdf9ad50q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269148/na-een-week-vertraging-ligt-de-nieuwe-haring-nu-toch-in-de-winkels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269277,
+    "slug": "vice-media-wordt-overgenomen-door-vermogensbeheerder",
+    "type": "article",
+    "title": "VICE Media wordt overgenomen door vermogensbeheerder",
+    "subtitle": null,
+    "published_at": "2023-06-23T10:28:52+02:00",
+    "updated_at": "2023-06-23T10:28:54+02:00",
+    "media_id": "5rexg3aa14pm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6269277/vice-media-wordt-overgenomen-door-vermogensbeheerder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269273,
     "slug": "arrestatieteam-haalt-man-die-klokken-luidde-uit-kerktoren-in-meerssen",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Wat wil jij nog weten over het onderzeeërdrama?",
     "subtitle": null,
     "published_at": "2023-06-23T10:09:15+02:00",
-    "updated_at": "2023-06-23T10:14:41+02:00",
+    "updated_at": "2023-06-23T10:31:22+02:00",
     "media_id": "1u3xyima4vuw",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Groenewegen moet Jayco AlUla etappezeges bezorgen in Tour de France",
     "subtitle": null,
     "published_at": "2023-06-23T10:01:30+02:00",
-    "updated_at": "2023-06-23T10:17:26+02:00",
+    "updated_at": "2023-06-23T10:31:09+02:00",
     "media_id": "ap5x1v9az492",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6269250/weerbericht-veel-zon-met-hier-en-daar-een-verdwaalde-wolk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269249,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-06-23T05:15:42+02:00",
-    "updated_at": "2023-06-23T05:15:44+02:00",
-    "media_id": "pynxtntartmr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6269249/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268983,
-    "slug": "kpn-vecht-voor-glasvezel-in-elke-woning-want-vaste-telefoonlijn-verdwijnt",
-    "type": "article",
-    "title": "KPN vecht voor glasvezel in elke woning, want vaste telefoonlijn verdwijnt",
-    "subtitle": "NU+",
-    "published_at": "2023-06-23T05:07:03+02:00",
-    "updated_at": "2023-06-23T09:24:34+02:00",
-    "media_id": "v6sx7graobag",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6268983/kpn-vecht-voor-glasvezel-in-elke-woning-want-vaste-telefoonlijn-verdwijnt.html",
     "open_new_window": false,
     "partner": null
   }
