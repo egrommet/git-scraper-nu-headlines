@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270962,
+    "slug": "tv-en-radiozenders-passen-programmering-aan-voor-nieuws-over-storm-poly",
+    "type": "article",
+    "title": "Tv- en radiozenders passen programmering aan voor nieuws over storm Poly",
+    "subtitle": null,
+    "published_at": "2023-07-05T12:21:15+02:00",
+    "updated_at": "2023-07-05T12:21:17+02:00",
+    "media_id": "z5rxm9fak5lq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778989,
+      "slug": "storm-eunice",
+      "type": "default",
+      "name": "Storm Poly",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/storm-eunice/6270962/tv-en-radiozenders-passen-programmering-aan-voor-nieuws-over-storm-poly.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270965,
     "slug": "bestelwagens-in-zandvoort-liggen-op-hun-kant-door-zomerstorm-poly",
     "type": "video",
     "title": "Bestelwagens in Zandvoort liggen op hun kant door zomerstorm Poly",
     "subtitle": "Video",
     "published_at": "2023-07-05T12:18:59+02:00",
-    "updated_at": "2023-07-05T12:19:01+02:00",
+    "updated_at": "2023-07-05T12:22:58+02:00",
     "media_id": "kcvx0ybayp44",
     "duration": "0:46",
     "canonical_section": {
@@ -29,8 +52,8 @@
     "title": "Dynamisch energiecontract steeds populairder: driemaal zo veel als eind 2022",
     "subtitle": null,
     "published_at": "2023-07-05T12:04:14+02:00",
-    "updated_at": "2023-07-05T12:19:56+02:00",
-    "media_id": "1ycx989a9fxb",
+    "updated_at": "2023-07-05T12:27:44+02:00",
+    "media_id": "8t0xo4par4qv",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -185,12 +208,12 @@
   },
   {
     "id": 6270935,
-    "slug": "ns-betaalt-de-door-storm-poly-gedupeerde-reizigers-wel-terug-maar-arriva-niet",
+    "slug": "door-storm-poly-gedupeerde-treinreizigers-krijgen-geld-terug-van-ns-en-arriva",
     "type": "article",
-    "title": "NS betaalt de door storm Poly gedupeerde reizigers wel terug, maar Arriva niet",
+    "title": "Door storm Poly gedupeerde treinreizigers krijgen geld terug van NS en Arriva",
     "subtitle": null,
     "published_at": "2023-07-05T11:25:21+02:00",
-    "updated_at": "2023-07-05T12:05:27+02:00",
+    "updated_at": "2023-07-05T12:36:14+02:00",
     "media_id": "epbx2lvajaig",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/storm-eunice/6270935/ns-betaalt-de-door-storm-poly-gedupeerde-reizigers-wel-terug-maar-arriva-niet.html",
+    "url": "/storm-eunice/6270935/door-storm-poly-gedupeerde-treinreizigers-krijgen-geld-terug-van-ns-en-arriva.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,8 +305,8 @@
     "title": "Storm Poly eist eerste leven: vrouw in Haarlem overleden door boom op auto",
     "subtitle": null,
     "published_at": "2023-07-05T11:09:48+02:00",
-    "updated_at": "2023-07-05T11:55:12+02:00",
-    "media_id": "tmjxgx2az061",
+    "updated_at": "2023-07-05T12:32:21+02:00",
+    "media_id": "q2yxm79alsv7",
     "duration": null,
     "canonical_section": {
       "id": 1778989,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6270914/storm-poly-raast-over-nederland-en-laat-een-flinke-ravage-achter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270918,
-    "slug": "veiligheidsregio-tuigt-stormliveblog-op-omdat-musk-twitter-heeft-dichtgetrokken",
-    "type": "article",
-    "title": "Veiligheidsregio tuigt stormliveblog op omdat Musk Twitter heeft dichtgetrokken",
-    "subtitle": null,
-    "published_at": "2023-07-05T10:17:38+02:00",
-    "updated_at": "2023-07-05T10:48:08+02:00",
-    "media_id": "irjxm44aqg2n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6270918/veiligheidsregio-tuigt-stormliveblog-op-omdat-musk-twitter-heeft-dichtgetrokken.html",
     "open_new_window": false,
     "partner": null
   }
