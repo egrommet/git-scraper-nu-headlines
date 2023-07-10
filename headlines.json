@@ -1,13 +1,13 @@
 [
   {
     "id": 6271716,
-    "slug": "rutte-ik-ben-komende-verkiezingen-niet-meer-beschikbaar-als-vvd-leider",
+    "slug": "rutte-komende-verkiezingen-niet-meer-beschikbaar-als-vvd-leider-en-verlaat-politiek",
     "type": "article",
-    "title": "Rutte: Ik ben komende verkiezingen niet meer beschikbaar als VVD-leider",
+    "title": "Rutte komende verkiezingen niet meer beschikbaar als VVD-leider en verlaat politiek",
     "subtitle": null,
     "published_at": "2023-07-10T10:21:55+02:00",
-    "updated_at": "2023-07-10T10:22:02+02:00",
-    "media_id": "gvzxkn9akexw",
+    "updated_at": "2023-07-10T10:36:54+02:00",
+    "media_id": "xrrxq9taph3m",
     "duration": null,
     "canonical_section": {
       "id": 100,
@@ -18,30 +18,30 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6271716/rutte-ik-ben-komende-verkiezingen-niet-meer-beschikbaar-als-vvd-leider.html",
+    "url": "/algemeen/6271716/rutte-komende-verkiezingen-niet-meer-beschikbaar-als-vvd-leider-en-verlaat-politiek.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6271713,
-    "slug": "rutte-geeft-verklaring-over-val-kabinet-aansluitend-debat",
+    "slug": "rutte-geeft-verklaring-over-val-kabinet-kamerdebat-volgt-later",
     "type": "video",
-    "title": "Rutte geeft verklaring over val kabinet, aansluitend debat",
+    "title": "Rutte geeft verklaring over val kabinet, Kamerdebat volgt later",
     "subtitle": "Livestream",
     "published_at": "2023-07-10T10:14:03+02:00",
-    "updated_at": "2023-07-10T10:19:11+02:00",
+    "updated_at": "2023-07-10T10:33:33+02:00",
     "media_id": "m9xx1hcaxmnh",
     "duration": "0:01",
     "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
+      "id": 1779274,
+      "slug": "val-kabinet",
       "type": "default",
-      "name": "Politiek",
+      "name": "Val kabinet",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6271713/rutte-geeft-verklaring-over-val-kabinet-aansluitend-debat.html",
+    "url": "/val-kabinet/6271713/rutte-geeft-verklaring-over-val-kabinet-kamerdebat-volgt-later.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +70,12 @@
   },
   {
     "id": 6271674,
-    "slug": "lees-hier-mee-met-verklaring-rutte-en-kamerdebat-over-val-kabinet",
+    "slug": "lees-hier-alles-over-vertrek-rutte-en-kamerdebat-over-val-kabinet",
     "type": "article",
-    "title": "Lees hier mee met verklaring Rutte en Kamerdebat over val kabinet",
+    "title": "Lees hier alles over vertrek Rutte en Kamerdebat over val kabinet",
     "subtitle": "Liveblog",
     "published_at": "2023-07-10T09:47:08+02:00",
-    "updated_at": "2023-07-10T10:16:06+02:00",
+    "updated_at": "2023-07-10T10:34:37+02:00",
     "media_id": "6l2xldia0c55",
     "duration": null,
     "canonical_section": {
@@ -87,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6271674/lees-hier-mee-met-verklaring-rutte-en-kamerdebat-over-val-kabinet.html",
+    "url": "/politiek/6271674/lees-hier-alles-over-vertrek-rutte-en-kamerdebat-over-val-kabinet.html",
     "open_new_window": false,
     "partner": null
   },
