@@ -1,28 +1,5 @@
 [
   {
-    "id": 6271971,
-    "slug": "antivogelpinnen-schrikken-eksters-en-kraaien-niet-af-ze-gebruiken-ze-juist",
-    "type": "article",
-    "title": "'Antivogelpinnen' schrikken eksters en kraaien niet af: ze gebruiken ze juist",
-    "subtitle": null,
-    "published_at": "2023-07-11T20:17:24+02:00",
-    "updated_at": "2023-07-11T20:17:26+02:00",
-    "media_id": "74nx7epaujsw",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6271971/antivogelpinnen-schrikken-eksters-en-kraaien-niet-af-ze-gebruiken-ze-juist.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6271978,
     "slug": "vogel-op-een-tientje-meebesluiten-over-nieuwe-eurobiljetten-kan-weer",
     "type": "article",
@@ -50,9 +27,9 @@
     "slug": "acteur-jonah-hill-beschuldigd-van-emotioneel-misbruiken-ex-dit-speelt-er",
     "type": "article",
     "title": "Acteur Jonah Hill beschuldigd van emotioneel misbruiken ex: dit speelt er",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-07-11T20:01:37+02:00",
-    "updated_at": "2023-07-11T20:17:49+02:00",
+    "updated_at": "2023-07-11T20:09:53+02:00",
     "media_id": "s9tx7sial1tj",
     "duration": null,
     "canonical_section": {
@@ -75,8 +52,8 @@
     "title": "Van der Sar ligt nog altijd op intensive care: 'Hij is in staat te communiceren'",
     "subtitle": null,
     "published_at": "2023-07-11T19:36:05+02:00",
-    "updated_at": "2023-07-11T20:15:52+02:00",
-    "media_id": "r8uxnjfa0899",
+    "updated_at": "2023-07-11T20:07:27+02:00",
+    "media_id": "8j7xmhma8cdg",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/voetbal/6271950/oudste-profvoetballer-ooit-miura-56-gaat-nog-een-jaar-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271942,
+    "slug": "coach-sluiter-ziet-svitolina-stunten-tegen-swiatek-in-kwartfinales-wimbledon",
+    "type": "article",
+    "title": "Coach Sluiter ziet Svitolina stunten tegen Swiatek in kwartfinales Wimbledon",
+    "subtitle": null,
+    "published_at": "2023-07-11T17:41:51+02:00",
+    "updated_at": "2023-07-11T18:10:08+02:00",
+    "media_id": "e72x6vva0dju",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6271942/coach-sluiter-ziet-svitolina-stunten-tegen-swiatek-in-kwartfinales-wimbledon.html",
     "open_new_window": false,
     "partner": null
   }
