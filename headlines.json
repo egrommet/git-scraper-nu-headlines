@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272262,
+    "slug": "koolhof-bereikt-met-brit-skupski-voor-het-eerst-dubbelfinale-wimbledon",
+    "type": "article",
+    "title": "Koolhof bereikt met Brit Skupski voor het eerst dubbelfinale Wimbledon",
+    "subtitle": null,
+    "published_at": "2023-07-13T17:32:12+02:00",
+    "updated_at": "2023-07-13T17:36:25+02:00",
+    "media_id": "sh5xrqcaos0x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6272262/koolhof-bereikt-met-brit-skupski-voor-het-eerst-dubbelfinale-wimbledon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272260,
+    "slug": "afsluitdijk-in-beide-richtingen-gesloten-door-storing-aan-sluis",
+    "type": "article",
+    "title": "Afsluitdijk in beide richtingen gesloten door storing aan sluis",
+    "subtitle": null,
+    "published_at": "2023-07-13T17:27:54+02:00",
+    "updated_at": "2023-07-13T17:42:07+02:00",
+    "media_id": "qazxcrlayuq0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6272260/afsluitdijk-in-beide-richtingen-gesloten-door-storing-aan-sluis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272259,
     "slug": "lizzy-van-der-ligt-ontving-haatberichten-over-aanval-op-straat",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Van der Poel kleurt zinderende Tour-etappe, maar moet zege aan Izagirre laten",
     "subtitle": null,
     "published_at": "2023-07-13T17:18:38+02:00",
-    "updated_at": "2023-07-13T17:25:13+02:00",
+    "updated_at": "2023-07-13T17:40:44+02:00",
     "media_id": "klxx202akdyp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6272224/fifa-betaalt-nederlandse-clubs-6-miljoen-voor-wk-in-qatar-ajax-grootverdiener.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272218,
-    "slug": "viaplay-ziet-inkomsten-flink-dalen-ook-in-nederland-vallen-ontslagen",
-    "type": "article",
-    "title": "Viaplay ziet inkomsten flink dalen, ook in Nederland vallen ontslagen",
-    "subtitle": null,
-    "published_at": "2023-07-13T14:34:45+02:00",
-    "updated_at": "2023-07-13T14:34:46+02:00",
-    "media_id": "bq1xtuqage5v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6272218/viaplay-ziet-inkomsten-flink-dalen-ook-in-nederland-vallen-ontslagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272199,
-    "slug": "legionella-uitbraak-door-cv-ketels-dit-moet-je-erover-weten",
-    "type": "article",
-    "title": "Legionella-uitbraak door cv-ketels: dit moet je erover weten",
-    "subtitle": "NU+",
-    "published_at": "2023-07-13T14:32:22+02:00",
-    "updated_at": "2023-07-13T15:48:58+02:00",
-    "media_id": "71mxxtka0ate",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6272199/legionella-uitbraak-door-cv-ketels-dit-moet-je-erover-weten.html",
     "open_new_window": false,
     "partner": null
   }
