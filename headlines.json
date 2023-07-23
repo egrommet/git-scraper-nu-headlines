@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273614,
+    "slug": "was-het-schadeherstel-van-perez-vijf-conclusies-na-de-gp-van-hongarije",
+    "type": "article",
+    "title": "Was het schadeherstel van Pérez? Vijf conclusies na de GP van Hongarije",
+    "subtitle": "NU+",
+    "published_at": "2023-07-23T19:24:04+02:00",
+    "updated_at": "2023-07-23T19:24:05+02:00",
+    "media_id": "kz5xvvdal0bm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273614/was-het-schadeherstel-van-perez-vijf-conclusies-na-de-gp-van-hongarije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273610,
     "slug": "norris-vernielt-per-ongeluk-verstappens-beker-ter-waarde-van-40000-euro",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6273502/danjuma-kiest-na-mislukt-spurs-avontuur-nu-wel-voor-verhuur-aan-everton.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273590,
-    "slug": "nederlandse-zwemsters-kunnen-met-zesde-plaats-niet-stunten-op-4x100-meter-vrij",
-    "type": "article",
-    "title": "Nederlandse zwemsters kunnen met zesde plaats niet stunten op 4x100 meter vrij",
-    "subtitle": null,
-    "published_at": "2023-07-23T14:06:53+02:00",
-    "updated_at": "2023-07-23T15:06:26+02:00",
-    "media_id": "96kxt8fa2mef",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6273590/nederlandse-zwemsters-kunnen-met-zesde-plaats-niet-stunten-op-4x100-meter-vrij.html",
     "open_new_window": false,
     "partner": null
   }
