@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274458,
+    "slug": "vollering-kreeg-op-slotklim-vleugels-van-familie-en-vrienden-gaf-me-wat-afleiding",
+    "type": "article",
+    "title": "Vollering kreeg op slotklim vleugels van familie en vrienden: 'Gaf me wat afleiding'",
+    "subtitle": null,
+    "published_at": "2023-07-29T20:19:13+02:00",
+    "updated_at": "2023-07-29T20:22:30+02:00",
+    "media_id": "lgmx10waieoe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6274458/vollering-kreeg-op-slotklim-vleugels-van-familie-en-vrienden-gaf-me-wat-afleiding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274104,
     "slug": "zanger-jason-aldean-verdeelt-verenigde-staten-met-omstreden-countryhit",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6274459,
-    "slug": "ado-haalt-met-fc-volendam-spits-henk-veerman-vervanger-van-topscorer-verheydt",
+    "slug": "ado-haalt-met-fc-volendam-spits-veerman-vervanger-van-topscorer-verheydt",
     "type": "article",
-    "title": "ADO haalt met FC Volendam-spits Henk Veerman vervanger van topscorer Verheydt",
+    "title": "ADO haalt met FC Volendam-spits Veerman vervanger van topscorer Verheydt",
     "subtitle": null,
     "published_at": "2023-07-29T20:12:02+02:00",
-    "updated_at": "2023-07-29T20:14:25+02:00",
+    "updated_at": "2023-07-29T20:22:54+02:00",
     "media_id": "571x1ddag71f",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6274459/ado-haalt-met-fc-volendam-spits-henk-veerman-vervanger-van-topscorer-verheydt.html",
+    "url": "/voetbal/6274459/ado-haalt-met-fc-volendam-spits-veerman-vervanger-van-topscorer-verheydt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6274437/chinezen-glijden-richting-gat-in-kapotte-waterglijbaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274435,
-    "slug": "arantxa-rus-boekt-in-hamburg-haar-grootste-toernooizege-ooit-en-bereikt-top-50",
-    "type": "article",
-    "title": "Arantxa Rus boekt in Hamburg haar grootste toernooizege ooit en bereikt top 50",
-    "subtitle": null,
-    "published_at": "2023-07-29T15:28:30+02:00",
-    "updated_at": "2023-07-29T18:25:49+02:00",
-    "media_id": "g3fx4szaky60",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6274435/arantxa-rus-boekt-in-hamburg-haar-grootste-toernooizege-ooit-en-bereikt-top-50.html",
     "open_new_window": false,
     "partner": null
   }
