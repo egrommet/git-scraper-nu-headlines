@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274900,
+    "slug": "james-blunt-brengt-na-vier-jaar-een-nieuw-album-uit",
+    "type": "article",
+    "title": "James Blunt brengt na vier jaar een nieuw album uit",
+    "subtitle": null,
+    "published_at": "2023-08-02T11:13:06+02:00",
+    "updated_at": "2023-08-02T11:13:07+02:00",
+    "media_id": "copx6i1azqq1",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6274900/james-blunt-brengt-na-vier-jaar-een-nieuw-album-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274902,
     "slug": "dashcam-filmt-hoe-raket-vlak-voor-auto-inslaat-in-donetsk",
     "type": "video",
     "title": "Dashcam filmt hoe raket vlak voor auto inslaat in Donetsk",
     "subtitle": "Video",
     "published_at": "2023-08-02T11:12:21+02:00",
-    "updated_at": "2023-08-02T11:12:22+02:00",
+    "updated_at": "2023-08-02T11:14:12+02:00",
     "media_id": "zu4x8ceaax1a",
     "duration": "0:46",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6274867/undercover-actrice-nazmiye-oral-te-zien-in-film-met-hollywoodster-gerard-butler.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274868,
-    "slug": "supermaan-zorgt-wereldwijd-voor-wonderschone-plaatjes",
-    "type": "video",
-    "title": "Supermaan zorgt wereldwijd voor wonderschone plaatjes",
-    "subtitle": "Video",
-    "published_at": "2023-08-02T07:39:28+02:00",
-    "updated_at": "2023-08-02T07:42:32+02:00",
-    "media_id": "p8kxp7ia937w",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6274868/supermaan-zorgt-wereldwijd-voor-wonderschone-plaatjes.html",
     "open_new_window": false,
     "partner": null
   }
