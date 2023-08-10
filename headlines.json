@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275982,
+    "slug": "tottenham-en-bayern-voor-meer-dan-100-miljoen-euro-toch-akkoord-over-kane",
+    "type": "article",
+    "title": "Tottenham en Bayern voor meer dan 100 miljoen euro tóch akkoord over Kane",
+    "subtitle": null,
+    "published_at": "2023-08-10T12:34:43+02:00",
+    "updated_at": "2023-08-10T12:34:44+02:00",
+    "media_id": "3nnxku6a7x2x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275982/tottenham-en-bayern-voor-meer-dan-100-miljoen-euro-toch-akkoord-over-kane.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275980,
     "slug": "echtpaar-uit-bekroonde-indiase-netflix-film-klaagt-filmmakers-aan",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6275956/duikvlucht-russische-roebel-even-voorbij-na-ingreep-centrale-bank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275953,
-    "slug": "proces-tegen-wapensmid-van-filmset-rust-begint-op-6-december",
-    "type": "article",
-    "title": "Proces tegen wapensmid van filmset Rust begint op 6 december",
-    "subtitle": null,
-    "published_at": "2023-08-10T10:09:28+02:00",
-    "updated_at": "2023-08-10T10:14:33+02:00",
-    "media_id": "z02x4h8a0mqe",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6275953/proces-tegen-wapensmid-van-filmset-rust-begint-op-6-december.html",
     "open_new_window": false,
     "partner": null
   }
