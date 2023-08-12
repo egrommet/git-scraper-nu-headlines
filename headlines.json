@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276322,
+    "slug": "ajax-en-steijn-boeken-na-prachtgoal-medic-zwaarbevochten-zege-op-heracles",
+    "type": "article",
+    "title": "Ajax en Steijn boeken na prachtgoal Medic zwaarbevochten zege op Heracles",
+    "subtitle": null,
+    "published_at": "2023-08-12T22:11:09+02:00",
+    "updated_at": "2023-08-12T22:14:47+02:00",
+    "media_id": "cfcxdktay35n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276322/ajax-en-steijn-boeken-na-prachtgoal-medic-zwaarbevochten-zege-op-heracles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276320,
     "slug": "dode-en-gewonden-bij-frontale-autobotsing-in-overijsselse-markelo",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6276299/badgasten-blijven-kalm-bij-het-zien-van-oekraiense-aanval-op-krimbrug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276297,
-    "slug": "van-der-poel-kan-unieke-trilogie-vergeten-na-vroege-val-op-wk-mountainbike",
-    "type": "article",
-    "title": "Van der Poel kan unieke trilogie vergeten na vroege val op WK mountainbike",
-    "subtitle": null,
-    "published_at": "2023-08-12T16:39:15+02:00",
-    "updated_at": "2023-08-12T20:47:01+02:00",
-    "media_id": "gjvx906aau0e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6276297/van-der-poel-kan-unieke-trilogie-vergeten-na-vroege-val-op-wk-mountainbike.html",
     "open_new_window": false,
     "partner": null
   }
