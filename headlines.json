@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276495,
+    "slug": "ajax-met-reserves-berghuis-forbs-en-klaassen-onderuit-in-oefenduel-met-go-ahead",
+    "type": "article",
+    "title": "Ajax met reserves Berghuis, Forbs en Klaassen onderuit in oefenduel met Go Ahead",
+    "subtitle": null,
+    "published_at": "2023-08-14T16:10:07+02:00",
+    "updated_at": "2023-08-14T16:10:09+02:00",
+    "media_id": "qhrx6j5ar7m7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276495/ajax-met-reserves-berghuis-forbs-en-klaassen-onderuit-in-oefenduel-met-go-ahead.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276492,
+    "slug": "stelling-de-basisbeurs-moet-aan-de-koopkracht-gekoppeld-worden",
+    "type": "article",
+    "title": "Stelling: De basisbeurs moet aan de koopkracht gekoppeld worden",
+    "subtitle": "Stelling",
+    "published_at": "2023-08-14T15:56:32+02:00",
+    "updated_at": "2023-08-14T16:01:04+02:00",
+    "media_id": "o15x2wwabjy1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6276492/stelling-de-basisbeurs-moet-aan-de-koopkracht-gekoppeld-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276493,
     "slug": "modderstroom-raast-door-noord-italiaans-dorp",
     "type": "video",
@@ -236,8 +282,8 @@
     "title": "Voorlopig geen vliegverkeer naar Catania op Sicilië door uitbarsting Etna",
     "subtitle": null,
     "published_at": "2023-08-14T13:32:08+02:00",
-    "updated_at": "2023-08-14T15:38:24+02:00",
-    "media_id": "n9zxmkta98az",
+    "updated_at": "2023-08-14T16:00:54+02:00",
+    "media_id": "45nxaupaurjy",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6276461/te-vroeg-geboren-kind-van-radio-dj-paul-rabbering-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276460,
-    "slug": "hockeysters-gaan-met-drie-toernooidebutanten-voor-titelprolongatie-op-ek",
-    "type": "article",
-    "title": "Hockeysters gaan met drie toernooidebutanten voor titelprolongatie op EK",
-    "subtitle": null,
-    "published_at": "2023-08-14T12:12:22+02:00",
-    "updated_at": "2023-08-14T15:16:11+02:00",
-    "media_id": "enix33pae83x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6276460/hockeysters-gaan-met-drie-toernooidebutanten-voor-titelprolongatie-op-ek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276457,
-    "slug": "amerikaanse-agent-bedwelmd-tijdens-drugscontrole",
-    "type": "video",
-    "title": "Amerikaanse agent bedwelmd tijdens drugscontrole",
-    "subtitle": "Video",
-    "published_at": "2023-08-14T11:46:04+02:00",
-    "updated_at": "2023-08-14T13:48:02+02:00",
-    "media_id": "6k7xwpqazvc3",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6276457/amerikaanse-agent-bedwelmd-tijdens-drugscontrole.html",
     "open_new_window": false,
     "partner": null
   }
