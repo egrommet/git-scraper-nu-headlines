@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276831,
+    "slug": "britney-spears-en-sam-asghari-gescheiden-na-huwelijk-van-14-maanden",
+    "type": "article",
+    "title": "Britney Spears en Sam Asghari gescheiden na huwelijk van 14 maanden",
+    "subtitle": null,
+    "published_at": "2023-08-17T07:25:37+02:00",
+    "updated_at": "2023-08-17T07:25:38+02:00",
+    "media_id": "4emxc2uaspg3",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6276831/britney-spears-en-sam-asghari-gescheiden-na-huwelijk-van-14-maanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276823,
-    "slug": "waarom-poetin-al-weken-zijn-drones-richt-op-oekraiense-graansilos",
+    "slug": "waarom-poetin-zijn-drones-al-weken-op-oekraiense-graansilos-richt",
     "type": "video",
-    "title": "Waarom Poetin al weken zijn drones richt op Oekraïense graansilo's",
+    "title": "Waarom Poetin zijn drones al weken op Oekraïense graansilo's richt",
     "subtitle": "Explainer",
     "published_at": "2023-08-17T06:37:21+02:00",
-    "updated_at": "2023-08-17T06:37:22+02:00",
+    "updated_at": "2023-08-17T07:17:45+02:00",
     "media_id": "kpixpw0acoig",
     "duration": "2:16",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6276823/waarom-poetin-al-weken-zijn-drones-richt-op-oekraiense-graansilos.html",
+    "url": "/buitenland/6276823/waarom-poetin-zijn-drones-al-weken-op-oekraiense-graansilos-richt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Weerbericht: Bewolking en soms een bui",
     "subtitle": null,
     "published_at": "2023-08-17T05:52:17+02:00",
-    "updated_at": "2023-08-17T06:51:30+02:00",
+    "updated_at": "2023-08-17T07:24:58+02:00",
     "media_id": "bwcxl93atp0q",
     "duration": null,
     "canonical_section": {
@@ -52,19 +75,19 @@
     "title": "Natuurbrand op Tenerife verspreidt zich verder, brandweer is controle kwijt",
     "subtitle": null,
     "published_at": "2023-08-17T05:47:17+02:00",
-    "updated_at": "2023-08-17T07:05:08+02:00",
+    "updated_at": "2023-08-17T07:15:03+02:00",
     "media_id": "xbux759a5vdo",
     "duration": null,
     "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
+      "id": 1771436,
+      "slug": "buitenland",
       "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
       "partner": null
     },
-    "url": "/klimaat/6276826/natuurbrand-op-tenerife-verspreidt-zich-verder-brandweer-is-controle-kwijt.html",
+    "url": "/buitenland/6276826/natuurbrand-op-tenerife-verspreidt-zich-verder-brandweer-is-controle-kwijt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Natuurbrand bedreigt Canadese stad, 20.000 inwoners worden geëvacueerd",
     "subtitle": null,
     "published_at": "2023-08-17T05:43:07+02:00",
-    "updated_at": "2023-08-17T06:55:59+02:00",
+    "updated_at": "2023-08-17T07:15:50+02:00",
     "media_id": "6ctx73mad7p5",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-08-17T05:21:50+02:00",
-    "updated_at": "2023-08-17T05:21:50+02:00",
+    "updated_at": "2023-08-17T07:25:12+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Italië houdt klopjacht op Nederlander (21) die vader zou hebben doodgestoken",
     "subtitle": null,
     "published_at": "2023-08-17T00:10:52+02:00",
-    "updated_at": "2023-08-17T07:09:29+02:00",
+    "updated_at": "2023-08-17T07:18:03+02:00",
     "media_id": "br9xh0cazeqd",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Manchester City verovert Europese Super Cup na penalty's tegen Sevilla",
     "subtitle": null,
     "published_at": "2023-08-16T23:09:39+02:00",
-    "updated_at": "2023-08-17T07:00:15+02:00",
+    "updated_at": "2023-08-17T07:26:22+02:00",
     "media_id": "ljcx6hiaknio",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6276810/vier-complete-parkeerautomaten-gestolen-in-tiel-twee-andere-vernield.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276808,
-    "slug": "medewerker-british-museum-ontslagen-nadat-historische-voorwerpen-verdwijnen",
-    "type": "article",
-    "title": "Medewerker British Museum ontslagen nadat historische voorwerpen verdwijnen",
-    "subtitle": null,
-    "published_at": "2023-08-16T20:12:36+02:00",
-    "updated_at": "2023-08-17T05:37:35+02:00",
-    "media_id": "oy6xl4oaq3we",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6276808/medewerker-british-museum-ontslagen-nadat-historische-voorwerpen-verdwijnen.html",
     "open_new_window": false,
     "partner": null
   }
