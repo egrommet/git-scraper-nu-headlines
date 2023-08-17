@@ -1,13 +1,59 @@
 [
   {
+    "id": 6276971,
+    "slug": "arbitragecommissie-doet-binnen-week-uitspraak-in-zaak-eiting",
+    "type": "article",
+    "title": "Arbitragecommissie doet binnen week uitspraak in zaak-Eiting",
+    "subtitle": null,
+    "published_at": "2023-08-17T23:42:47+02:00",
+    "updated_at": "2023-08-17T23:42:48+02:00",
+    "media_id": "qbwxs33ax609",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276971/arbitragecommissie-doet-binnen-week-uitspraak-in-zaak-eiting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276968,
+    "slug": "nederland-kan-omhoogkijken-op-coefficientenlijst-portugal-al-twee-troeven-kwijt",
+    "type": "article",
+    "title": "Nederland kan omhoogkijken op coëfficiëntenlijst: Portugal al twee troeven kwijt",
+    "subtitle": null,
+    "published_at": "2023-08-17T23:27:00+02:00",
+    "updated_at": "2023-08-17T23:34:10+02:00",
+    "media_id": "wrcxgllaa0rb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276968/nederland-kan-omhoogkijken-op-coefficientenlijst-portugal-al-twee-troeven-kwijt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276970,
     "slug": "vs-geeft-nederland-en-denemarken-toestemming-om-f-16s-aan-oekraine-te-leveren",
     "type": "article",
     "title": "VS geeft Nederland en Denemarken toestemming om F-16's aan Oekraïne te leveren",
     "subtitle": null,
     "published_at": "2023-08-17T23:20:33+02:00",
-    "updated_at": "2023-08-17T23:25:59+02:00",
-    "media_id": "36uxee6ad5rj",
+    "updated_at": "2023-08-17T23:43:47+02:00",
+    "media_id": "itcxg85ayh8q",
     "duration": null,
     "canonical_section": {
       "id": 1778980,
@@ -47,12 +93,12 @@
   },
   {
     "id": 6276960,
-    "slug": "tadic-en-szymanski-goud-waard-voor-twente-opponent-fener-in-onderbroken-duel",
+    "slug": "tadic-en-szymanski-belangrijk-voor-twente-opponent-fener-in-onderbroken-duel",
     "type": "article",
-    "title": "Tadic en Szymanski goud waard voor Twente-opponent 'Fener' in onderbroken duel",
+    "title": "Tadic en Szymanski belangrijk voor Twente-opponent Fener in onderbroken duel",
     "subtitle": null,
     "published_at": "2023-08-17T22:42:38+02:00",
-    "updated_at": "2023-08-17T23:14:19+02:00",
+    "updated_at": "2023-08-17T23:29:14+02:00",
     "media_id": "rw9x2chadww7",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276960/tadic-en-szymanski-goud-waard-voor-twente-opponent-fener-in-onderbroken-duel.html",
+    "url": "/voetbal/6276960/tadic-en-szymanski-belangrijk-voor-twente-opponent-fener-in-onderbroken-duel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6276586/nieuwe-heliumster-ontdekt-die-mysterieus-ontstaan-van-magneetsterren-verklaart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276948,
-    "slug": "nederlander-26-opgepakt-voor-bewusteloos-schoppen-duitse-toerist-op-mallorca",
-    "type": "article",
-    "title": "Nederlander (26) opgepakt voor bewusteloos schoppen Duitse toerist op Mallorca",
-    "subtitle": null,
-    "published_at": "2023-08-17T19:53:10+02:00",
-    "updated_at": "2023-08-17T21:16:46+02:00",
-    "media_id": "kfwxwknayypl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276948/nederlander-26-opgepakt-voor-bewusteloos-schoppen-duitse-toerist-op-mallorca.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276946,
-    "slug": "italie-vergroot-zoekgebied-in-klopjacht-op-nederlander-21-die-vader-doodstak",
-    "type": "article",
-    "title": "Italië vergroot zoekgebied in klopjacht op Nederlander (21) die vader doodstak",
-    "subtitle": null,
-    "published_at": "2023-08-17T19:18:00+02:00",
-    "updated_at": "2023-08-17T20:20:08+02:00",
-    "media_id": "1t1xwmlajaxq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276946/italie-vergroot-zoekgebied-in-klopjacht-op-nederlander-21-die-vader-doodstak.html",
     "open_new_window": false,
     "partner": null
   }
